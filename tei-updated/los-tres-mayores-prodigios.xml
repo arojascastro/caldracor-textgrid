@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-13">
           <time when="13:22:03"/>
@@ -38,10 +42,13 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">los-tres-mayores-prodigios</idno></publicationStmt>
+        <idno type="caldracor">los-tres-mayores-prodigios</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Los tres mayores prodigios. En: Comedias, Vol. 2. Dirección de Luis Iglesias Feijoo y Santiago Fernández Mosquera. Madrid : Fundación José Antonio de Castro, 2007</title>
+          <title>Pedro Calderón de la Barca, Los tres mayores prodigios. En: Comedias, Vol. 2.
+            Dirección de Luis Iglesias Feijoo y Santiago Fernández Mosquera. Madrid : Fundación José
+            Antonio de Castro, 2007</title>
           <idno type="ISBN">978-84-96452-36-7</idno>
         </bibl>
       </sourceDesc>
@@ -164,17 +171,33 @@
           <term source="dracor" type="genreTitle">comedia mitológica</term>
           <term source="#kroll" type="main">comedia mitológica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1636"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1636"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -240,7 +263,8 @@
       <div type="act" n="1">
         <head rend="caps">Primera Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Cantan dentro, y sale Medea como escuchando y con ella Astrea, Sirene y Libia.</stage>
+          <stage>Cantan dentro, y sale Medea como escuchando y con ella Astrea, Sirene y
+            Libia.</stage>
           <sp who="#músicos">
             <speaker rend="caps">Músicos</speaker>
 
@@ -292,7 +316,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="2">
-          <stage>Suenan chirimías y sale todo el acompañamiento, y detrás el Rey y Absinto, príncipe de Colcos, y luego Friso, galán, y delante de él trae una en una fuente el vellón de oro.</stage>
+          <stage>Suenan chirimías y sale todo el acompañamiento, y detrás el Rey y Absinto, príncipe
+            de Colcos, y luego Friso, galán, y delante de él trae una en una fuente el vellón de
+            oro.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
@@ -1007,7 +1033,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Pónense ellas con arcos y ellos con las espadas, y sale Jasón y gente. Dentro</stage>
+          <stage>Pónense ellas con arcos y ellos con las espadas, y sale Jasón y gente.
+            Dentro</stage>
           <sp who="#jasón">
             <speaker rend="caps">Jasón</speaker>
 
@@ -2841,7 +2868,8 @@
       <div type="act" n="2">
         <head rend="caps">Segunda Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Salen en el tablado de mano izquierda, huyendo, Fedra y Ariadna y Flora, y detrás, envainando la espada, Teseo y Pantuflo, gracioso.</stage>
+          <stage>Salen en el tablado de mano izquierda, huyendo, Fedra y Ariadna y Flora, y detrás,
+            envainando la espada, Teseo y Pantuflo, gracioso.</stage>
           <sp who="#ariadna">
             <speaker rend="caps">Ariadna</speaker>
 
@@ -3604,7 +3632,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage>Llévanlos y sale Minos, viejo, y Dédalo y soldados, marchando por otra parte.</stage>
+          <stage>Llévanlos y sale Minos, viejo, y Dédalo y soldados, marchando por otra
+            parte.</stage>
           <sp who="#minos">
             <speaker rend="caps">Minos</speaker>
 
@@ -4858,7 +4887,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="24">
-          <stage>Vase. Vuelven a salir a escuras, siguiéndose por el hilo de oro Teseo y Pantuflo.</stage>
+          <stage>Vase. Vuelven a salir a escuras, siguiéndose por el hilo de oro Teseo y
+            Pantuflo.</stage>
           <sp who="#teseo">
             <speaker rend="caps">Teseo</speaker>
 
@@ -5201,7 +5231,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="27">
-          <stage>Dentro y sale luego Libio; Teseo y Pantuflo entran por una puerta y salen por otra.</stage>
+          <stage>Dentro y sale luego Libio; Teseo y Pantuflo entran por una puerta y salen por
+            otra.</stage>
           <sp who="#libio">
             <speaker rend="caps">Libio</speaker>
 
@@ -6112,7 +6143,8 @@
       <div type="act" n="3">
         <head rend="caps">Tercera Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Dentro voces y salen huyendo Anfriso, Licas, Danteo, Narcisa, Laura, Nise, Clarín y Clorinda, villanos, y tras ellos Hércules.</stage>
+          <stage>Dentro voces y salen huyendo Anfriso, Licas, Danteo, Narcisa, Laura, Nise, Clarín y
+            Clorinda, villanos, y tras ellos Hércules.</stage>
           <sp who="#danteo">
             <speaker rend="caps">Danteo</speaker>
 
@@ -7316,7 +7348,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Neso coge a Deyanira en brazos y se entra y, al seguillos Hércules, salen el príncipe Floro y Licas y criados.</stage>
+          <stage>Neso coge a Deyanira en brazos y se entra y, al seguillos Hércules, salen el
+            príncipe Floro y Licas y criados.</stage>
           <sp who="#floro">
             <speaker rend="caps">Floro</speaker>
 
@@ -8257,7 +8290,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <stage>Sale toda la compañía con guirnaldas y ramas y con instrumentos, y detrás Floro y Hércules, y trae vestido las pieles de Neso.</stage>
+          <stage>Sale toda la compañía con guirnaldas y ramas y con instrumentos, y detrás Floro y
+            Hércules, y trae vestido las pieles de Neso.</stage>
           <sp who="#músicos">
             <speaker rend="caps">Músicos</speaker>
 
@@ -8345,7 +8379,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="17">
-          <stage>Suene, mientras cantan, un clarín en el tablado del mar y cajas en el de la tierra.</stage>
+          <stage>Suene, mientras cantan, un clarín en el tablado del mar y cajas en el de la
+            tierra.</stage>
           <sp who="#floro">
             <speaker rend="caps">Floro</speaker>
 
@@ -8410,7 +8445,9 @@
             <l>Pues con salva nos saludan,</l>
             <l>respondámoslos con salva.</l>
           </sp>
-          <stage>Cantan en el tablado de en medio, y por los otros dos van saliendo en orden las dos compañías, hombre y mujer, cada una en el tablado donde representó, al son de cajas y trompetas.</stage>
+          <stage>Cantan en el tablado de en medio, y por los otros dos van saliendo en orden las dos
+            compañías, hombre y mujer, cada una en el tablado donde representó, al son de cajas y
+            trompetas.</stage>
           <sp who="#músicos">
             <speaker rend="caps">Músicos</speaker>
 
@@ -8678,7 +8715,8 @@
 
             <l>Toca y marcha.</l>
           </sp>
-          <stage>Aquí se juntan los tres tablados, y pasan marchando al son de trompetas y cajas, y al mismo tiempo cantan.</stage>
+          <stage>Aquí se juntan los tres tablados, y pasan marchando al son de trompetas y cajas, y
+            al mismo tiempo cantan.</stage>
           <sp who="#floro">
             <speaker rend="caps">Floro</speaker>
 

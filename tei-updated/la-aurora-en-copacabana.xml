@@ -19,11 +19,15 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <date when="2019-05-17">
           <time when="17:21:41"/>
         </date>
@@ -34,13 +38,18 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">la-aurora-en-copacabana</idno></publicationStmt>
+        <idno type="caldracor">la-aurora-en-copacabana</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/la-aurora-en-copacabana--0/html/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/la-aurora-en-copacabana--0/html/</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de Cuarta parte de Comedias de Don Pedro Calderón de la Barca, Madrid, Por Bernardo de Hervada. A costa de Antonio de la Fuente, 1674. Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros</title>
+            <title>Edición digital a partir de Cuarta parte de Comedias de Don Pedro Calderón de la
+              Barca, Madrid, Por Bernardo de Hervada. A costa de Antonio de la Fuente, 1674.
+              Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por
+              Evangelina Rodríguez Cuadros</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -169,17 +178,33 @@
           <term source="dracor" type="genreTitle">drama religioso</term>
           <term source="#kroll" type="main">comedia religiosa</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1674"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1674"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -191,7 +216,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000024" passive="http://www.wikidata.org/entity/Q5965749"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000024"
+        passive="http://www.wikidata.org/entity/Q5965749"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -229,7 +255,9 @@
     <body>
       <div type="act" n="1">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Dentro instrumentos y voces, y salen en tropa todos los que puedan vestidos de indios, cantando y bailando YUPANGUÍ, indio galán, un SACERDOTE, GLAUCA y TUCAPEL, y detrás de todos GUÁSCAR INGA, rey, todos con arcos y flechas.</stage>
+          <stage>Dentro instrumentos y voces, y salen en tropa todos los que puedan vestidos de
+            indios, cantando y bailando YUPANGUÍ, indio galán, un SACERDOTE, GLAUCA y TUCAPEL, y
+            detrás de todos GUÁSCAR INGA, rey, todos con arcos y flechas.</stage>
           <sp who="#yupanguí">
             <speaker>YUPANGUÍ</speaker>
             <l>En el venturoso día</l>
@@ -684,7 +712,8 @@
             <l>¿Qué esperáis, cuando ya expuesta</l>
             <l part="I">al tiro está?</l>
           </sp>
-          <stage>Al disparar ellos al vestuario, disparan dentro una pieza, y todos se espantan.</stage>
+          <stage>Al disparar ellos al vestuario, disparan dentro una pieza, y todos se
+            espantan.</stage>
           <sp who="#acompañamiento">
             <speaker>VOCES</speaker>
             <stage>Dentro.</stage>
@@ -1433,7 +1462,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="10">
-          <stage>Vase y sale la IDOLATRÍA vestida de negro, con estrellas, espada, plumas y bengala.</stage>
+          <stage>Vase y sale la IDOLATRÍA vestida de negro, con estrellas, espada, plumas y
+            bengala.</stage>
           <sp who="#idolatría">
             <speaker>IDOLATRÍA</speaker>
             <l>Primero que ese día</l>
@@ -2496,7 +2526,8 @@
             <l n="1260">Ya has visto el centro del monte</l>
             <l>pues pasa de extremo a extremo</l>
             <l>y mira ahora la cumbre.</l>
-            <stage>Va saliendo por lo alto del peñasco un sol, y tras él un trono dorado con rayos, y en su araceli GUÁSCAR ricamente vestido con corona y cetro.</stage>
+            <stage>Va saliendo por lo alto del peñasco un sol, y tras él un trono dorado con rayos,
+              y en su araceli GUÁSCAR ricamente vestido con corona y cetro.</stage>
             <l part="I">¿Qué ves en ella?</l>
           </sp>
           <sp who="#guáscar-inga">
@@ -3131,7 +3162,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage>Con esta repetición, sonando a una parte el rebato y en otra la marcha, sale INGA con los INDIOS que pueda, armados a su modo y el SACERDOTE.</stage>
+          <stage>Con esta repetición, sonando a una parte el rebato y en otra la marcha, sale INGA
+            con los INDIOS que pueda, armados a su modo y el SACERDOTE.</stage>
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
             <l>Supuesto que ya la noche</l>
@@ -3879,7 +3911,11 @@
             <l n="605">a ser dulces armonías</l>
             <l>de sonoras voces blandas.]</l>
           </sp>
-          <stage>Tocan las chirimías, y baja de la alto, donde estará la música, una nube hecha trono, pintado de serafínes, y en ella dos ángeles, que traen la imagen de Nuestra Señora de Copacabana, con el Niño en las manos. Y al tiempo que empieza a descubrirse, y todo lo que dura el paso, hasta desaparecerse, estará nevando la nube, y todo lo alto del tablado.</stage>
+          <stage>Tocan las chirimías, y baja de la alto, donde estará la música, una nube hecha
+            trono, pintado de serafínes, y en ella dos ángeles, que traen la imagen de Nuestra
+            Señora de Copacabana, con el Niño en las manos. Y al tiempo que empieza a descubrirse, y
+            todo lo que dura el paso, hasta desaparecerse, estará nevando la nube, y todo lo alto
+            del tablado.</stage>
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
             <l>No es eso, no es eso solo</l>
@@ -4043,7 +4079,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="22">
-          <stage>Con esta repetición han de sonar a un tiempo las cajas y trompetas, la MÚSICA y la representación y sale la IDOLATRÍA como oyendo a lo lejos, y repitiendo con todos las voces.</stage>
+          <stage>Con esta repetición han de sonar a un tiempo las cajas y trompetas, la MÚSICA y la
+            representación y sale la IDOLATRÍA como oyendo a lo lejos, y repitiendo con todos las
+            voces.</stage>
           <sp who="#idolatría">
             <speaker>IDOLATRÍA</speaker>
             <l>¿Que el que pone en María las esperanzas</l>
@@ -4690,7 +4728,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="29">
-          <stage>Al entrarse diciendo estos versos, sale oyéndolos GUÁSCAR, el SACERDOTE, los villanos y todos los INDIOS que pudieren.</stage>
+          <stage>Al entrarse diciendo estos versos, sale oyéndolos GUÁSCAR, el SACERDOTE, los
+            villanos y todos los INDIOS que pudieren.</stage>
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
             <l part="F">No era</l>
@@ -5179,7 +5218,8 @@
             <speaker>YUPANGUÍ</speaker>
             <l part="F">...tú me vale.</l>
           </sp>
-          <stage>Desaparecen los dos en los dos árboles, y suenan truenos y ruido de terremoto.</stage>
+          <stage>Desaparecen los dos en los dos árboles, y suenan truenos y ruido de
+            terremoto.</stage>
           <sp who="#guáscar-inga">
             <speaker>INGA</speaker>
             <l>¿Qué aguardáis? Disparad, digo.</l>
@@ -5271,7 +5311,8 @@
       </div>
       <div type="act" n="3">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Tocan las chirimías y sale por una parte DON LORENZO DE MENDOZA, conde de Coruña, con acompañamiento; y por otra DON JERÓNIMO MARAÑÓN, gobernador de Copacabana.</stage>
+          <stage>Tocan las chirimías y sale por una parte DON LORENZO DE MENDOZA, conde de Coruña,
+            con acompañamiento; y por otra DON JERÓNIMO MARAÑÓN, gobernador de Copacabana.</stage>
           <sp who="#don-jerónimo-marañón">
             <speaker>GOBERNADOR</speaker>
             <l>¡Feliz, oh gran don Lorenzo</l>
@@ -5641,7 +5682,10 @@
         </div>
         <div type="scene" resp="#rojas" n="3">
           <stage>Vase.</stage>
-          <stage>Córrese una cortina, y véase a YUPANGUÍ en traje humilde de español, con taller, herramientas y demás instrumentos de escultor, como labrando una estatua tosca de madera, cuya estatura ha de ser de una vara, poco más o menos, y mientras dice los versos esté siempre haciendo que trabaja en ella.</stage>
+          <stage>Córrese una cortina, y véase a YUPANGUÍ en traje humilde de español, con taller,
+            herramientas y demás instrumentos de escultor, como labrando una estatua tosca de
+            madera, cuya estatura ha de ser de una vara, poco más o menos, y mientras dice los
+            versos esté siempre haciendo que trabaja en ella.</stage>
           <sp who="#yupanguí">
             <speaker>YUPANGUÍ</speaker>
             <l>Ya, purísima María,</l>
@@ -5993,7 +6037,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Suena dentro ruido, como que tropezando derriba el taller y sale huyendo, y al irse él, sale la IDOLATRÍA.</stage>
+          <stage>Suena dentro ruido, como que tropezando derriba el taller y sale huyendo, y al irse
+            él, sale la IDOLATRÍA.</stage>
           <sp who="#idolatría">
             <speaker>IDOLATRÍA</speaker>
             <l n="580">Sí darás, porque estasvoces</l>
@@ -6089,7 +6134,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="12">
-          <stage>Vase la IDOLATRÍA y salen acuchillándose de una parte ANDRÉS y de otra YUPANGUÍ, y en dos bandos todos los que puedan y TUCAPEL.</stage>
+          <stage>Vase la IDOLATRÍA y salen acuchillándose de una parte ANDRÉS y de otra YUPANGUÍ, y
+            en dos bandos todos los que puedan y TUCAPEL.</stage>
           <sp who="#un-indio-llamado-andrés">
             <speaker>ANDRÉS</speaker>
             <l part="I">¡Aquí, deudos!</l>
@@ -6309,7 +6355,8 @@
             <l>Pues con estaprevención,</l>
             <l>la imagen que labré esesta.</l>
           </sp>
-          <stage>Corre la cortina y vese el taller derribado, la estatua deshecha y los instrumentos esparcidos.</stage>
+          <stage>Corre la cortina y vese el taller derribado, la estatua deshecha y los instrumentos
+            esparcidos.</stage>
           <sp who="#un-indio-llamado-andrés #don-jerónimo-marañón #yupanguí #tucapel">
             <speaker>TODOS</speaker>
             <l part="I">¿Qué imagen?</l>
@@ -6954,7 +7001,8 @@
         </div>
         <div type="scene" resp="#rojas" n="25">
           <stage>Salen todos, el VIRREY, el GOBERNADOR, ANDRÉS y YUPANGUÍ.</stage>
-          <sp who="#idolatría #don-jerónimo-marañón #un-indio-llamado-andrés #don-lorenzo-de-mendoza #yupanguí">
+          <sp
+            who="#idolatría #don-jerónimo-marañón #un-indio-llamado-andrés #don-lorenzo-de-mendoza #yupanguí">
             <speaker>TODOS</speaker>
             <l>¡Viva el ínclito Mendoza,</l>
             <l>que en justicia y paz gobierna!</l>
@@ -7111,7 +7159,13 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="28">
-          <stage>Tocan chirimías, córrese la cortina y vase en un altar adornado de luces y flores la imagen dorada, y al mismo tiempo en dos apariencias, que llaman sacabuches, bajan dos ángeles con tablillas, pinceles y matices de pintor en las manos; y mientras ellos cantan y toda la MÚSICA responde dentro, van retocando los ángeles la imagen, y ella se va convirtiendo, como mejor pueda ejecutarse, en una imagen de nuestra Señora con el Niño Jesús en los brazos, la más hermosa, adornada y vestida que se pueda, que será aquella misma que se vio en la apariencia del incendio y de la nieve.</stage>
+          <stage>Tocan chirimías, córrese la cortina y vase en un altar adornado de luces y flores
+            la imagen dorada, y al mismo tiempo en dos apariencias, que llaman sacabuches, bajan dos
+            ángeles con tablillas, pinceles y matices de pintor en las manos; y mientras ellos
+            cantan y toda la MÚSICA responde dentro, van retocando los ángeles la imagen, y ella se
+            va convirtiendo, como mejor pueda ejecutarse, en una imagen de nuestra Señora con el
+            Niño Jesús en los brazos, la más hermosa, adornada y vestida que se pueda, que será
+            aquella misma que se vio en la apariencia del incendio y de la nieve.</stage>
           <sp who="#ángel-1">
             <speaker>ÁNGEL 1.º</speaker>
             <l n="1230"> Venid, corred, volad,</l>
@@ -7244,7 +7298,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="29">
-          <stage>Tocan las chirimías, y desaparecen los ángeles, quedando en las andas la imagen vestida, y sale YUPANGUÍ y GUACOLDA.</stage>
+          <stage>Tocan las chirimías, y desaparecen los ángeles, quedando en las andas la imagen
+            vestida, y sale YUPANGUÍ y GUACOLDA.</stage>
           <sp who="#yupanguí #guacolda">
             <speaker>YUPANGUÍ y GUACOLDA</speaker>
             <l n="1290"> Corred, volad, venid,</l>
@@ -7442,7 +7497,8 @@
             <l>si no es que sea a mí, por más</l>
             <l>que de mi error me arrepiento?</l>
           </sp>
-          <sp who="#un-indio-llamado-andrés #yupanguí #guacolda #don-lorenzo-de-mendoza #don-jerónimo-marañón">
+          <sp
+            who="#un-indio-llamado-andrés #yupanguí #guacolda #don-lorenzo-de-mendoza #don-jerónimo-marañón">
             <speaker>TODOS</speaker>
             <l n="1385">A todos ha parecido</l>
             <l part="I">diferente.</l>
@@ -7473,7 +7529,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="31">
-          <stage>Toma las coronas, sube la grada, y mientras las pone, el GOBERNADOR va repartiendo velas, que traerá uno a todos.</stage>
+          <stage>Toma las coronas, sube la grada, y mientras las pone, el GOBERNADOR va repartiendo
+            velas, que traerá uno a todos.</stage>
           <sp who="#yupanguí">
             <speaker>YUPANGUÍ</speaker>
             <l>Ya no como a hechura mía,</l>
@@ -7508,7 +7565,8 @@
             <l>oficiales que sabrán</l>
             <l>mucho mejor que yo hacerlo.</l>
           </sp>
-          <stage>Aparta la imagen, dejando en el brazo izquierdo el Niño que tenía en entrambas manos, con que viene la derecha a quedar en el aire desocupada.</stage>
+          <stage>Aparta la imagen, dejando en el brazo izquierdo el Niño que tenía en entrambas
+            manos, con que viene la derecha a quedar en el aire desocupada.</stage>
           <sp who="#don-lorenzo-de-mendoza">
             <speaker>CONDE</speaker>
             <l>Pues desconsuelo es bien grande.</l>
@@ -7629,7 +7687,8 @@
             <speaker>UNOS</speaker>
             <l>Todos decimos lo mesmo.</l>
           </sp>
-          <sp who="#un-indio-llamado-andrés #yupanguí #guacolda #don-lorenzo-de-mendoza #don-jerónimo-marañón #tucapel">
+          <sp
+            who="#un-indio-llamado-andrés #yupanguí #guacolda #don-lorenzo-de-mendoza #don-jerónimo-marañón #tucapel">
             <speaker>TODOS</speaker>
             <l n="1485">¡María es la Virgen Madre,</l>
             <l>Cristo es el Dios verdadero!</l>
@@ -7674,7 +7733,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="34">
-          <stage>Salen los músicos y las mujeres vestidas de estudiantes, como seises, con sobrepellices y bonetes.</stage>
+          <stage>Salen los músicos y las mujeres vestidas de estudiantes, como seises, con
+            sobrepellices y bonetes.</stage>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
             <l part="F">Sí haremos.</l>
@@ -7716,12 +7776,15 @@
             <l>voz dirá al reino español</l>
             <l>que en su imagen soberana...</l>
           </sp>
-          <sp who="#música #un-indio-llamado-andrés #yupanguí #guacolda #don-lorenzo-de-mendoza #don-jerónimo-marañón #tucapel">
+          <sp
+            who="#música #un-indio-llamado-andrés #yupanguí #guacolda #don-lorenzo-de-mendoza #don-jerónimo-marañón #tucapel">
             <speaker>MÚSICA y TODOS</speaker>
             <l>Hoy nace con mejor sol</l>
             <l>la aurora en Copacabana.</l>
           </sp>
-          <stage>Con esta repetición, encendidas las luces de todos y en forma de Capilla, cantando delante los músicos, dará vuelta en hombros al tablado la Imagen, y porque no se embarace en entrar, caerá una cortina que cubra todo el tablado.</stage>
+          <stage>Con esta repetición, encendidas las luces de todos y en forma de Capilla, cantando
+            delante los músicos, dará vuelta en hombros al tablado la Imagen, y porque no se
+            embarace en entrar, caerá una cortina que cubra todo el tablado.</stage>
         </div>
 
       </div>

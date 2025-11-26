@@ -17,11 +17,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-25">
           <time when="10:42:17"/>
@@ -33,13 +36,15 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">la-vida-es-sueno-segunda-version-auto</idno></publicationStmt>
+        <idno type="caldracor">la-vida-es-sueno-segunda-version-auto</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/37388</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Fernando Plata Parga, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2012. ISBN: 978-3-944244-01-3.</title>
+            <title>Edición digital a partir de la edición de Fernando Plata Parga, Pamplona–Kassel,
+              Universidad de Navarra–Reichenberger, 2012. ISBN: 978-3-944244-01-3.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -108,17 +113,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1673"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1673"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -263,7 +284,8 @@
             <speaker>FUEGO</speaker>
             <l>¡Yo con la Tierra y contigo!</l>
           </sp>
-          <stage>Dicen dentro a un mismo tiempo iguales Poder, Sabiduría y Amor los versos que repetirá la música y los cuatro se suspenden.</stage>
+          <stage>Dicen dentro a un mismo tiempo iguales Poder, Sabiduría y Amor los versos que
+            repetirá la música y los cuatro se suspenden.</stage>
           <sp who="#poder #sabiduria #amor">
             <speaker>LOS TRES</speaker>
             <l>¡Agua, Tierra, Fuego y Aire…</l>
@@ -298,7 +320,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="2">
-          <stage>Déjanse partiendo la corona y salen el Poder, anciano venerable, y Sabiduría y Amor de galanes.</stage>
+          <stage>Déjanse partiendo la corona y salen el Poder, anciano venerable, y Sabiduría y Amor
+            de galanes.</stage>
           <sp who="#poder">
             <speaker>PODER</speaker>
             <l n="60" part="F">El Poder,</l>
@@ -934,7 +957,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>La Sombra sale por una parte y por otra se van; y la Sombra repite lo que cantan.</stage>
+          <stage>La Sombra sale por una parte y por otra se van; y la Sombra repite lo que
+            cantan.</stage>
           <sp who="#sombra">
             <speaker>SOMBRA</speaker>
             <l>Cuanto en Fuego, Aire, Agua y Tierra…</l>
@@ -1185,7 +1209,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Descúbrese un peñasco y el Hombre vestido de pieles y la Gracia con un hacha.</stage>
+          <stage>Descúbrese un peñasco y el Hombre vestido de pieles y la Gracia con un
+            hacha.</stage>
           <sp who="#gracia">
             <speaker>GRACIA</speaker>
             <l>Hombre, imagen de tu autor,</l>
@@ -1440,7 +1465,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="6">
-          <stage>Vanse. Salen los Elementos, cantando, con losvestidos y el Entendimiento y Albedrío, la Luz con el hacha y el Hombre detrás; y, mientras cantan, le van vistiendo como dicen los versos.</stage>
+          <stage>Vanse. Salen los Elementos, cantando, con losvestidos y el Entendimiento y
+            Albedrío, la Luz con el hacha y el Hombre detrás; y, mientras cantan, le van vistiendo
+            como dicen los versos.</stage>
           <sp who="#musicos">
             <speaker>MÚSICA</speaker>
             <l n="805">¡Venid, corred, volad, Elementos,</l>
@@ -1623,7 +1650,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage>Vanle vistiendo, mientras cantan, y sale la Sombra, y el Pecado, de villanos.</stage>
+          <stage>Vanle vistiendo, mientras cantan, y sale la Sombra, y el Pecado, de
+            villanos.</stage>
           <sp who="#musicos">
             <speaker>MÚSICA</speaker>
             <l>Sobre áspid y basilisco</l>
@@ -3545,7 +3573,8 @@
             <speaker>LOS DOS</speaker>
             <l part="I">…el Hombre en su culpa?</l>
           </sp>
-          <sp who="#pecado #luz #musicos #peregrino #entendimiento #albedrio #hombre #agua #poder #tierra #sabiduria #aire #amor #fuego #principe #sombra">
+          <sp
+            who="#pecado #luz #musicos #peregrino #entendimiento #albedrio #hombre #agua #poder #tierra #sabiduria #aire #amor #fuego #principe #sombra">
             <speaker>TODOS</speaker>
             <l part="F">Sí.</l>
           </sp>

@@ -17,11 +17,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-02-04">
           <time when="16:29:54"/>
@@ -33,13 +36,16 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">la-lepra-de-constantino</idno></publicationStmt>
+        <idno type="caldracor">la-lepra-de-constantino</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de L. Galván y R. Arana Caballero, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2008. ISBN: 978-3-937734-48-4.</title>
+            <title>Edición digital a partir de la edición de L. Galván y R. Arana Caballero,
+              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2008. ISBN:
+              978-3-937734-48-4.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -123,17 +129,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date notBefore="1647" notAfter="1657"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date notBefore="1647" notAfter="1657"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -173,7 +195,8 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Dentro cajas y trompetas, y sale Silvestre, viejo venerable, vestido de pieles, huyendo como asombrado Dentro</stage>
+          <stage>Dentro cajas y trompetas, y sale Silvestre, viejo venerable, vestido de pieles,
+            huyendo como asombrado Dentro</stage>
           <sp who="#acompanamiento">
             <speaker>UNOS</speaker>
             <l part="I">¡Arma, arma!</l>
@@ -368,7 +391,8 @@
             <l n="135">hoy les faltará, muriendo</l>
             <l part="I">a mi mano.</l>
           </sp>
-          <stage>Empuña la espada la Gentilidad; Silvestre huye, poniéndose en un risco, da vuelta, y vese la Fe con una cruz en la mano y venda en los ojos</stage>
+          <stage>Empuña la espada la Gentilidad; Silvestre huye, poniéndose en un risco, da vuelta,
+            y vese la Fe con una cruz en la mano y venda en los ojos</stage>
           <sp who="#silvestre">
             <speaker>SILVESTRE</speaker>
             <l part="F">Otra vez digo</l>
@@ -778,7 +802,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Vanse las dos y sale Constantino en lo alto, en un caballo; baja al tablado cayendo, y el caballo se vuelve a subir</stage>
+          <stage>Vanse las dos y sale Constantino en lo alto, en un caballo; baja al tablado
+            cayendo, y el caballo se vuelve a subir</stage>
           <sp who="#constantino">
             <speaker>CONSTANTINO</speaker>
             <l n="365">¡Muera Constantino, pues</l>
@@ -911,7 +936,8 @@
             <speaker>CONSTANTINO</speaker>
             <l part="I">¿Pues dónde está?</l>
           </sp>
-          <stage>Un Ángel en un iris con una cruz en la mano, y no hace más que salir y pararse en el aire</stage>
+          <stage>Un Ángel en un iris con una cruz en la mano, y no hace más que salir y pararse en
+            el aire</stage>
           <sp who="#angel">
             <speaker>ÁNGEL</speaker>
             <l part="F">En este signo.</l>
@@ -1020,7 +1046,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="4">
-          <stage>Cajas y música que canta el mote del Ángel y cúbrese la apariencia y sale Majencio vestido de romano</stage>
+          <stage>Cajas y música que canta el mote del Ángel y cúbrese la apariencia y sale Majencio
+            vestido de romano</stage>
           <sp who="#acompanamiento">
             <speaker>DENTRO</speaker>
             <l>¡El grande Majencio viva!</l>
@@ -1448,7 +1475,8 @@
             <l part="F">Generoso</l>
             <l part="I">Majencio.</l>
           </sp>
-          <sp who="#silvestre #fe #angel #soldado #acompanamiento #astrea #zabulon #musicos #constantino #majencio #gentilidad">
+          <sp
+            who="#silvestre #fe #angel #soldado #acompanamiento #astrea #zabulon #musicos #constantino #majencio #gentilidad">
             <speaker>LOS VILLANOS</speaker>
             <l n="695" part="F">¿“Majencio” dijo?</l>
           </sp>
@@ -1495,7 +1523,8 @@
             <stage>Dentro</stage>
             <l>¡Allí está Majencio, muera!</l>
           </sp>
-          <sp who="#fe #angel #acompanamiento #soldado #musicos #constantino #astrea #zabulon #gentilidad #majencio">
+          <sp
+            who="#fe #angel #acompanamiento #soldado #musicos #constantino #astrea #zabulon #gentilidad #majencio">
             <speaker>TODOS</speaker>
             <l n="725">¡Muera, y viva Constantino!</l>
           </sp>
@@ -1510,7 +1539,8 @@
             <l>que en líneas de fuego vimos,</l>
             <l n="730">líbranos, Señor, de nuestros enemigos.</l>
           </sp>
-          <sp who="#fe #angel #acompanamiento #soldado #astrea #zabulon #gentilidad #majencio #constantino #musicos">
+          <sp
+            who="#fe #angel #acompanamiento #soldado #astrea #zabulon #gentilidad #majencio #constantino #musicos">
             <speaker>TODOS</speaker>
             <l>¡Arma, arma! ¡Guerra, guerra!</l>
             <l>¡Viva el grande Constantino!</l>
@@ -1589,7 +1619,8 @@
             <speaker>CONSTANTINO</speaker>
             <l part="F">Repetid, amigos:</l>
           </sp>
-          <sp who="#constantino #fe #angel #acompanamiento #musicos #astrea #nino #zabulon #gentilidad #soldado #majencio">
+          <sp
+            who="#constantino #fe #angel #acompanamiento #musicos #astrea #nino #zabulon #gentilidad #soldado #majencio">
             <speaker>ÉL, TODOS Y MÚSICA</speaker>
             <l n="765">Por la señal de la cruz</l>
             <l>que en líneas de fuego vimos,</l>
@@ -1652,7 +1683,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Salen todas las mujeres con flores y instrumentos; una trae en una fuente una tiara, otra, un cetro de tres cru-ces, y otra, un manto carmesí</stage>
+          <stage>Salen todas las mujeres con flores y instrumentos; una trae en una fuente una
+            tiara, otra, un cetro de tres cru-ces, y otra, un manto carmesí</stage>
           <sp who="#mujer-1">
             <speaker>MUJER 1.ª</speaker>
             <l n="810">De nuestro afecto fiel</l>
@@ -1691,7 +1723,8 @@
             <l>vuelto en placer, al baile he de ayudar,</l>
             <l>que no hay mujer ni hijo donde hay son.</l>
           </sp>
-          <sp who="#constantino #fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #mujer-1 #mujer-2 #mujer-3 #gentilidad #zabulon">
+          <sp
+            who="#constantino #fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #mujer-1 #mujer-2 #mujer-3 #gentilidad #zabulon">
             <speaker>TODOS</speaker>
             <l>Vaya de fiesta, música y canción.</l>
           </sp>
@@ -1703,7 +1736,8 @@
             <l>a dar las gracias al templo</l>
             <l>de Júpiter nuestro dios.</l>
           </sp>
-          <sp who="#constantino #fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #mujer-1 #mujer-2 #mujer-3 #gentilidad #zabulon">
+          <sp
+            who="#constantino #fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #mujer-1 #mujer-2 #mujer-3 #gentilidad #zabulon">
             <speaker>TODOS</speaker>
             <l>Venga en hora dichosa,</l>
             <l>ciñendo su honor,</l>
@@ -1720,7 +1754,8 @@
             <l>Aunque no sé si he debido</l>
             <l>a Júpiter el favor.</l>
           </sp>
-          <sp who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #mujer-1 #mujer-2 #mujer-3 #gentilidad #zabulon #constantino">
+          <sp
+            who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #mujer-1 #mujer-2 #mujer-3 #gentilidad #zabulon #constantino">
             <speaker>TODOS</speaker>
             <l>Venga en hora dichosa</l>
             <l>ciñendo su honor,</l>
@@ -1757,7 +1792,8 @@
             <l>Y pues Júpiter le encumbra</l>
             <l>a la eminencia mayor…</l>
           </sp>
-          <sp who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #mujer-1 #mujer-2 #mujer-3 #zabulon #constantino #gentilidad">
+          <sp
+            who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #mujer-1 #mujer-2 #mujer-3 #zabulon #constantino #gentilidad">
             <speaker>TODOS</speaker>
             <l>Venga en hora dichosa,</l>
             <l>ciñendo su honor,</l>
@@ -1799,7 +1835,8 @@
             <l>corona de tres coronas:</l>
             <l>mural, cívica y campal.</l>
           </sp>
-          <stage>Toma la corona la Gentilidad y espérale con ella, y él va acercándose, y todas bailan</stage>
+          <stage>Toma la corona la Gentilidad y espérale con ella, y él va acercándose, y todas
+            bailan</stage>
           <sp who="#constantino">
             <speaker>CONSTANTINO</speaker>
             <l n="905">Dices bien, y pues cumplir</l>
@@ -1809,7 +1846,8 @@
             <l>y así podéis proseguir</l>
             <l n="910">al gran Júpiter el loor.</l>
           </sp>
-          <sp who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #mujer-1 #mujer-2 #mujer-3 #zabulon #gentilidad #constantino">
+          <sp
+            who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #mujer-1 #mujer-2 #mujer-3 #zabulon #gentilidad #constantino">
             <speaker>TODOS</speaker>
             <l>Venga en hora dichosa</l>
             <l>ciñendo su honor,</l>
@@ -1838,7 +1876,8 @@
             <l n="925">de sus triunfos sacrificios</l>
             <l>a quien los triunfos le dio.</l>
           </sp>
-          <sp who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #zabulon #gentilidad #constantino #mujer-1 #mujer-2 #mujer-3">
+          <sp
+            who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #zabulon #gentilidad #constantino #mujer-1 #mujer-2 #mujer-3">
             <speaker>TODOS</speaker>
             <l>Venga en hora dichosa</l>
             <l>ciñendo su honor,</l>
@@ -1854,7 +1893,8 @@
             <l>diciendo al mirar que abrasándome estoy</l>
             <l n="935">“que todo sea rayos, pues todos lo son”.</l>
           </sp>
-          <sp who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #zabulon #gentilidad #mujer-1 #mujer-2 #mujer-3 #constantino">
+          <sp
+            who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #zabulon #gentilidad #mujer-1 #mujer-2 #mujer-3 #constantino">
             <speaker>TODOS</speaker>
             <l part="I">¿Qué es esto?</l>
           </sp>
@@ -1865,7 +1905,8 @@
             <l>pues como furioso sus manos se muerde</l>
             <l part="I">y el pecho se rasga.</l>
           </sp>
-          <sp who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #zabulon #mujer-1 #mujer-2 #mujer-3 #constantino #gentilidad">
+          <sp
+            who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #zabulon #mujer-1 #mujer-2 #mujer-3 #constantino #gentilidad">
             <speaker>TODOS</speaker>
             <l part="F">¡Qué gran confusión!</l>
           </sp>
@@ -1924,7 +1965,8 @@
             <speaker>MUJER 2.ª</speaker>
             <l part="M">¡Qué asombro!</l>
           </sp>
-          <sp who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #gentilidad #constantino #zabulon #mujer-3 #mujer-1 #mujer-2">
+          <sp
+            who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #gentilidad #constantino #zabulon #mujer-3 #mujer-1 #mujer-2">
             <speaker>TODOS</speaker>
             <l part="F">¡Qué horror!</l>
           </sp>
@@ -2126,7 +2168,8 @@
             <speaker>NOTICIA</speaker>
             <l part="I">¡Atención!</l>
           </sp>
-          <sp who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #mujer-3 #mujer-1 #mujer-2 #zabulon #constantino #gentilidad #coro-1 #coro-2 #noticia">
+          <sp
+            who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #majencio #mujer-3 #mujer-1 #mujer-2 #zabulon #constantino #gentilidad #coro-1 #coro-2 #noticia">
             <speaker>TODOS</speaker>
             <l n="1050" part="F">¡Atención!</l>
           </sp>
@@ -2159,7 +2202,8 @@
             <l>las copas sean cajas perdiendo el rumor.</l>
           </sp>
           <stage>Cantan</stage>
-          <sp who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #mujer-3 #mujer-1 #mujer-2 #zabulon #constantino #gentilidad #coro-1 #coro-2 #majencio #noticia">
+          <sp
+            who="#fe #angel #acompanamiento #musicos #astrea #nino #soldado #mujer-3 #mujer-1 #mujer-2 #zabulon #constantino #gentilidad #coro-1 #coro-2 #majencio #noticia">
             <speaker>TODOS</speaker>
             <l>Clarín sean las aves ganando el silencio,</l>
             <l>las copas sean cajas perdiendo el rumor.</l>
@@ -2730,7 +2774,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="29">
-          <stage>Saca una pistola; al ir a darle los dos salen cada uno por su parte san Pedro y san Pablo teniendo a cada uno del brazo</stage>
+          <stage>Saca una pistola; al ir a darle los dos salen cada uno por su parte san Pedro y san
+            Pablo teniendo a cada uno del brazo</stage>
           <sp who="#majencio">
             <speaker>MAJENCIO</speaker>
             <l part="I">¿Pues qué esperas?</l>
@@ -3400,7 +3445,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="37">
-          <stage>Cae la Culpa y sale Majencio y todos los demás trayendo en fuentes los triunfos del principio</stage>
+          <stage>Cae la Culpa y sale Majencio y todos los demás trayendo en fuentes los triunfos del
+            principio</stage>
           <sp who="#majencio">
             <speaker>MAJENCIO</speaker>
             <l>Llegad todos, y cantando</l>
@@ -3429,7 +3475,9 @@
             <l>que cuando el hombre renace</l>
             <l>la culpa del hombre muere.</l>
           </sp>
-          <stage>Ábrese un carro que ha de ser un jardín con una fuente en medio, y de rodillas Constantino y Silvestre como que le ha baptizado, y una escalera portátil para bajar</stage>
+          <stage>Ábrese un carro que ha de ser un jardín con una fuente en medio, y de rodillas
+            Constantino y Silvestre como que le ha baptizado, y una escalera portátil para
+            bajar</stage>
           <sp who="#majencio">
             <speaker>MAJENCIO</speaker>
             <l n="1695">Pues aunque muera una culpa</l>
@@ -3507,7 +3555,8 @@
             <l n="1740">y que allí a mirar empieces,</l>
             <l>abriéndose las entrañas</l>
             <l>de esa peña, ruda siempre,</l>
-            <stage>Ábrese una peña y vese en ella santa Elena en un altar con la cruz en la forma que la pintan</stage>
+            <stage>Ábrese una peña y vese en ella santa Elena en un altar con la cruz en la forma
+              que la pintan</stage>
             <l>a Elena tu madre que</l>
             <l>tan contenta llega a verse</l>
             <l n="1745">de haber hallado el tesoro</l>
@@ -3549,7 +3598,8 @@
             <l>en el triunfo de la fe</l>
             <l n="1770">que en Constantino florece,</l>
           </sp>
-          <stage>Aparece un templo y en medio de él un pirámide con el Santísimo Sacramento, y a los dos lados san Pedro y</stage>
+          <stage>Aparece un templo y en medio de él un pirámide con el Santísimo Sacramento, y a los
+            dos lados san Pedro y</stage>
           <sp who="#san-pablo">
             <speaker>SAN PABLO</speaker>
             <l>mira cómo su palacio</l>
@@ -3635,7 +3685,8 @@
             <l>sacramentado Señor,</l>
             <l n="1800">porque este tiempo se abrevie:</l>
           </sp>
-          <sp who="#soldado #coro-1 #coro-2 #noticia #acompanamiento #nino #zabulon #mujer-2 #mujer-3 #mujer-1 #astrea #musicos #fe #silvestre #elena #san-pedro #majencio #gentilidad #san-pablo #constantino">
+          <sp
+            who="#soldado #coro-1 #coro-2 #noticia #acompanamiento #nino #zabulon #mujer-2 #mujer-3 #mujer-1 #astrea #musicos #fe #silvestre #elena #san-pedro #majencio #gentilidad #san-pablo #constantino">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Permita vuestra piedad</l>
             <l>que el día dichoso llegue</l>

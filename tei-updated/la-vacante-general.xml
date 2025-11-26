@@ -17,11 +17,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-25">
           <time when="10:42:14"/>
@@ -33,13 +36,15 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">la-vacante-general</idno></publicationStmt>
+        <idno type="caldracor">la-vacante-general</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18210</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de I. Pérez Ibáñez, Pamplona–Kassel, Universidad de Navarra– Reichenberger, 2005. ISBN: 3-937734-16-3.</title>
+            <title>Edición digital a partir de la edición de I. Pérez Ibáñez, Pamplona–Kassel,
+              Universidad de Navarra– Reichenberger, 2005. ISBN: 3-937734-16-3.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -102,17 +107,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1647"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1647"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -149,7 +170,9 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Sale toda la música en tropa y detrás san Juan Baptista con un bastón y en él una tarjeta con esta letra: «Omnes prophetae et lex, usque ad Ioannem propheta verunt, Matthei, cap. 11, num. 13» Canta</stage>
+          <stage>Sale toda la música en tropa y detrás san Juan Baptista con un bastón y en él una
+            tarjeta con esta letra: «Omnes prophetae et lex, usque ad Ioannem propheta verunt,
+            Matthei, cap. 11, num. 13» Canta</stage>
           <sp who="#baptista">
             <speaker>BAPTISTA</speaker>
             <l>Venid, mortales, venid,</l>
@@ -220,7 +243,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="2">
-          <stage>Vanse dejando el edicto fijo en medio del tablado y sale la Sinagoga como oyendo las voces, vestida a lo judío.</stage>
+          <stage>Vanse dejando el edicto fijo en medio del tablado y sale la Sinagoga como oyendo
+            las voces, vestida a lo judío.</stage>
           <sp who="#sinagoga">
             <speaker>SINAGOGA</speaker>
             <l>¿Que en la nueva ley de la gracia</l>
@@ -592,7 +616,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Vanse todos cantando, habiendo quitado el edicto, y quedan solos la Sinagoga y Judaísmo</stage>
+          <stage>Vanse todos cantando, habiendo quitado el edicto, y quedan solos la Sinagoga y
+            Judaísmo</stage>
           <sp who="#sinagoga">
             <speaker>SINAGOGA</speaker>
             <l part="I">Oye.</l>
@@ -683,7 +708,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="6">
-          <stage>Descúbrese en el primer carro una barca y en ella Pedro con el timón, Andrés con la vela, y Juan y Diego con los remos, vestidos de pescadores.</stage>
+          <stage>Descúbrese en el primer carro una barca y en ella Pedro con el timón, Andrés con la
+            vela, y Juan y Diego con los remos, vestidos de pescadores.</stage>
           <sp who="#andres">
             <speaker>ANDRÉS</speaker>
             <l part="F">Pedro,</l>
@@ -798,7 +824,8 @@
             <l>por el susto que me han dado</l>
             <l>no quiero hablarlos ni verlos.</l>
             <l n="415">Vamos por estotra parte.</l>
-            <stage>Pásase al carro de enfrente, donde se descubre un caballo y en él Pablo y un criado a su lado, y a su tiempo baja el caballo y él se apea.</stage>
+            <stage>Pásase al carro de enfrente, donde se descubre un caballo y en él Pablo y un
+              criado a su lado, y a su tiempo baja el caballo y él se apea.</stage>
             <l>Y el discurso prosiguiendo;</l>
             <l>la predicación de Jonás,</l>
             <l>rebelde a Dios algún tiempo,</l>
@@ -835,7 +862,8 @@
             <speaker>JUDAÍSMO</speaker>
             <l part="F">Oírlos no quiero;</l>
             <l>ven por aquí, Sinagoga.</l>
-            <stage>Pásase al otro carro, y en lo alto dél pasan Emanuel, vestido de peregrino, y la Inocencia de villano</stage>
+            <stage>Pásase al otro carro, y en lo alto dél pasan Emanuel, vestido de peregrino, y la
+              Inocencia de villano</stage>
             <l>Y dime: ¿quién, en efecto,</l>
             <l n="435">en la nueva ley será,</l>
             <l>si del principio me acuerdo</l>
@@ -967,7 +995,8 @@
             <l>…que en la nueva ley de la gracia</l>
             <l>prebendas hay vacas, laureles y premios.</l>
           </sp>
-          <stage>Bajan al tablado Pedro, Andrés, Juan y Diego; y por la otra parte Pablo, vestidos ellos de pescadores, y el otro de romano</stage>
+          <stage>Bajan al tablado Pedro, Andrés, Juan y Diego; y por la otra parte Pablo, vestidos
+            ellos de pescadores, y el otro de romano</stage>
           <sp who="#pedro">
             <speaker>PEDRO</speaker>
             <l>¡Gracias, cielo divino,</l>
@@ -1248,7 +1277,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="12">
-          <stage>Cantando uno y representando otro se van y salen Emanuel, vestido de peregrino, y la Inocencia de villano, como oyendo el verso</stage>
+          <stage>Cantando uno y representando otro se van y salen Emanuel, vestido de peregrino, y
+            la Inocencia de villano, como oyendo el verso</stage>
           <sp who="#emanuel">
             <speaker>EMANUEL</speaker>
             <l>¿Qué te parece, Inocencia,</l>
@@ -1497,7 +1527,8 @@
             <l>y así lugares pedid</l>
             <l>a oposición de tal fama.</l>
           </sp>
-          <sp who="#criado #musicos #andres #juan #diego #pablo #inocencia #baptista #pedro #emanuel">
+          <sp
+            who="#criado #musicos #andres #juan #diego #pablo #inocencia #baptista #pedro #emanuel">
             <speaker>TODOS</speaker>
             <l n="805" part="I">¡Ah de la Iglesia!</l>
           </sp>
@@ -1530,7 +1561,8 @@
             <l>y de la gloria a quien hoy</l>
             <l>aplaudís de aquesta suerte?</l>
           </sp>
-          <sp who="#criado #musicos #andres #juan #diego #pablo #inocencia #pedro #acompanamiento #baptista">
+          <sp
+            who="#criado #musicos #andres #juan #diego #pablo #inocencia #pedro #acompanamiento #baptista">
             <speaker>TODOS</speaker>
             <l>A él, que es poderoso y fuerte.</l>
           </sp>
@@ -2400,7 +2432,8 @@
             <l>conmigo venid aquellos</l>
             <l part="I">que seguirme queráis.</l>
           </sp>
-          <sp who="#musicos #andres #diego #acompanamiento #baptista #pedro #inocencia #pablo #iglesia #juan">
+          <sp
+            who="#musicos #andres #diego #acompanamiento #baptista #pedro #inocencia #pablo #iglesia #juan">
             <speaker>TODOS</speaker>
             <l part="F">Todos</l>
             <l n="1240">tus pisadas seguiremos.</l>
@@ -2464,7 +2497,8 @@
             <speaker>BAPTISTA</speaker>
             <l>Mi voz será la primera.</l>
           </sp>
-          <sp who="#musicos #acompanamiento #inocencia #pablo #juan #emanuel #pedro #andres #diego #iglesia #baptista">
+          <sp
+            who="#musicos #acompanamiento #inocencia #pablo #juan #emanuel #pedro #andres #diego #iglesia #baptista">
             <speaker>TODOS</speaker>
             <l>Y todos te ayudaremos.</l>
           </sp>
@@ -2475,7 +2509,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="17">
-          <stage>Hincándose de rodillas canta mientras Emanuel con la cruz pasa por medio triunfando</stage>
+          <stage>Hincándose de rodillas canta mientras Emanuel con la cruz pasa por medio
+            triunfando</stage>
           <sp who="#baptista">
             <speaker>BAPTISTA</speaker>
             <l>Omnes Prophetas et lex, usque…</l>
@@ -2578,7 +2613,8 @@
             <l>de la oposición publica</l>
             <l n="1340">a quien se han de dar los premios.</l>
           </sp>
-          <stage>Ábrese una nube y vese Emanuel, sentado en un trono con la cruz a las espaldas</stage>
+          <stage>Ábrese una nube y vese Emanuel, sentado en un trono con la cruz a las
+            espaldas</stage>
           <sp who="#musicos">
             <speaker>MÚSICA</speaker>
             <l>Venid, mortales, venid,</l>
@@ -2588,7 +2624,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="20">
-          <stage>Ábrese otra nube y aparece la Iglesia sentada en una mesa donde está un cordero que, a su tiempo, como dicen los versos, se convierte en hostia y cáliz, y todos salen al tablado con la Música</stage>
+          <stage>Ábrese otra nube y aparece la Iglesia sentada en una mesa donde está un cordero
+            que, a su tiempo, como dicen los versos, se convierte en hostia y cáliz, y todos salen
+            al tablado con la Música</stage>
           <sp who="#inocencia">
             <speaker>INOCENCIA</speaker>
             <l n="1345">Peregrino, peregrino,</l>
@@ -2661,7 +2699,8 @@
             <l>La vacante general</l>
             <l>todos a un tiempo diciendo:</l>
           </sp>
-          <sp who="#musicos #acompanamiento #juan #andres #diego #baptista #emanuel #pedro #pablo #iglesia #inocencia">
+          <sp
+            who="#musicos #acompanamiento #juan #andres #diego #baptista #emanuel #pedro #pablo #iglesia #inocencia">
             <speaker>MÚSICA Y TODOS</speaker>
             <l n="1395">Venid, mortales, venid,</l>
             <l>venid, venid, no a oponeros,</l>

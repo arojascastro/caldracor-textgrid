@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2021-12-16">
           <time when="15:29:08"/>
@@ -38,10 +42,13 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">la-estatua-de-prometeo</idno></publicationStmt>
+        <idno type="caldracor">la-estatua-de-prometeo</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, La estatua de Prometeo. En: Comedias, Vol. 6. Dirección de Luis Iglesias Feijoo y José María Viña Liste. Madrid : Fundación José Antonio de Castro, 2010</title>
+          <title>Pedro Calderón de la Barca, La estatua de Prometeo. En: Comedias, Vol. 6. Dirección
+            de Luis Iglesias Feijoo y José María Viña Liste. Madrid : Fundación José Antonio de
+            Castro, 2010</title>
           <idno type="ISBN">978-84-96452-96-1</idno>
         </bibl>
       </sourceDesc>
@@ -120,17 +127,33 @@
           <term source="dracor" type="genreTitle">comedia mitológica</term>
           <term source="#kroll" type="main">comedia mitológica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1683"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1683"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -168,7 +191,9 @@
       <div type="act" n="1">
         <head rend="caps">Jornada Primera</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Mutación de bosque sobre peñascos, y el foro ha de ser una gruta de peñascos pelados y en ella una puerta de la misma peña capaz de una persona, hasta que a su tiempo se abre todo el foro, y sale della Prometeo dando voces.</stage>
+          <stage>Mutación de bosque sobre peñascos, y el foro ha de ser una gruta de peñascos
+            pelados y en ella una puerta de la misma peña capaz de una persona, hasta que a su
+            tiempo se abre todo el foro, y sale della Prometeo dando voces.</stage>
           <sp who="#prometeo">
             <speaker rend="caps">Prometeo</speaker>
 
@@ -618,7 +643,8 @@
             <l>al sagrado solio, donde</l>
             <l>vive, reina, vence y triunfa.</l>
           </sp>
-          <stage>Descubre la estatua, abriendo la gruta, que estará como la pintan los versos y parecida a la que hiciere el papel de Minerva.</stage>
+          <stage>Descubre la estatua, abriendo la gruta, que estará como la pintan los versos y
+            parecida a la que hiciere el papel de Minerva.</stage>
           <sp who="#unos">
             <speaker rend="caps">Unos</speaker>
 
@@ -1253,7 +1279,8 @@
             <l>a quien dejé su víctima ofrecida;</l>
             <l>y así en su nombre, ¿qué ha de haber que impida</l>
             <l>mi altivez? Mas, oh, Júpiter divino,</l>
-            <stage>Entra y sale por otra parte y ábrese otra gruta en el foro, más horrorosa que la otra.</stage>
+            <stage>Entra y sale por otra parte y ábrese otra gruta en el foro, más horrorosa que la
+              otra.</stage>
             <l>qué estancia tan sin senda ni camino</l>
             <l>mi atrevimiento pisa,</l>
             <l>donde aun la luz del sol no se divisa</l>
@@ -1666,7 +1693,8 @@
           <stage>Vanse.</stage>
         </div>
         <div type="scene" resp="#rojas" n="15">
-          <stage>A su tiempo aparece el sol, que va pasando de una a otra parte, y estarán Minerva y Prometeo sobre una nube, y al pasar le quita un rayo.</stage>
+          <stage>A su tiempo aparece el sol, que va pasando de una a otra parte, y estarán Minerva y
+            Prometeo sobre una nube, y al pasar le quita un rayo.</stage>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
 
@@ -1873,7 +1901,8 @@
 
             <l>que nace para morir</l>
             <l>y muere para nacer.</l>
-            <stage>Repite toda la copla la música y pasa el carro y Prometeo baja, Minerva sube, y acaba la jornada.</stage>
+            <stage>Repite toda la copla la música y pasa el carro y Prometeo baja, Minerva sube, y
+              acaba la jornada.</stage>
           </sp>
         </div>
 
@@ -1883,7 +1912,9 @@
       <div type="act" n="2">
         <head rend="caps">Segunda Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Empieza con la mutación de bosque y peñascos de la primera jornada con la misma gruta, y a un lado a su tiempo se verá Prometeo sobre un peñasco, y la que hace a Minerva estará en lugar de la estatua dentro de la gruta.</stage>
+          <stage>Empieza con la mutación de bosque y peñascos de la primera jornada con la misma
+            gruta, y a un lado a su tiempo se verá Prometeo sobre un peñasco, y la que hace a
+            Minerva estará en lugar de la estatua dentro de la gruta.</stage>
           <stage>Salen como a escuras Epimeteo y Merlín.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
@@ -2588,7 +2619,8 @@
           <stage>[Vase.]</stage>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Acercándose uno, se aleja el otro, y queda Prometeo y se va Epimeteo con estas voces.</stage>
+          <stage>Acercándose uno, se aleja el otro, y queda Prometeo y se va Epimeteo con estas
+            voces.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
 
@@ -3228,7 +3260,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Vanse y salen Palas por una parte, y por otra la Discordia cantando recitativo o en tramoyas, como mejor parezca.</stage>
+          <stage>Vanse y salen Palas por una parte, y por otra la Discordia cantando recitativo o en
+            tramoyas, como mejor parezca.</stage>
           <sp who="#discordia">
             <speaker rend="caps">Discordia</speaker>
 
@@ -3542,7 +3575,10 @@
       <div type="act" n="3">
         <head rend="caps">Tercera Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Mutación de selva y saldrá de debajo un peñasco como pira para poner los sacrificios, de forma que un hombre pueda dar fuego a lo que se pusiere en él, y salen cantando y bailando, lo mismo con que se acabó la segunda jornada, todos los pastores y zagalas, y en medio Minerva y Timantes viejo, Prometeo y Epimeteo con todos.</stage>
+          <stage>Mutación de selva y saldrá de debajo un peñasco como pira para poner los
+            sacrificios, de forma que un hombre pueda dar fuego a lo que se pusiere en él, y salen
+            cantando y bailando, lo mismo con que se acabó la segunda jornada, todos los pastores y
+            zagalas, y en medio Minerva y Timantes viejo, Prometeo y Epimeteo con todos.</stage>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
 
@@ -3598,7 +3634,8 @@
             <speaker rend="caps">Libia</speaker>
 
 
-            <l>...Pandora. <note>[La hipermetría del testimº se corrige omitiendo lo verde]</note></l>
+            <l>...Pandora. <note>[La hipermetría del testimº se corrige omitiendo lo
+              verde]</note></l>
           </sp>
           <sp who="#merlín">
             <speaker rend="caps">Merlín</speaker>
@@ -3668,11 +3705,11 @@
             <l>sea más brillante estrella,</l>
             <l>te sirve, cifrando en ella</l>
             <l>sus matizados primores</l>
-            </sp>
-            <sp who="#música #libia">
+          </sp>
+          <sp who="#música #libia">
 
 
-              <speaker rend="caps">Música a 4 voces</speaker>
+            <speaker rend="caps">Música a 4 voces</speaker>
             <l>la tierra con flores.</l>
           </sp>
           <sp who="#villana-1">
@@ -3685,11 +3722,11 @@
             <l>los netos hilos que brilla,</l>
             <l>te ofrece una gargantilla,</l>
             <l>si llega en tu cuello a verlas,</l>
-            </sp>
-            <sp who="#música #villana-1">
+          </sp>
+          <sp who="#música #villana-1">
 
-              
-              <speaker rend="caps">Con la Música a 4 voces</speaker>
+
+            <speaker rend="caps">Con la Música a 4 voces</speaker>
             <l>el agua con perlas.</l>
           </sp>
           <sp who="#villana-2">
@@ -3705,7 +3742,7 @@
           </sp>
           <sp who="#música #villana-2">
 
-            
+
             <speaker rend="caps">Con la Música a 4 voces</speaker>
             <l>el aire con plumas.</l>
           </sp>
@@ -3722,7 +3759,7 @@
           </sp>
           <sp who="#música #villana-3">
 
-            
+
             <speaker rend="caps">Con la Música a 4 voces</speaker>
             <l>con salvas el eco.</l>
           </sp>
@@ -3734,12 +3771,12 @@
           </sp>
           <sp who="#música #todos">
 
-            
+
             <speaker rend="caps">Con la Música a 4 voces</speaker>
             <l>La tierra con flores, el agua con perlas,</l>
             <l>el aire con plumas, con salvas el eco.</l>
           </sp>
-            <stage>Cuatro cruzados en alas.</stage>
+          <stage>Cuatro cruzados en alas.</stage>
           <sp who="#discordia">
             <speaker rend="caps">Discordia</speaker>
 
@@ -4190,7 +4227,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Con el terremoto, música y voces se van por distintas partes, y quedan Prometeo, Epimeteo y Minerva.</stage>
+          <stage>Con el terremoto, música y voces se van por distintas partes, y quedan Prometeo,
+            Epimeteo y Minerva.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
 
@@ -4327,7 +4365,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage>Teatro de cielos y en él salen o en nubes o por el tablado Apolo y Palas cantando recitativo.</stage>
+          <stage>Teatro de cielos y en él salen o en nubes o por el tablado Apolo y Palas cantando
+            recitativo.</stage>
           <sp who="#apolo">
             <speaker rend="caps">Apolo</speaker>
 
@@ -4652,7 +4691,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="10">
-          <stage>Súbese Apolo y las dos se entran, mudando el teatro de selva florida, y a las voces de Epimeteo vuelven a salir.</stage>
+          <stage>Súbese Apolo y las dos se entran, mudando el teatro de selva florida, y a las voces
+            de Epimeteo vuelven a salir.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
 
@@ -4993,7 +5033,8 @@
             <l>y, a más no poder, forzoso</l>
             <l>desaparecer de aquí.</l>
           </sp>
-          <stage>Estos versos los dirá detrás de la estatua, que estará puesta en su lugar, y en diciéndolos se pasará a la otra parte del teatro.</stage>
+          <stage>Estos versos los dirá detrás de la estatua, que estará puesta en su lugar, y en
+            diciéndolos se pasará a la otra parte del teatro.</stage>
           <sp who="#epimeteo">
             <speaker rend="caps">Epimeteo</speaker>
 
@@ -5679,7 +5720,8 @@
           <stage>Bosque</stage>
         </div>
         <div type="scene" resp="#rojas" n="19">
-          <stage>Vanse los dos, tocan cajas y clarines y salen por una parte Epimeteo con algunos y por otra Timantes con otros, todos de guerra.</stage>
+          <stage>Vanse los dos, tocan cajas y clarines y salen por una parte Epimeteo con algunos y
+            por otra Timantes con otros, todos de guerra.</stage>
           <sp who="#unos">
             <speaker rend="caps">Unos</speaker>
 
@@ -6024,7 +6066,8 @@
             <l>Guiad, pues, al templo con ellos</l>
             <l>de Saturno, donde hoy</l>
             <l>la prisión y el sacrificio</l>
-            <stage>Éntranse con ellos y al volver a la llamada sacan otra mujer vestida como la estatua y cubierto el rostro, y atraviesan el tablado con ella.</stage>
+            <stage>Éntranse con ellos y al volver a la llamada sacan otra mujer vestida como la
+              estatua y cubierto el rostro, y atraviesan el tablado con ella.</stage>
             <l>se disponga; pero no,</l>
             <l>no vais al templo, volved,</l>
             <l>volved; no la dilación</l>
@@ -6165,7 +6208,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="26">
-          <stage>Sordinas y cajas destempladas y, las caras cubiertas, sacan a los dos, a una parte mujeres y a otra hombres, y salen todos los demás.</stage>
+          <stage>Sordinas y cajas destempladas y, las caras cubiertas, sacan a los dos, a una parte
+            mujeres y a otra hombres, y salen todos los demás.</stage>
           <sp who="#palas #discordia">
             <speaker rend="caps">Los Dos</speaker>
 

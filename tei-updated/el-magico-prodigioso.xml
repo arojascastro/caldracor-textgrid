@@ -19,23 +19,31 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>Automatisch generiertes XML/TEI</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2021-09-03">
           <time when="16:32:09"/>
         </date>
         <idno type="quadramaX">El mágico prodigioso </idno>
-      <idno type="caldracor">el-magico-prodigioso</idno></publicationStmt>
+        <idno type="caldracor">el-magico-prodigioso</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-magico-prodigioso/html/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/el-magico-prodigioso/html/</idno>
           <bibl type="originalSource">
-            <title> Edición digital a partir de la Sexta parte de Comedias de don Pedro Calderón de la Barca que nuevamente corregidas por sus originales publica don Juan de Vera Tassis y Villarroel, Madrid, Por Francisco Sanz, 1683. Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros. </title>
+            <title> Edición digital a partir de la Sexta parte de Comedias de don Pedro Calderón de
+              la Barca que nuevamente corregidas por sus originales publica don Juan de Vera Tassis
+              y Villarroel, Madrid, Por Francisco Sanz, 1683. Localización: Base de Datos Teatro
+              Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros. </title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -119,17 +127,33 @@
           <term source="dracor" type="genreTitle">comedia</term>
           <term source="#kroll" type="main">comedia religiosa</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1637"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1637"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -144,7 +168,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000092" passive="http://www.wikidata.org/entity/Q5825879"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000092"
+        passive="http://www.wikidata.org/entity/Q5825879"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -167,7 +192,8 @@
       <div type="act" n="1">
         <div type="scene" resp="#rojas" n="1">
           <head>Jornada I</head>
-          <stage>Salen CIPRIANO, vestido de estudiante, CLARÍN y MOSCÓN, de gorrones, con unos libros.</stage>
+          <stage>Salen CIPRIANO, vestido de estudiante, CLARÍN y MOSCÓN, de gorrones, con unos
+            libros.</stage>
           <sp who="#cipriano">
             <speaker>CIPRIANO</speaker>
             <l> En la amena soledad </l>
@@ -1612,7 +1638,7 @@
             <speaker>CLARÍN</speaker>
             <l n="885"> Porque sepa que no es suya, </l>
             <l> así como den las doce. </l>
-          <stage>Vase.</stage>
+            <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="17">
@@ -1697,7 +1723,8 @@
             <l> y averiguar de una vez </l>
             <l> quién logra el bien que yo pierdo. </l>
           </sp>
-          <stage>Llegan los dos con las espadas desnudas a reconocer quién bajó; el DEMONIO, habiendo bajado, se hunde, y los dos quedan afirmados, queriendo reconocerse.</stage>
+          <stage>Llegan los dos con las espadas desnudas a reconocer quién bajó; el DEMONIO,
+            habiendo bajado, se hunde, y los dos quedan afirmados, queriendo reconocerse.</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
             <stage>[Aparte.]</stage>
@@ -2153,7 +2180,8 @@
           <sp who="#cipriano">
             <speaker>CIPRIANO</speaker>
             <l part="F"> ¡Ay de mí! </l>
-            <stage>Al irse acercando cada uno por su lado, CIPRIANO con la acción los da a entrambos.</stage>
+            <stage>Al irse acercando cada uno por su lado, CIPRIANO con la acción los da a
+              entrambos.</stage>
             <l n="125"> ¡Que tanto, amor, desconfíes! </l>
           </sp>
           <sp who="#clarín">
@@ -2728,7 +2756,7 @@
           <sp who="#moscón">
             <speaker>MOSCÓN</speaker>
             <l part="F"> En ello has dado. </l>
-          <stage>Vase.</stage>
+            <stage>Vase.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="10">
@@ -2894,7 +2922,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="13">
-          <stage>Hace como que va a salir, y en viéndole LELIO, se reboza y vuelve a entrarse.</stage>
+          <stage>Hace como que va a salir, y en viéndole LELIO, se reboza y vuelve a
+            entrarse.</stage>
           <sp who="#justina">
             <speaker>JUSTINA</speaker>
             <l> Hombre, ¿vienes a matarme? </l>
@@ -4146,7 +4175,8 @@
             <l n="125"> porque, en fin, no te he hecho </l>
             <l> cédula con la sangre de mi pecho, </l>
             <l> en este lienzo ahora </l>
-            <stage>Saca un lienzo sucio y escribe en él con el dedo, habiéndose hecho sangre.</stage>
+            <stage>Saca un lienzo sucio y escribe en él con el dedo, habiéndose hecho
+              sangre.</stage>
             <l> (nunca le trae más limpio quien bien llora) </l>
             <l> la haré, para que más te escandalices, </l>
             <l n="130"> dándome un mojicón en las narices; </l>
@@ -4209,7 +4239,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="6">
-          <stage>Mientras esta copla se canta, se va entrando por una puerta el DEMONIO y sale por otra JUSTINA, huyendo.</stage>
+          <stage>Mientras esta copla se canta, se va entrando por una puerta el DEMONIO y sale por
+            otra JUSTINA, huyendo.</stage>
           <sp who="#uno">
             <speaker>UNO</speaker>
             <stage>Canta.</stage>
@@ -4752,7 +4783,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="12">
-          <stage>Sale la que hace a JUSTINA con manto, como turbada, por una puerta, y se entra huyendo por la otra y va tras ella CIPRIANO, turbado, y CLARÍN, turbado, dando vueltas con miedo.</stage>
+          <stage>Sale la que hace a JUSTINA con manto, como turbada, por una puerta, y se entra
+            huyendo por la otra y va tras ella CIPRIANO, turbado, y CLARÍN, turbado, dando vueltas
+            con miedo.</stage>
           <sp who="#justina">
             <speaker>JUSTINA</speaker>
             <l part="F">Ya escucho; </l>
@@ -4855,7 +4888,11 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="14">
-          <stage>Escóndese, y sale CIPRIANO, trayendo abrazada una persona cubierta con manto y con vestido parecido al de JUSTINA, que es fácil siendo negro el manto y vestidos; y han de venir de suerte que con facilidad se quite todo y quede un esqueleto que ha de volar y hundirse, como mejor pareciere, como se haga con velocidad; si bien será mejor desaparecer por el viento.</stage>
+          <stage>Escóndese, y sale CIPRIANO, trayendo abrazada una persona cubierta con manto y con
+            vestido parecido al de JUSTINA, que es fácil siendo negro el manto y vestidos; y han de
+            venir de suerte que con facilidad se quite todo y quede un esqueleto que ha de volar y
+            hundirse, como mejor pareciere, como se haga con velocidad; si bien será mejor
+            desaparecer por el viento.</stage>
           <sp who="#cipriano">
             <speaker>CIPRIANO</speaker>
             <l> Ya, bellísima Justina, </l>
@@ -6074,7 +6111,8 @@
             <l> sobre el cadahalso, parece </l>
             <l> que nos llama a su silencio. </l>
           </sp>
-          <stage>Esto se haga como mejor pareciere; el cadahalso se descubrirá con las cabezas y cuerpos, y el DEMONIO en lo alto, sobre una sierpe.</stage>
+          <stage>Esto se haga como mejor pareciere; el cadahalso se descubrirá con las cabezas y
+            cuerpos, y el DEMONIO en lo alto, sobre una sierpe.</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
             <l> Oíd, mortales, oíd </l>

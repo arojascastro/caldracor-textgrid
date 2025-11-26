@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-09">
           <time when="11:41:04"/>
@@ -38,13 +42,16 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">las-armas-de-la-hermosura</idno></publicationStmt>
+        <idno type="caldracor">las-armas-de-la-hermosura</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="sourceText">
           <name>Association for Hispanic Classical Theater</name>
           <idno type="URL">http://www.comedias.org/calderon/armas.pdf</idno>
           <bibl type="originalSource">
-            <title>El texto electrónico, preparado y anotado por David Hildner, proviene de la edición de las Comedias de don Pedro Calderón de la Barca, ed. Juan Jorge Keil (Leipzig, 1830), tomo IV.</title>
+            <title>El texto electrónico, preparado y anotado por David Hildner, proviene de la
+              edición de las Comedias de don Pedro Calderón de la Barca, ed. Juan Jorge Keil
+              (Leipzig, 1830), tomo IV.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -167,17 +174,33 @@
           <term source="dracor" type="genreTitle">comedia histórica</term>
           <term source="#kroll" type="main">comedia histórica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1678"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1678"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -226,7 +249,10 @@
       <div type="act" n="1">
         <head rend="caps">Jornada Primera</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Córrese la cortina, y vense todos los bastidores del teatro trasmutados en aparadores de piezas de plata, y en medio una mesa llena de vasos y viandas, y sentados a ella hombres y mujeres, y en su principal asiento CORIOLANO y VETURIA, y los músicos detrás, arrimados al foro, y PASQUÍN y otros criados sirviendo a la mesa</stage>
+          <stage>Córrese la cortina, y vense todos los bastidores del teatro trasmutados en
+            aparadores de piezas de plata, y en medio una mesa llena de vasos y viandas, y sentados
+            a ella hombres y mujeres, y en su principal asiento CORIOLANO y VETURIA, y los músicos
+            detrás, arrimados al foro, y PASQUÍN y otros criados sirviendo a la mesa</stage>
           <sp who="#coro-1">
             <speaker rend="caps">Coro 1</speaker>
 
@@ -1148,7 +1174,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Salen marchando SOLDADOS, y uno trae una bandera con las letras que han dicho los versos, y detrás SABINIO y ASTREA con espada y bengala</stage>
+          <stage>Salen marchando SOLDADOS, y uno trae una bandera con las letras que han dicho los
+            versos, y detrás SABINIO y ASTREA con espada y bengala</stage>
           <sp who="#sabinio">
             <speaker rend="caps">Sabinio</speaker>
 
@@ -1375,7 +1402,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="7">
-          <stage>Suenan las cajas y éntranse.Salen CORIOLANO, LELIO, ENIO, y dos SOLDADOS, con dos banderas, una roja y otra blanca, con las mismas letras</stage>
+          <stage>Suenan las cajas y éntranse.Salen CORIOLANO, LELIO, ENIO, y dos SOLDADOS, con dos
+            banderas, una roja y otra blanca, con las mismas letras</stage>
           <sp who="#coriolano">
             <speaker rend="caps">Coriolano</speaker>
 
@@ -2400,7 +2428,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <stage>Tocan las chirimías y atabalillos, y salen por un lado CORIOLANO y SOLDADOS, y por otro el ACOMPAÑAMIENTO que pueda con las banderas, uno con un laurel en una fuente, otro con bastoncillo en otra, otro con un estoque en medio desnudo al hombro, y detrás AURELIO y FLAVIO</stage>
+          <stage>Tocan las chirimías y atabalillos, y salen por un lado CORIOLANO y SOLDADOS, y por
+            otro el ACOMPAÑAMIENTO que pueda con las banderas, uno con un laurel en una fuente, otro
+            con bastoncillo en otra, otro con un estoque en medio desnudo al hombro, y detrás
+            AURELIO y FLAVIO</stage>
           <sp who="#aurelio">
             <speaker rend="caps">Aurelio</speaker>
 
@@ -3730,7 +3761,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage>Vanse. Múdase el teatro en sala de tribunal, con sitial y dosel, y salen AURELIO y un RELATOR, viejo venerable</stage>
+          <stage>Vanse. Múdase el teatro en sala de tribunal, con sitial y dosel, y salen AURELIO y
+            un RELATOR, viejo venerable</stage>
           <sp who="#aurelio">
             <speaker rend="caps">Aurelio</speaker>
 
@@ -4514,7 +4546,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="18">
-          <stage>Con esta repetición y las chirimías y atabalillos, salen todas las mujeres y hombres, abriéndose todo el foro, y en un trono CORIOLANO, con laurel, manto y bastón, y a sus lados AURELIO, LELIO, ENIO, y el RELATOR</stage>
+          <stage>Con esta repetición y las chirimías y atabalillos, salen todas las mujeres y
+            hombres, abriéndose todo el foro, y en un trono CORIOLANO, con laurel, manto y bastón, y
+            a sus lados AURELIO, LELIO, ENIO, y el RELATOR</stage>
           <sp who="#coriolano">
             <speaker rend="caps">Coriolano</speaker>
             <stage type="withText">Aparte</stage>
@@ -5630,7 +5664,8 @@
       <div type="act" n="3">
         <head rend="caps">Jornada Tercera</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Dentro cajas y voces, y salen en tropa hombres, VETURIA y mujeres, por una parte, y [AURELIO] y LELIO por otra, como deteniéndoles</stage>
+          <stage>Dentro cajas y voces, y salen en tropa hombres, VETURIA y mujeres, por una parte, y
+            [AURELIO] y LELIO por otra, como deteniéndoles</stage>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
 
@@ -6239,7 +6274,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Éntrase. Por otro lado salen PASQUÍN, AURELIO y EMILIO.Córrese la cortina de la tienda y se ve sentado en el trono CORIOLANO, con laurel, cetro y estoque, y SABINIO y ASTREA retirados</stage>
+          <stage>Éntrase. Por otro lado salen PASQUÍN, AURELIO y EMILIO.Córrese la cortina de la
+            tienda y se ve sentado en el trono CORIOLANO, con laurel, cetro y estoque, y SABINIO y
+            ASTREA retirados</stage>
           <sp who="#pasquín">
             <speaker rend="caps">Pasquín</speaker>
 

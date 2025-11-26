@@ -3,7 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Loa sacramental de El primer refugio del hombre o la probática piscina</title>
+        <title type="main">Loa sacramental de El primer refugio del hombre o la probática
+          piscina</title>
         <title type="sub"/>
         <author>
           <persName>
@@ -17,29 +18,35 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-25">
           <time when="10:41:38"/>
         </date>
-        <idno type="quadramaX">Loa sacramental de El primer refugio del hombre o la probática piscina</idno>
+        <idno type="quadramaX">Loa sacramental de El primer refugio del hombre o la probática
+          piscina</idno>
         <availability>
           <licence>
             <ab>CC0 1.0</ab>
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">el-primer-refugio-del-hombre-loa</idno></publicationStmt>
+        <idno type="caldracor">el-primer-refugio-del-hombre-loa</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Rafael Zafra, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1997. ISBN:978-3-944244-66-2</title>
+            <title>Edición digital a partir de la edición de Rafael Zafra, Pamplona–Kassel,
+              Universidad de Navarra–Reichenberger, 1997. ISBN:978-3-944244-66-2</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -102,17 +109,33 @@
           <term source="dracor" type="genreTitle">loa</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1661"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1661"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -152,7 +175,11 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Salen cantando y bailando cada vicio con su afecto. La SOBERBIA trae en una fuente un manto rojo, la AVARICIA en una salva una cadena de oro y de ella pendiente un corazón. La LASCIVIA en una fuente, todo género de rosas y demás flores, y una banda al brazo. La IRA con otra fuente y en ella un peto, y la GULA con un cestillo o fuente de frutas. Y detrás de todos el GÉNERO HUMANO de gala, y el APETITO villano.</stage>
+          <stage>Salen cantando y bailando cada vicio con su afecto. La SOBERBIA trae en una fuente
+            un manto rojo, la AVARICIA en una salva una cadena de oro y de ella pendiente un
+            corazón. La LASCIVIA en una fuente, todo género de rosas y demás flores, y una banda al
+            brazo. La IRA con otra fuente y en ella un peto, y la GULA con un cestillo o fuente de
+            frutas. Y detrás de todos el GÉNERO HUMANO de gala, y el APETITO villano.</stage>
           <sp who="#musicos">
             <speaker>MÚSICA</speaker>
             <l>Todos los afectos</l>
@@ -229,7 +256,8 @@
             <l n="35">…repitiendo el eco</l>
             <l>en voces diversas:</l>
           </sp>
-          <sp who="#soberbia #afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #musicos">
+          <sp
+            who="#soberbia #afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #musicos">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Todos los afectos</l>
             <l>alegres ofrezcan</l>
@@ -246,7 +274,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="2">
-          <stage>Mientras ellos con esta repetición cantan y bailan, sale en lo alto de una montaña el DEMONIO vestido de pastor. Representa los primeros versos sin que le escuchen</stage>
+          <stage>Mientras ellos con esta repetición cantan y bailan, sale en lo alto de una montaña
+            el DEMONIO vestido de pastor. Representa los primeros versos sin que le escuchen</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
             <l>¡Ah de la esfera inferior</l>
@@ -254,7 +283,8 @@
             <l>superior del cielo, a dichas</l>
             <l>criada, es átomo apenas!</l>
           </sp>
-          <sp who="#afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #musicos #demonio">
+          <sp
+            who="#afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #musicos #demonio">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Todos los afectos</l>
             <l>alegres ofrezcan…</l>
@@ -266,7 +296,8 @@
             <l>que alimentado del fuego</l>
             <l>sobre el aire se sustenta!</l>
           </sp>
-          <sp who="#afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #musicos #demonio">
+          <sp
+            who="#afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #musicos #demonio">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>…al Género humano</l>
             <l n="60">músicas y fiestas,…</l>
@@ -284,7 +315,8 @@
             <l>repetid la letra:</l>
             <l>porque en mi destierro…</l>
           </sp>
-          <sp who="#musicos #afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #demonio #genero-humano">
+          <sp
+            who="#musicos #afecto-1 #avaricia #afecto-2 #envidia #afecto-3 #lascivia #afecto-4 #ira #afecto-5 #gula #apetito #demonio #genero-humano">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>…porque en su destierro</l>
             <l>templen y diviertan</l>
@@ -361,7 +393,8 @@
             <l>decir con todos es fuerza…</l>
           </sp>
           <stage>Todos cantando y representando</stage>
-          <sp who="#ira #afecto-5 #demonio #soberbia #avaricia #lascivia #envidia #gula #afecto-1 #afecto-2 #afecto-3 #afecto-4 #apetito #genero-humano #musicos">
+          <sp
+            who="#ira #afecto-5 #demonio #soberbia #avaricia #lascivia #envidia #gula #afecto-1 #afecto-2 #afecto-3 #afecto-4 #apetito #genero-humano #musicos">
             <speaker>ÉL, TODOS Y MÚSICA</speaker>
             <l>¿Quién llama? ¿Quién es?</l>
             <l>¿Quién viene? ¿Quién llega</l>
@@ -816,7 +849,8 @@
             <speaker>AFECTO 2.º</speaker>
             <l part="F">¡Qué miseria!</l>
           </sp>
-          <sp who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #demonio #apetito #soberbia #afecto-1 #avaricia #afecto-2">
+          <sp
+            who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #demonio #apetito #soberbia #afecto-1 #avaricia #afecto-2">
             <speaker>TODOS</speaker>
             <l n="370">¿No habrá quién de aquesta lid</l>
             <l>que rendidos nos confiesa</l>
@@ -991,7 +1025,8 @@
             <l>de humanos afectos entras.</l>
           </sp>
           <stage>Cantan unos y representan otros</stage>
-          <sp who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #apetito #soberbia #afecto-1 #avaricia #afecto-2 #demonio #peregrino">
+          <sp
+            who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #apetito #soberbia #afecto-1 #avaricia #afecto-2 #demonio #peregrino">
             <speaker>TODOS Y MÚSICA</speaker>
             <l n="450">Atiende, mortal, mortal considera</l>
             <l>que en las lides del Demonio</l>
@@ -1056,7 +1091,8 @@
             <speaker>DEMONIO</speaker>
             <l part="F">¡Qué pena!</l>
           </sp>
-          <sp who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #apetito #soberbia #afecto-1 #avaricia #afecto-2 #peregrino #demonio">
+          <sp
+            who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #apetito #soberbia #afecto-1 #avaricia #afecto-2 #peregrino #demonio">
             <speaker>TODOS</speaker>
             <l>¿Y dónde hacerle pretendes?</l>
           </sp>
@@ -1088,7 +1124,8 @@
             <l>con gustos, con dichas,</l>
             <l>que España desea:</l>
           </sp>
-          <sp who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #apetito #soberbia #afecto-1 #avaricia #afecto-2 #demonio #peregrino">
+          <sp
+            who="#envidia #musicos #afecto-3 #lascivia #afecto-5 #afecto-4 #ira #gula #genero-humano #apetito #soberbia #afecto-1 #avaricia #afecto-2 #demonio #peregrino">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Que viva, que reine,</l>
             <l n="510">que goce y que vea</l>
@@ -1099,7 +1136,8 @@
             <l n="515">con gustos, con dichas,</l>
             <l>que España desea.</l>
           </sp>
-          <stage>Repitiendo todos y la Música los versos últimos del Peregrino, se da fin a la loa.</stage>
+          <stage>Repitiendo todos y la Música los versos últimos del Peregrino, se da fin a la
+            loa.</stage>
         </div>
       </div>
     </body>

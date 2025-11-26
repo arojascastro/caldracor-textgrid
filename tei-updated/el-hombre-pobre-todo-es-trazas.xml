@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2021-12-16">
           <time when="10:52:44"/>
@@ -38,10 +42,13 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">el-hombre-pobre-todo-es-trazas</idno></publicationStmt>
+        <idno type="caldracor">el-hombre-pobre-todo-es-trazas</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Comedias. El hombre pobre todo es trazas. Edición de Santiago Fernández Mosquera. Segunda Parte de comedias. Dirección de Luis Iglesias Feijoo. Madrid: Fundación José Antonio de Castro, 2007.</title>
+          <title>Pedro Calderón de la Barca, Comedias. El hombre pobre todo es trazas. Edición de
+            Santiago Fernández Mosquera. Segunda Parte de comedias. Dirección de Luis Iglesias
+            Feijoo. Madrid: Fundación José Antonio de Castro, 2007.</title>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -88,17 +95,33 @@
           <term source="dracor" type="genreTitle">comedia de capa y espada</term>
           <term source="#kroll" type="main">comedia cómica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1628"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1628"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -1435,7 +1458,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Salen don Juan y Rodrigo y trae puesta la cadena y al verle Beatriz hace como que le pesa.</stage>
+          <stage>Salen don Juan y Rodrigo y trae puesta la cadena y al verle Beatriz hace como que
+            le pesa.</stage>
           <sp who="#rodrigo">
             <speaker rend="caps">Rodrigo</speaker>
 
@@ -1739,7 +1763,8 @@
             <l>más razón quien se quedare</l>
             <l>con el dinero de todos.</l>
           </sp>
-          <stage>Sobre un bufete naipes y juegan don Diego y Rodrigo, y venlos jugar Leonelo y don Juan, y Félix habla con Beatriz.</stage>
+          <stage>Sobre un bufete naipes y juegan don Diego y Rodrigo, y venlos jugar Leonelo y don
+            Juan, y Félix habla con Beatriz.</stage>
           <sp who="#inés">
             <speaker rend="caps">Inés</speaker>
 
@@ -3606,7 +3631,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="12">
-          <stage>Vanse los dos por una puerta y por la otra se va a entrar Inés y la detiene don Félix.</stage>
+          <stage>Vanse los dos por una puerta y por la otra se va a entrar Inés y la detiene don
+            Félix.</stage>
           <sp who="#félix">
             <speaker rend="caps">Félix</speaker>
 
@@ -5574,7 +5600,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="20">
-          <stage>Vanse y salen don Félix y Leonelo y por otra parte don Diego, don Juan y Rodrigo.</stage>
+          <stage>Vanse y salen don Félix y Leonelo y por otra parte don Diego, don Juan y
+            Rodrigo.</stage>
           <sp who="#félix">
             <speaker rend="caps">Félix</speaker>
 

@@ -19,23 +19,31 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>Automatisch generiertes XML/TEI</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2021-09-04">
           <time when="15:55:23"/>
         </date>
         <idno type="quadramaX">El alcalde de Zalamea</idno>
-      <idno type="caldracor">el-alcalde-de-zalamea</idno></publicationStmt>
+        <idno type="caldracor">el-alcalde-de-zalamea</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="sourceText">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-alcalde-de-zalamea-0/html/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/el-alcalde-de-zalamea-0/html/</idno>
           <bibl type="originalSource">
-            <title>Texto base: Comedia famosa / El alcalde de Zalamea, en El mejor de los mejores libros que ha salido de comedias, impreso en Alcalá de Henares por María Fernández en 1651. Edición a cargo de Ignacio Arellano. Grupo de investigación GRISO. Proyecto TC/12.</title>
+            <title>Texto base: Comedia famosa / El alcalde de Zalamea, en El mejor de los mejores
+              libros que ha salido de comedias, impreso en Alcalá de Henares por María Fernández en
+              1651. Edición a cargo de Ignacio Arellano. Grupo de investigación GRISO. Proyecto
+              TC/12.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -119,17 +127,33 @@
           <term source="dracor" type="genreTitle">drama de honor</term>
           <term source="#kroll" type="main">tragedia y drama de honor</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1651"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1651"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -141,7 +165,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000080" passive="http://www.wikidata.org/entity/Q686158"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000080"
+        passive="http://www.wikidata.org/entity/Q686158"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -2923,7 +2948,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="7">
-          <stage>Vanse. Sale el CAPITÁN, SARGENTO, CHISPA, REBOLLEDO, con guitarras y SOLDADOS.</stage>
+          <stage>Vanse. Sale el CAPITÁN, SARGENTO, CHISPA, REBOLLEDO, con guitarras y
+            SOLDADOS.</stage>
           <sp who="#rebolledo">
             <speaker>REBOLLEDO</speaker>
             <l>Mejor estamos aquí.</l>

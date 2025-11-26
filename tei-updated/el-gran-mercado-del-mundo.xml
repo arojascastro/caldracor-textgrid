@@ -17,11 +17,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-25">
           <time when="10:41:55"/>
@@ -33,13 +36,15 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">el-gran-mercado-del-mundo</idno></publicationStmt>
+        <idno type="caldracor">el-gran-mercado-del-mundo</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18195</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Ana Suárez Miramón, Pamplona–Kassel, Universidad de Navarra– Reichenberger, 2003. ISBN: 3-935004-45-1.</title>
+            <title>Edición digital a partir de la edición de Ana Suárez Miramón, Pamplona–Kassel,
+              Universidad de Navarra– Reichenberger, 2003. ISBN: 3-935004-45-1.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -114,17 +119,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date notBefore="1636" notAfter="1638"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date notBefore="1636" notAfter="1638"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -139,7 +160,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000163" passive="http://www.wikidata.org/entity/Q5492719"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000163"
+        passive="http://www.wikidata.org/entity/Q5492719"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -170,7 +192,8 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Sale la FAMA por lo alto en una apariencia que pase de un lado a otro, despacio, cantando y dentro la MÚSICA</stage>
+          <stage>Sale la FAMA por lo alto en una apariencia que pase de un lado a otro, despacio,
+            cantando y dentro la MÚSICA</stage>
           <sp who="#fama">
             <speaker>FAMA</speaker>
             <l>¡Oíd, mortales, oíd,</l>
@@ -1789,7 +1812,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="21">
-          <stage>Sale la SOBERBIA con un sombrero de plumas en la mano y una pieza de tela, como cogida</stage>
+          <stage>Sale la SOBERBIA con un sombrero de plumas en la mano y una pieza de tela, como
+            cogida</stage>
           <sp who="#mundo">
             <speaker>MUNDO</speaker>
             <l>¿Quién eres tú, que vienes la primera?</l>
@@ -2157,7 +2181,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="30">
-          <stage>Vase el MUNDO y salen el BUEN GENIO y la INOCENCIA, y por otra parte, el MAL GENIO y la MALICIA</stage>
+          <stage>Vase el MUNDO y salen el BUEN GENIO y la INOCENCIA, y por otra parte, el MAL GENIO
+            y la MALICIA</stage>
           <sp who="#buen-genio">
             <speaker>BUEN GENIO</speaker>
             <l>¡Qué hermosa que está la plaza</l>
@@ -3515,7 +3540,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="44">
-          <stage>Salen por diferentes partes el BUEN GENIO y el MAL GENIO, GULA, CULPA, INOCENCIA y la FE</stage>
+          <stage>Salen por diferentes partes el BUEN GENIO y el MAL GENIO, GULA, CULPA, INOCENCIA y
+            la FE</stage>
           <sp who="#buen-genio">
             <speaker>BUEN GENIO</speaker>
             <l n="1520">Dame tu mano a besar.</l>
@@ -3615,7 +3641,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="45">
-          <stage>Descúbrese un trono y siéntanse los dos y las VIRTUDES, quedando en medio el PADRE</stage>
+          <stage>Descúbrese un trono y siéntanse los dos y las VIRTUDES, quedando en medio el
+            PADRE</stage>
           <sp who="#padre">
             <speaker>PADRE</speaker>
             <l>Llega a mis brazos y ven</l>
@@ -3674,7 +3701,10 @@
             <l>de los Genios el talento</l>
             <l>y El gran mercado del mundo.</l>
           </sp>
-          <stage>Al principio de estos versos se abre un escotillón y salen llamas de fuego y se hunde el MAL GENIO y la CULPA, abrazados como estaban, y los cuatro últimos versos vuelve a repetir la MÚSICA y el trono se eleva y se tocan chirimías y demás instrumentos, con que se da fin al auto</stage>
+          <stage>Al principio de estos versos se abre un escotillón y salen llamas de fuego y se
+            hunde el MAL GENIO y la CULPA, abrazados como estaban, y los cuatro últimos versos
+            vuelve a repetir la MÚSICA y el trono se eleva y se tocan chirimías y demás
+            instrumentos, con que se da fin al auto</stage>
         </div>
       </div>
     </body>

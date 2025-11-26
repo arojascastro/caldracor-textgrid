@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2021-12-29">
           <time when="15:01:54"/>
@@ -38,10 +42,13 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">la-cisma-de-ingalaterra</idno></publicationStmt>
+        <idno type="caldracor">la-cisma-de-ingalaterra</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, La cisma de Ingalaterra. Edición crítica de Juan Manuel Escudero Baztán. Teatro del Siglo de Oro. Ediciones críticas Vol. 115 Kassel : Edition Reichenberger, 2001</title>
+          <title>Pedro Calderón de la Barca, La cisma de Ingalaterra. Edición crítica de Juan Manuel
+            Escudero Baztán. Teatro del Siglo de Oro. Ediciones críticas Vol. 115 Kassel : Edition
+            Reichenberger, 2001</title>
           <idno type="ISBN">3-935004-20-6</idno>
         </bibl>
       </sourceDesc>
@@ -125,17 +132,33 @@
           <term source="dracor" type="genreTitle">comedia histórica</term>
           <term source="#kroll" type="main">comedia religiosa</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1627"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1627"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -178,7 +201,9 @@
       <div type="act" n="1">
         <head rend="caps">Primera Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Tocan chirimías, y córrese una cortina; aparece el rey Enrique durmiendo; delante, una mesa con recado de escribir, y a un lado, Ana Bolena. Y dice el rey entre sueños.</stage>
+          <stage>Tocan chirimías, y córrese una cortina; aparece el rey Enrique durmiendo; delante,
+            una mesa con recado de escribir, y a un lado, Ana Bolena. Y dice el rey entre
+            sueños.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
@@ -426,7 +451,8 @@
             <l>cúya la vitoria es, 8</l>
             <l>baje Lutero a mis pies,</l>
             <l>y León suba a mi cabeza.</l>
-            <stage>Por arrojar la carta de Lutero a sus pies y poner la del Pontífice sobre la cabeza, las trueca.</stage>
+            <stage>Por arrojar la carta de Lutero a sus pies y poner la del Pontífice sobre la
+              cabeza, las trueca.</stage>
             <l>Ahora veré lo que dice</l>
             <l>su Santidad. Mas ¿qué es esto?</l>
             <l>En nuevas dudas me ha puesto</l>
@@ -966,7 +992,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Salen Ana Bolena, su padre un capitán y acompañamiento por un lado; y por otro la reina la infanta María y Margarita Polo.</stage>
+          <stage>Salen Ana Bolena, su padre un capitán y acompañamiento por un lado; y por otro la
+            reina la infanta María y Margarita Polo.</stage>
           <sp who="#ana">
             <speaker rend="caps">Ana</speaker>
 
@@ -1381,7 +1408,7 @@
           <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="15">
-           <stage>Salen Tomás Boleno y Ana Bolena.</stage>
+          <stage>Salen Tomás Boleno y Ana Bolena.</stage>
           <sp who="#tomás">
             <speaker rend="caps">Tomás</speaker>
 
@@ -1709,7 +1736,8 @@
           <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="17">
-          <stage>Salen el rey, Volseo, la reina, la infanta y damas, y el rey, en viendo a Ana Bolena, se turba.</stage>
+          <stage>Salen el rey, Volseo, la reina, la infanta y damas, y el rey, en viendo a Ana
+            Bolena, se turba.</stage>
           <sp who="#ana">
             <speaker rend="caps">Ana</speaker>
 
@@ -3486,7 +3514,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="18">
-          <stage>Salen las damas, córrese una cortina y estarán sentados el rey y la reina con coronas y cetros y la infanta sentada junto a la reina, y Volseo detrás del rey, en pie.</stage>
+          <stage>Salen las damas, córrese una cortina y estarán sentados el rey y la reina con
+            coronas y cetros y la infanta sentada junto a la reina, y Volseo detrás del rey, en
+            pie.</stage>
           <sp who="#carlos">
             <speaker rend="caps">Carlos</speaker>
 
@@ -4035,7 +4065,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="2">
-          <stage>Vanse y sale Volseo, arrojando a unos soldados que traen memoriales y Pasquín.</stage>
+          <stage>Vanse y sale Volseo, arrojando a unos soldados que traen memoriales y
+            Pasquín.</stage>
           <sp who="#volseo">
             <speaker rend="caps">Volseo</speaker>
 
@@ -4522,7 +4553,7 @@
 
 
             <l>Llegó el deseado efeto que mi suerte pretendió.</l>
-          </sp> 
+          </sp>
           <stage>Vase haciendo burla.</stage>
         </div>
         <div type="scene" resp="#rojas" n="11">
@@ -5667,7 +5698,9 @@
           <stage>Vase.</stage>
         </div>
         <div type="scene" resp="#rojas" n="31">
-          <stage>Tocan chirimías y clarines y salen a la jura los que pudieren y el rey y la infanta, que suben en un trono a cuyos pies en lugar de almohada ha de estar el cuerpo de Ana Bolena, cubierto con un tafetán y en estando sentados la descubren.</stage>
+          <stage>Tocan chirimías y clarines y salen a la jura los que pudieren y el rey y la
+            infanta, que suben en un trono a cuyos pies en lugar de almohada ha de estar el cuerpo
+            de Ana Bolena, cubierto con un tafetán y en estando sentados la descubren.</stage>
           <sp who="#infanta">
             <speaker rend="caps">Infanta</speaker>
 

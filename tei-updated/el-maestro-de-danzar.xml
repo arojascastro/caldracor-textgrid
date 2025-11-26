@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2021-12-16">
           <time when="10:52:44"/>
@@ -38,10 +42,13 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">el-maestro-de-danzar</idno></publicationStmt>
+        <idno type="caldracor">el-maestro-de-danzar</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Comedias. El maestro de danzar. Edición de Luis Iglesias Feijoo. Tercera Parte de comedias. Dirección de Don William Cruickshank y Luis Iglesias Feijoo. Madrid: Fundación José Antonio de Castro, 2007.</title>
+          <title>Pedro Calderón de la Barca, Comedias. El maestro de danzar. Edición de Luis
+            Iglesias Feijoo. Tercera Parte de comedias. Dirección de Don William Cruickshank y Luis
+            Iglesias Feijoo. Madrid: Fundación José Antonio de Castro, 2007.</title>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -97,17 +104,33 @@
           <term source="dracor" type="genreTitle">comedia</term>
           <term source="#kroll" type="main">comedia cómica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1664"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1664"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -541,7 +564,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Vanse los tres, y de la puerta por donde salió Beatriz, salen riñendo, las espaldas al tablado don Félix, y don Juan de cara, y por otra parte don Diego y Celio, gente, y luz.</stage>
+          <stage>Vanse los tres, y de la puerta por donde salió Beatriz, salen riñendo, las espaldas
+            al tablado don Félix, y don Juan de cara, y por otra parte don Diego y Celio, gente, y
+            luz.</stage>
           <sp who="#todos">
             <speaker rend="caps">Todos</speaker>
 
@@ -946,7 +971,7 @@
           <stage>Sale una ronda.</stage>
           <sp who="#alguacil-1">
             <speaker rend="caps">Alguacil 1</speaker>
-            
+
 
             <l>La justicia, caballeros.</l>
           </sp>
@@ -968,7 +993,7 @@
           <sp who="#alguacil-2">
             <speaker rend="caps">Alguacil 2</speaker>
 
-            
+
             <l>¿Quién va?</l>
           </sp>
           <sp who="#don-enrique">
@@ -978,11 +1003,11 @@
             <l>Un hombre forastero,</l>
             <l>que ahora acaba de llegar.</l>
           </sp>
-          <stage>Pónense delante de ella.</stage> 
+          <stage>Pónense delante de ella.</stage>
           <sp who="#alguacil-1">
             <speaker rend="caps">Alguacil 1</speaker>
-            
-            
+
+
             <l>¿Vos quién sois?</l>
           </sp>
           <sp who="#chacón">
@@ -993,7 +1018,7 @@
           </sp>
           <sp who="#alguacil-2">
             <speaker rend="caps">Alguacil 2</speaker>
-              
+
 
             <l>¿Cómo el mesmo y otro?</l>
           </sp>
@@ -1199,8 +1224,8 @@
           <stage>Vase. Métenlos a cuchilladas, y sale don Félix.</stage>
           <sp who="#alguacil-1">
             <speaker rend="caps">Alguacil 1</speaker>
-            
-            
+
+
             <l>¡Ay infeliz, que me han muerto!</l>
           </sp>
           <sp who="#chacón">
@@ -3015,7 +3040,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage>Don Enrique y Chacón, y hablan quedo, y al pasar el tablado, sale por otra parte don Diego, y ellos se retiran adonde salieron.</stage>
+          <stage>Don Enrique y Chacón, y hablan quedo, y al pasar el tablado, sale por otra parte
+            don Diego, y ellos se retiran adonde salieron.</stage>
           <sp who="#chacón">
             <speaker rend="caps">Chacón</speaker>
 
@@ -3311,7 +3337,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="12">
-          <stage>Éntranse los dos por una parte, y salen por la otra Leonor y Inés, y ellos vuelven a salir por la que ellas salieron.</stage>
+          <stage>Éntranse los dos por una parte, y salen por la otra Leonor y Inés, y ellos vuelven
+            a salir por la que ellas salieron.</stage>
           <sp who="#leonor">
             <speaker rend="caps">Leonor</speaker>
 
@@ -3340,7 +3367,9 @@
             <l>amor a lo que no ve,</l>
             <l>el riesgo al cuidado iguala.</l>
           </sp>
-          <stage>Canta Inés, y sin dejar nunca de cantar ella y representar ellos, advirtiendo que en las repeticiones del tono, acaben iguales los versos de cantado y representado.</stage>
+          <stage>Canta Inés, y sin dejar nunca de cantar ella y representar ellos, advirtiendo que
+            en las repeticiones del tono, acaben iguales los versos de cantado y
+            representado.</stage>
           <sp who="#inés">
             <speaker rend="caps">Inés</speaker>
 
@@ -3520,7 +3549,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="13">
-          <stage>Toma la guitarra don Enrique y, estándola templando, sale don Diego, y hállale con ella en la mano.</stage>
+          <stage>Toma la guitarra don Enrique y, estándola templando, sale don Diego, y hállale con
+            ella en la mano.</stage>
           <sp who="#inés">
             <speaker rend="caps">Inés</speaker>
 
@@ -4801,7 +4831,8 @@
             <l>Y sea presto,</l>
             <l>que entra ya.</l>
           </sp>
-          <stage>Tocando, y con el sombrero en la espada, haciendo la reverencia, los halla don Diego.</stage>
+          <stage>Tocando, y con el sombrero en la espada, haciendo la reverencia, los halla don
+            Diego.</stage>
           <sp who="#don-enrique">
             <speaker rend="caps">Don Enrique</speaker>
 
@@ -5745,7 +5776,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="6">
-          <stage>Escóndense los dos en la puerta de en medio, y por la del lado salen Félix y Beatriz.</stage>
+          <stage>Escóndense los dos en la puerta de en medio, y por la del lado salen Félix y
+            Beatriz.</stage>
           <sp who="#inés">
             <speaker rend="caps">Inés</speaker>
 
@@ -7464,7 +7496,7 @@
             <l>…pidiendo a esos reales pies</l>
             <l>el perdón de nuestras faltas.</l>
           </sp>
-        <trailer>FIN</trailer>
+          <trailer>FIN</trailer>
         </div>
       </div>
     </body>

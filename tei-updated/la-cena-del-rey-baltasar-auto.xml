@@ -17,11 +17,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-02-07">
           <time when="17:38:46"/>
@@ -33,13 +36,16 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">la-cena-del-rey-baltasar-auto</idno></publicationStmt>
+        <idno type="caldracor">la-cena-del-rey-baltasar-auto</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Antonio Sánchez Jiménez y Adrián J. Sáez, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2013. ISBN: 978-3-944244-17-4.</title>
+            <title>Edición digital a partir de la edición de Antonio Sánchez Jiménez y Adrián J.
+              Sáez, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2013. ISBN:
+              978-3-944244-17-4.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -87,17 +93,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1634"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1634"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -112,7 +134,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000180" passive="http://www.wikidata.org/entity/Q16493626"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000180"
+        passive="http://www.wikidata.org/entity/Q16493626"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -132,7 +155,8 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Sale el Pensamiento vestido de loco, de muchascolores, y Daniel tras él deteniéndole.</stage>
+          <stage>Sale el Pensamiento vestido de loco, de muchascolores, y Daniel tras él
+            deteniéndole.</stage>
           <sp who="#daniel">
             <speaker>DANIEL</speaker>
             <l part="I">Espera.</l>
@@ -375,7 +399,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="2">
-          <stage>Tocan chirimías, y salen Baltasar y la Vanidad, y por otra parte la Idolatría, bizarra, y acompañamiento.</stage>
+          <stage>Tocan chirimías, y salen Baltasar y la Vanidad, y por otra parte la Idolatría,
+            bizarra, y acompañamiento.</stage>
           <sp who="#baltasar">
             <speaker>BALTASAR</speaker>
             <l>Corónese tu frente</l>
@@ -1541,7 +1566,8 @@
             <l>las fuentecillas risueñas</l>
             <l>y el prado lleno de olor.</l>
           </sp>
-          <stage>Siéntanse y Baltasaren medio y Idolatría le quita el sombrero y con el penacho le hace aire.</stage>
+          <stage>Siéntanse y Baltasaren medio y Idolatría le quita el sombrero y con el penacho le
+            hace aire.</stage>
           <sp who="#idolatria">
             <speaker>IDOLATRÍA</speaker>
             <l>Yo con el bello penacho</l>
@@ -1700,7 +1726,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="15">
-          <stage>Saca la espada y quiere matarle, y sale Daniel, y detiénele el brazo a la Muerte.</stage>
+          <stage>Saca la espada y quiere matarle, y sale Daniel, y detiénele el brazo a la
+            Muerte.</stage>
           <sp who="#daniel">
             <speaker>DANIEL</speaker>
             <l part="F">Eso no.</l>
@@ -1731,7 +1758,9 @@
             <l>oye allí la Vanidad,</l>
             <l>mira allí la Idolatría.</l>
           </sp>
-          <stage>Ábrese una apariencia a un lado y parece una Estatua de color de bronce a caballo, y la Idolatría teniéndola del freno; y al otro lado sobre unatorre aparece la Vanidad</stage>
+          <stage>Ábrese una apariencia a un lado y parece una Estatua de color de bronce a caballo,
+            y la Idolatría teniéndola del freno; y al otro lado sobre unatorre aparece la
+            Vanidad</stage>
           <stage>con muchas plumas y instrumento en la mano.</stage>
           <sp who="#idolatria">
             <speaker>IDOLATRÍA</speaker>
@@ -2113,7 +2142,8 @@
             <l n="1315">para mí, para mí,</l>
             <l>que para cenar nací».</l>
           </sp>
-          <stage>Sacan la mesa con vasos de plata y van sirviendoplatos de comida a su tiempo.</stage>
+          <stage>Sacan la mesa con vasos de plata y van sirviendoplatos de comida a su
+            tiempo.</stage>
           <sp who="#baltasar">
             <speaker>BALTASAR</speaker>
             <l>Sentaos las dos, y luego por los lados</l>
@@ -2275,7 +2305,8 @@
             <l>embrión que tuvo dentro;</l>
             <l>y, siendo su fruto el rayo,</l>
             <l>ha sido el bramido un trueno.</l>
-            <stage>Da un gran trueno, y con un cohete de pasa cuerda sale una mano, que vendrá a dar donde habrá un papel escrito con unas letras</stage>
+            <stage>Da un gran trueno, y con un cohete de pasa cuerda sale una mano, que vendrá a dar
+              donde habrá un papel escrito con unas letras</stage>
             <l>¿No veis (¡ay de mí!) no veis</l>
             <l n="1410">que rasgando, que rompiendo</l>
             <l>el aire trémulo, sobre</l>
@@ -2474,7 +2505,8 @@
             <speaker>BALTASAR</speaker>
             <l part="F">¡Ay, que me abraso!</l>
           </sp>
-          <stage>Saca la espada, dale una estocada, y luego se abraza con él, como que luchan.</stage>
+          <stage>Saca la espada, dale una estocada, y luego se abraza con él, como que
+            luchan.</stage>
           <sp who="#muerte">
             <speaker>MUERTE</speaker>
             <l part="I">¡Muere, ingrato!</l>
@@ -2546,7 +2578,8 @@
             <l>milagro de Dios, en quien</l>
             <l n="1560">cifró el mayor sacramento.</l>
           </sp>
-          <stage type="object">Descúbrese con música una mesa con pie de altar y en medio un cáliz y una hostia, y dos velas a los lados.</stage>
+          <stage type="object">Descúbrese con música una mesa con pie de altar y en medio un cáliz y
+            una hostia, y dos velas a los lados.</stage>
           <sp who="#idolatria">
             <speaker>IDOLATRÍA</speaker>
             <l>Yo, que fui la Idolatría</l>

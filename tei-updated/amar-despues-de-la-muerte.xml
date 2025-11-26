@@ -19,21 +19,26 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>Automatisch generiertes XML/TEI</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2021-09-12">
           <time when="15:39:43"/>
         </date>
         <idno type="quadramaX">Amar después de la muerte o el tuzaní de la Alpujarra</idno>
-      <idno type="caldracor">amar-despues-de-la-muerte</idno></publicationStmt>
+        <idno type="caldracor">amar-despues-de-la-muerte</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/amar-despues-de-la-muerte-o-el-tuzani-de-las-alpujarras--0/html/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/amar-despues-de-la-muerte-o-el-tuzani-de-las-alpujarras--0/html/</idno>
           <bibl type="originalSource">
             <title>Edición digital basada en la de Madrid, Espasa Calpe, 1970, pp.135-244. </title>
           </bibl>
@@ -170,17 +175,33 @@
           <term source="dracor" type="genreTitle">comedia histórica</term>
           <term source="#kroll" type="main">comedia histórica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1659"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1659"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -225,7 +246,8 @@
         <head>Jornada I</head>
         <div type="scene" n="1">
           <stage>Escena I</stage>
-          <stage>MORISCOS, con casaquillas y calzoncillos, y MORISCAS con jubones blancos e instrumentos; CADÍ y ALCUZCUZ.</stage>
+          <stage>MORISCOS, con casaquillas y calzoncillos, y MORISCAS con jubones blancos e
+            instrumentos; CADÍ y ALCUZCUZ.</stage>
           <sp who="#cadí">
             <speaker>CADÍ</speaker>
             <l>¿Están cerradas las puertas?</l>
@@ -850,7 +872,8 @@
         </div>
         <div type="scene" n="5">
           <stage>Escena V</stage>
-          <stage>DON ALONSO DE ZÚÑIGA, DON FERNANDO DE VÁLOR y DON JUAN MALEC.-DOÑA CLARA; DON ÁLVARO, oculto.</stage>
+          <stage>DON ALONSO DE ZÚÑIGA, DON FERNANDO DE VÁLOR y DON JUAN MALEC.-DOÑA CLARA; DON
+            ÁLVARO, oculto.</stage>
           <sp who="#malec">
             <speaker>MALEC</speaker>
             <l part="I">Clara...</l>
@@ -875,7 +898,8 @@
             <speaker>MALEC</speaker>
             <l part="F">Oye desde ahí.</l>
           </sp>
-          <stage>Vase DOÑA CLARA al cuarto donde está DON ÁLVARO, quedándose tras la puerta entreabierta.</stage>
+          <stage>Vase DOÑA CLARA al cuarto donde está DON ÁLVARO, quedándose tras la puerta
+            entreabierta.</stage>
           <sp who="#don-alonso">
             <speaker>DON ALONSO</speaker>
             <l n="400">Don Juan de Mendoza preso</l>
@@ -1621,7 +1645,8 @@
             <l>porque van ambos por mí,</l>
             <l n="740">si me ganan o me pierden...</l>
           </sp>
-          <stage>Tropezando en una silla, cae DON ÁLVARO; sale DOÑA ISABEL tapada y detiene a DON JUAN.</stage>
+          <stage>Tropezando en una silla, cae DON ÁLVARO; sale DOÑA ISABEL tapada y detiene a DON
+            JUAN.</stage>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
             <l>Tropezando en esta silla,</l>
@@ -1709,7 +1734,8 @@
         </div>
         <div type="scene" n="12">
           <stage>Escena XII</stage>
-          <stage>DON FERNANDO DE VÁLOR, DON ALONSO; después, INÉS.-DOÑA ISABEL, tapada; DON ÁLVARO, DON JUAN DE MENDOZA.</stage>
+          <stage>DON FERNANDO DE VÁLOR, DON ALONSO; después, INÉS.-DOÑA ISABEL, tapada; DON ÁLVARO,
+            DON JUAN DE MENDOZA.</stage>
           <sp who="#doña-isabel">
             <speaker>DOÑA ISABEL</speaker>
             <l part="F">Caballeros,</l>
@@ -1981,7 +2007,8 @@
         <div type="scene" n="1">
           <stage>Sierra de la Alpujarra.-Cercanías de Galera.</stage>
           <stage>Escena I</stage>
-          <stage>Tocan cajas y trompetas, y salen SOLDADOS, DON JUAN DE MENDOZA y EL SEÑOR DON JUAN DE AUSTRIA.</stage>
+          <stage>Tocan cajas y trompetas, y salen SOLDADOS, DON JUAN DE MENDOZA y EL SEÑOR DON JUAN
+            DE AUSTRIA.</stage>
           <sp who="#don-juan">
             <speaker>DON JUAN</speaker>
             <l>Rebelada montaña,</l>
@@ -2690,7 +2717,9 @@
         </div>
         <div type="scene" n="6">
           <stage>Escena VI</stage>
-          <stage>MALEC, que llega a hablar a DON FERNANDO, hincada la rodilla; y a los lados, DON ÁLVARO y DOÑA CLARA, que salen en traje de moros, y se quedan a las puertas; BEATRIZ. -Dichos.</stage>
+          <stage>MALEC, que llega a hablar a DON FERNANDO, hincada la rodilla; y a los lados, DON
+            ÁLVARO y DOÑA CLARA, que salen en traje de moros, y se quedan a las puertas; BEATRIZ.
+            -Dichos.</stage>
           <sp who="#doña-clara">
             <speaker>DOÑA CLARA</speaker>
             <stage>Aparte.</stage>
@@ -2738,7 +2767,8 @@
             <stage>Aparte.</stage>
             <l n="465">Escucháis, mis fantasías...</l>
           </sp>
-          <stage>Música; y ellos, aparte Que bien se ve que sois mías en lo poco que duráis...</stage>
+          <stage>Música; y ellos, aparte Que bien se ve que sois mías en lo poco que
+            duráis...</stage>
           <sp who="#malec">
             <speaker>MALEC</speaker>
             <l>Señor, pues entre el estruendo</l>
@@ -4152,7 +4182,8 @@
         </div>
         <div type="scene" n="4">
           <stage>Escena IV</stage>
-          <stage>DON JUAN DE MENDOZA, DON LOPE DE FIGUEROA, GARCÉS, SOLDADOS; después, MALEC, MORISCOS y DOÑA CLARA.</stage>
+          <stage>DON JUAN DE MENDOZA, DON LOPE DE FIGUEROA, GARCÉS, SOLDADOS; después, MALEC,
+            MORISCOS y DOÑA CLARA.</stage>
           <sp who="#don-lope">
             <speaker>DON LOPE</speaker>
             <l>No quede persona a vida:</l>
@@ -4223,7 +4254,8 @@
         </div>
         <div type="scene" n="5">
           <stage>Escena V</stage>
-          <stage>Después de haberse concluido la batalla dentro, salen SOLDADOS, GARCÉS, DON LOPE y DON JUAN DE MENDOZA.</stage>
+          <stage>Después de haberse concluido la batalla dentro, salen SOLDADOS, GARCÉS, DON LOPE y
+            DON JUAN DE MENDOZA.</stage>
           <sp who="#soldado-1">
             <speaker>SOLDADO 1.º</speaker>
             <l>No se ha hecho presa tal</l>
@@ -4299,7 +4331,8 @@
             <l>O dadla vida o matadme.</l>
 
           </sp>
-          <stage>Entra, y saca a DOÑA CLARA, suelto el cabello, sangriento el rostro, y medio vestida.</stage>
+          <stage>Entra, y saca a DOÑA CLARA, suelto el cabello, sangriento el rostro, y medio
+            vestida.</stage>
           <sp who="#doña-clara">
             <speaker>DOÑA CLARA</speaker>
             <l>Soldado español, en quien</l>
@@ -4418,7 +4451,8 @@
         </div>
         <div type="scene" n="7">
           <stage>Escena VII</stage>
-          <stage>DON FERNANDO DE VÁLOR, DOÑA ISABEL TUZANÍ, MORISCOS.- DON ÁLVARO; DOÑA CLARA, muerta.</stage>
+          <stage>DON FERNANDO DE VÁLOR, DOÑA ISABEL TUZANÍ, MORISCOS.- DON ÁLVARO; DOÑA CLARA,
+            muerta.</stage>
           <sp who="#válor">
             <speaker>VÁLOR</speaker>
             <l>Aunque con lenguas de fuego</l>
@@ -5163,7 +5197,8 @@
             <l>Si yo estoy solo, ¿qué importa</l>
             <l>que todos contra mí sean?</l>
           </sp>
-          <stage>Salen riñendo GARCÉS y SOLDADOS, y deteniéndolos DON ÁLVARO; detrás ALCUZCUZ.</stage>
+          <stage>Salen riñendo GARCÉS y SOLDADOS, y deteniéndolos DON ÁLVARO; detrás
+            ALCUZCUZ.</stage>
           <sp who="#don-álvaro">
             <speaker>DON ÁLVARO</speaker>
             <l>Tantos a uno, soldados,</l>
@@ -6068,7 +6103,8 @@
         </div>
         <div type="scene" n="20">
           <stage>Escena XX</stage>
-          <stage>DON JUAN DE AUSTRIA, DON LOPE, y SOLDADOS.-DON ÁLVARO, DON JUAN DE MENDOZA, ALCUZCUZ; GARCÉS, muerto.</stage>
+          <stage>DON JUAN DE AUSTRIA, DON LOPE, y SOLDADOS.-DON ÁLVARO, DON JUAN DE MENDOZA,
+            ALCUZCUZ; GARCÉS, muerto.</stage>
           <sp who="#don-lope">
             <speaker>DON LOPE</speaker>
             <l part="F">¿Qué es aquesto?</l>
@@ -6136,7 +6172,8 @@
         </div>
         <div type="scene" resp="#rojas" n="21">
           <stage>Escena XXI</stage>
-          <stage>DOÑA ISABEL y SOLDADOS MORISCOS en el muro; después, DON ÁLVARO, DON JUAN DE AUSTRIA y SOLDADOS.</stage>
+          <stage>DOÑA ISABEL y SOLDADOS MORISCOS en el muro; después, DON ÁLVARO, DON JUAN DE
+            AUSTRIA y SOLDADOS.</stage>
           <sp who="#doña-isabel">
             <speaker>DOÑA ISABEL</speaker>
             <l>Haz con esa seña blanca</l>
@@ -6192,7 +6229,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="24">
-          <stage>Salen DON JUAN DE AUSTRIA y SOLDADOS, y por otro lado DOÑA ISABEL y MORISCOS.</stage>
+          <stage>Salen DON JUAN DE AUSTRIA y SOLDADOS, y por otro lado DOÑA ISABEL y
+            MORISCOS.</stage>
           <sp who="#doña-isabel">
             <speaker>DOÑA ISABEL</speaker>
             <l>Generoso don Juan de Austria,</l>

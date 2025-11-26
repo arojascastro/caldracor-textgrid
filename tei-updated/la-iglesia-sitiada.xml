@@ -16,11 +16,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-25">
           <time when="10:41:44"/>
@@ -32,13 +35,15 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">la-iglesia-sitiada</idno></publicationStmt>
+        <idno type="caldracor">la-iglesia-sitiada</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18223</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de B. Baczynska, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2009. ISBN: 978-3-937734-76-7.</title>
+            <title>Edición digital a partir de la edición de B. Baczynska, Pamplona–Kassel,
+              Universidad de Navarra–Reichenberger, 2009. ISBN: 978-3-937734-76-7.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -86,17 +91,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date notBefore="1635" notAfter="1636"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date notBefore="1635" notAfter="1636"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -526,7 +547,8 @@
             <speaker>HEREJÍA</speaker>
             <l part="F">Sentemos.</l>
           </sp>
-          <stage>Siéntanse y se descubre en lo alto sentada la Iglesia en un trono y la Fe a sus pies</stage>
+          <stage>Siéntanse y se descubre en lo alto sentada la Iglesia en un trono y la Fe a sus
+            pies</stage>
           <sp who="#iglesia">
             <speaker>IGLESIA</speaker>
             <l>Buen oído tienes, Fe,</l>
@@ -1305,7 +1327,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="10">
-          <stage>Vase la Herejía y sale la Gentilidad y pelea con la Iglesia, y ella se va retirando</stage>
+          <stage>Vase la Herejía y sale la Gentilidad y pelea con la Iglesia, y ella se va
+            retirando</stage>
           <sp who="#gentilidad">
             <speaker>GENTILIDAD</speaker>
             <l part="F">Yo intento</l>
@@ -1980,7 +2003,8 @@
             <stage>Canta</stage>
             <l>Que humilles enemigos de tu Iglesia.</l>
           </sp>
-          <sp who="#secta #discordia #atrevimiento #fe #gentilidad #herejia #iglesia #musicos #acompanamiento">
+          <sp
+            who="#secta #discordia #atrevimiento #fe #gentilidad #herejia #iglesia #musicos #acompanamiento">
             <speaker>TODOS</speaker>
             <l>Te rogamos, audi nos.</l>
           </sp>
@@ -1989,7 +2013,8 @@
             <stage>Canta</stage>
             <l n="1070">Que des paz a los príncipes cristianos.</l>
           </sp>
-          <sp who="#secta #discordia #atrevimiento #fe #gentilidad #herejia #iglesia #musicos #acompanamiento">
+          <sp
+            who="#secta #discordia #atrevimiento #fe #gentilidad #herejia #iglesia #musicos #acompanamiento">
             <speaker>TODOS</speaker>
             <l>Te rogamos, audi nos.</l>
           </sp>
@@ -1998,7 +2023,8 @@
             <stage>Canta</stage>
             <l>Cordero que nos quitas los pecados.</l>
           </sp>
-          <sp who="#secta #discordia #atrevimiento #fe #gentilidad #herejia #iglesia #musicos #acompanamiento">
+          <sp
+            who="#secta #discordia #atrevimiento #fe #gentilidad #herejia #iglesia #musicos #acompanamiento">
             <speaker>TODOS</speaker>
             <l>Parce nobis, Domine.</l>
           </sp>
@@ -2185,7 +2211,9 @@
             <l>Atended, mísera gente,</l>
             <l n="1235">suenen voces e instrumentos.</l>
           </sp>
-          <stage>Suenan chirimías, y siéntase la Iglesia en la silla que estará arrimada a la Cruz, y aparece un Niño Jesús que habrá estado detrás de la Hostia y venga a estar como encima de la cabeza de la Iglesia</stage>
+          <stage>Suenan chirimías, y siéntase la Iglesia en la silla que estará arrimada a la Cruz,
+            y aparece un Niño Jesús que habrá estado detrás de la Hostia y venga a estar como encima
+            de la cabeza de la Iglesia</stage>
           <sp who="#nino">
             <speaker>NIÑO</speaker>
             <l>Herejes, ved cómo ha habido</l>
@@ -2206,7 +2234,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="26">
-          <stage>Descúbrese la Herejía medio desnuda y ensangrentada, y dos serpientes a los lados mordiéndola</stage>
+          <stage>Descúbrese la Herejía medio desnuda y ensangrentada, y dos serpientes a los lados
+            mordiéndola</stage>
           <sp who="#herejia">
             <speaker>HEREJÍA</speaker>
             <l>Iglesia, que perseguida</l>
@@ -2451,7 +2480,8 @@
             <l>Y don Pedro Calderón</l>
             <l>pide perdón de sus yerros.</l>
           </sp>
-          <stage>Tocan las chirimías, ciérranse las apariencias y se da fin al auto de «La iglesia sitiada o perseguida»</stage>
+          <stage>Tocan las chirimías, ciérranse las apariencias y se da fin al auto de «La iglesia
+            sitiada o perseguida»</stage>
         </div>
       </div>
     </body>

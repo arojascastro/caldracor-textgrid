@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-09">
           <time when="11:41:04"/>
@@ -38,10 +42,13 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">fineza-contra-fineza</idno></publicationStmt>
+        <idno type="caldracor">fineza-contra-fineza</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Fineza contra fineza. En: Comedias, Vol. 4. Dirección de Luis Iglesias Feijoo y Sebastian Neumeister. Madrid : Fundación José Antonio de Castro, 2010</title>
+          <title>Pedro Calderón de la Barca, Fineza contra fineza. En: Comedias, Vol. 4. Dirección
+            de Luis Iglesias Feijoo y Sebastian Neumeister. Madrid : Fundación José Antonio de
+            Castro, 2010</title>
           <idno type="ISBN">978-84-96452-89-3</idno>
         </bibl>
       </sourceDesc>
@@ -116,17 +123,33 @@
           <term source="dracor" type="genreTitle">comedia mitológica</term>
           <term source="#kroll" type="main">comedia mitológica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1672"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1672"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -163,7 +186,9 @@
       <div type="act" n="1">
         <head rend="caps">Jornada Primera</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Apariencia de campaña con vista del templo de Diana. Dentro, cajas y trompetas, y habiéndose dicho los primeros versos, salen algunos soldados riñendo con Celauro, que vendrá, ensangrentado el rostro, cayendo y levantando.</stage>
+          <stage>Apariencia de campaña con vista del templo de Diana. Dentro, cajas y trompetas, y
+            habiéndose dicho los primeros versos, salen algunos soldados riñendo con Celauro, que
+            vendrá, ensangrentado el rostro, cayendo y levantando.</stage>
           <sp who="#voces">
             <speaker rend="caps">Voces</speaker>
             <stage type="withText">dentro</stage>
@@ -312,7 +337,8 @@
             <l>mejor que al compás de trompas</l>
             <l>y cajas decir mis gentes…?</l>
           </sp>
-          <stage>Dentro instrumentos; y todas las mujeres, cantando unas y representando otras, digan:</stage>
+          <stage>Dentro instrumentos; y todas las mujeres, cantando unas y representando otras,
+            digan:</stage>
           <sp who="#todas">
             <speaker rend="caps">Todas</speaker>
             <stage type="withText">dentro</stage>
@@ -2083,7 +2109,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="12">
-          <stage>Vanse los dos por una puerta, y al mismo tiempo salen por otra Doris y Libia.</stage>
+          <stage>Vanse los dos por una puerta, y al mismo tiempo salen por otra Doris y
+            Libia.</stage>
           <sp who="#doris">
             <speaker rend="caps">Doris</speaker>
 
@@ -2563,7 +2590,10 @@
       <div type="act" n="2">
         <head rend="caps">Jornada Segunda</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Dentro chirimías, atabalillos y música. Y en habiendo cantado los primeros versos, salen por una parte Libia y algunas ninfas con guirnaldas y ramos en las manos y Ismenia con un azafate y en él unas tórtolas. Después salen por otra parte Anfión y soldados.</stage>
+          <stage>Dentro chirimías, atabalillos y música. Y en habiendo cantado los primeros versos,
+            salen por una parte Libia y algunas ninfas con guirnaldas y ramos en las manos y Ismenia
+            con un azafate y en él unas tórtolas. Después salen por otra parte Anfión y
+            soldados.</stage>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
 
@@ -2782,7 +2812,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Dentro cajas y trompetas, y sale Celauro por en medio de las dos, de suerte que, para hablar a Anfión, tenga de espaldas a las ninfas.</stage>
+          <stage>Dentro cajas y trompetas, y sale Celauro por en medio de las dos, de suerte que,
+            para hablar a Anfión, tenga de espaldas a las ninfas.</stage>
           <sp who="#celauro">
             <speaker rend="caps">Celauro</speaker>
 
@@ -2962,7 +2993,8 @@
 
             <l>Vamos, Libia, pues ya dije</l>
             <l>que el obedecer es fuerza.</l>
-            <stage>Vuelven los dos a un tiempo y quedan suspensos, viendo Celauro a Doris con el azafate.</stage>
+            <stage>Vuelven los dos a un tiempo y quedan suspensos, viendo Celauro a Doris con el
+              azafate.</stage>
             <l>Mas ¿qué miro?</l>
           </sp>
           <sp who="#celauro">
@@ -4424,7 +4456,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="23">
-          <stage>Sale Ismenia con un ídolo de Venus de color de bronce y pasa atravesando el tablado.</stage>
+          <stage>Sale Ismenia con un ídolo de Venus de color de bronce y pasa atravesando el
+            tablado.</stage>
           <sp who="#ismenia">
             <speaker rend="caps">Ismenia</speaker>
 
@@ -4461,7 +4494,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="25">
-          <stage>Al entrar él, sale Ismenia y encuéntranse los dos y él se cubre el rostro con una banda.</stage>
+          <stage>Al entrar él, sale Ismenia y encuéntranse los dos y él se cubre el rostro con una
+            banda.</stage>
           <sp who="#ismenia">
             <speaker rend="caps">Ismenia</speaker>
 
@@ -4883,7 +4917,8 @@
       <div type="act" n="3">
         <head rend="caps">Jornada Tercera</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Salen Ismenia, Doris y Libia y demás ninfas huyendo, y tras ellas Anfión empuñando la daga, Celauro y soldado primero deteniéndole, Lelio y otros.</stage>
+          <stage>Salen Ismenia, Doris y Libia y demás ninfas huyendo, y tras ellas Anfión empuñando
+            la daga, Celauro y soldado primero deteniéndole, Lelio y otros.</stage>
           <sp who="#unas">
             <speaker rend="caps">Unas</speaker>
 
@@ -7032,7 +7067,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="23">
-          <stage>Éntranse los dos por una parte y abriéndose un escotillón en medio del tablado, salen todos por otra parte.</stage>
+          <stage>Éntranse los dos por una parte y abriéndose un escotillón en medio del tablado,
+            salen todos por otra parte.</stage>
           <sp who="#ismenia">
             <speaker rend="caps">Ismenia</speaker>
 

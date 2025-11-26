@@ -19,23 +19,38 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>Automatisch generiertes XML/TEI</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2021-09-04">
           <time when="13:51:11"/>
         </date>
         <idno type="quadramaX">La hija del aire, Primera parte</idno>
-      <idno type="caldracor">la-hija-del-aire-i</idno></publicationStmt>
+        <idno type="caldracor">la-hija-del-aire-i</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/la-hija-del-aire--0/html/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/la-hija-del-aire--0/html/</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la Tercera parte de Comedias de D. Pedro Calderón de la Barca. En Madrid, por Domingo García Morrás, 1664 y cotejada con la edición crítica de Francisco Ruiz Ramón (Madrid, Cátedra, 1987, pp. 67-195). En esta última edición, cuya consulta recomendamos para la correcta apreciación crítica de la obra, se incorporan variantes procedentes de la edición preparada por Juan de Vera Tassís y Villarroel (En Madrid, por Francisco Sanz, 1678). Hemos asumido algunas de ellas, al mismo tiempo que, con respecto a la edición de Francisco Ruiz Ramón, hemos modificado un total de cuarenta y siete versos para corregir erratas y modificar la puntuación, fundamentalmente. Asimismo, hemos utilizado distintos criterios en algunos de los apartes. Modernizamos la ortografía, la acentuación y la puntuación. Las acotaciones que no figuran en las ediciones de 1664 y 1678 van entre corchetes.</title>
+            <title>Edición digital a partir de la Tercera parte de Comedias de D. Pedro Calderón de
+              la Barca. En Madrid, por Domingo García Morrás, 1664 y cotejada con la edición crítica
+              de Francisco Ruiz Ramón (Madrid, Cátedra, 1987, pp. 67-195). En esta última edición,
+              cuya consulta recomendamos para la correcta apreciación crítica de la obra, se
+              incorporan variantes procedentes de la edición preparada por Juan de Vera Tassís y
+              Villarroel (En Madrid, por Francisco Sanz, 1678). Hemos asumido algunas de ellas, al
+              mismo tiempo que, con respecto a la edición de Francisco Ruiz Ramón, hemos modificado
+              un total de cuarenta y siete versos para corregir erratas y modificar la puntuación,
+              fundamentalmente. Asimismo, hemos utilizado distintos criterios en algunos de los
+              apartes. Modernizamos la ortografía, la acentuación y la puntuación. Las acotaciones
+              que no figuran en las ediciones de 1664 y 1678 van entre corchetes.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -131,17 +146,33 @@
           <term source="dracor" type="genreTitle">comedia mitológica</term>
           <term source="#kroll" type="main">comedia mitológica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date notBefore="1637" notAfter="1642"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date notBefore="1637" notAfter="1642"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -206,7 +237,8 @@
             <l> vuelva el valeroso Nino </l>
             <l> a los montes de Ascalón. </l>
           </sp>
-          <stage>Ha de haber una puerta de una gruta al lado izquierdo, y dentro den golpes, y dice SEMÍRAMIS dentro.</stage>
+          <stage>Ha de haber una puerta de una gruta al lado izquierdo, y dentro den golpes, y dice
+            SEMÍRAMIS dentro.</stage>
           <sp who="#semíramis">
             <speaker>SEMÍRAMIS</speaker>
             <l> Tiresias, abre esta puerta, </l>
@@ -216,7 +248,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="2">
-          <stage>Sale TIRESIAS, viejo, vestido de pieles largas, como sacerdote antiguo y dice los versos siguientes, con admiración.</stage>
+          <stage>Sale TIRESIAS, viejo, vestido de pieles largas, como sacerdote antiguo y dice los
+            versos siguientes, con admiración.</stage>
           <sp who="#tiresias">
             <speaker>TIRESIAS</speaker>
             <l> Allí trompetas y cajas, </l>
@@ -514,7 +547,8 @@
             <l> Venus, prevenido en este </l>
             <l n="200"> raro prodigio de amor. </l>
           </sp>
-          <stage>Las cajas y soldados por una puerta; NINO, REY, y MENÓN, GENERAL, e IRENE con espada y plumas; MÚSICOS vestidos de villanos; LISÍAS, CHATO y SIRENE.</stage>
+          <stage>Las cajas y soldados por una puerta; NINO, REY, y MENÓN, GENERAL, e IRENE con
+            espada y plumas; MÚSICOS vestidos de villanos; LISÍAS, CHATO y SIRENE.</stage>
           <sp who="#lisías">
             <speaker>LISÍAS</speaker>
             <l> Vuelvas felizmente, </l>
@@ -6377,7 +6411,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="24">
-          <stage>Descúbrese un trono y en él, sentados, NINO y SEMÍRAMIS; IRENE, ARSIDAS y gente.</stage>
+          <stage>Descúbrese un trono y en él, sentados, NINO y SEMÍRAMIS; IRENE, ARSIDAS y
+            gente.</stage>
           <sp who="#nino">
             <speaker>NINO</speaker>
             <l> ¡Viva! Y de aqueste eminente </l>

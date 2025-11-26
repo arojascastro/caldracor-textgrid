@@ -19,23 +19,31 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>Automatisch generiertes XML/TEI</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2021-09-03">
           <time when="15:21:11"/>
         </date>
         <idno type="quadramaX">Fortunas de Andrómeda y Perseo</idno>
-      <idno type="caldracor">fortunas-de-andromeda-y-perseo</idno></publicationStmt>
+        <idno type="caldracor">fortunas-de-andromeda-y-perseo</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/fortunas-de-andromeda-y-perseo-comedia--0/html/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/fortunas-de-andromeda-y-perseo-comedia--0/html/</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la Sexta parte de Comedias de don Pedro Calderón de la Barca que nuevamente corregidas, publica don Juan de Vera Tassis y Villarroel, Madrid, Por Francisco Sanz, 1683. Localización: Base de Datos Teatro Español del Siglo de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros. </title>
+            <title>Edición digital a partir de la Sexta parte de Comedias de don Pedro Calderón de
+              la Barca que nuevamente corregidas, publica don Juan de Vera Tassis y Villarroel,
+              Madrid, Por Francisco Sanz, 1683. Localización: Base de Datos Teatro Español del Siglo
+              de Oro (TESO). Autorizada por Evangelina Rodríguez Cuadros. </title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -272,17 +280,33 @@
           <term source="dracor" type="genreTitle">comedia mitológica</term>
           <term source="#kroll" type="main">comedia mitológica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1653"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1653"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -344,7 +368,8 @@
       <div type="act" n="1">
         <div type="scene" resp="#rojas" n="1">
           <head>Jornada I</head>
-          <stage>Descúbrese el teatro de las caserías nevadas. Dicen dentro, y salen después BATO, GILOTE, ERGASTO y RISELO, VILLANOS.</stage>
+          <stage>Descúbrese el teatro de las caserías nevadas. Dicen dentro, y salen después BATO,
+            GILOTE, ERGASTO y RISELO, VILLANOS.</stage>
           <sp who="#riselo">
             <speaker>RISELO</speaker>
             <l part="I">Huye, Gilote.</l>
@@ -1370,7 +1395,11 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Vase, y mientras la MÚSICA se repite con las voces de adentro, viene creciendo la nube hasta la mitad del tablado, donde se ha de abrir, y véese en un trono MERCURIO con alas en el sombrero y en los pies, y el caduceo en la mano, y PALAS armada con una asta en la mano, y embrazado un escudo, en que ha de estar un espejo, y bajan a tierra, y desaparécese la nube.</stage>
+          <stage>Vase, y mientras la MÚSICA se repite con las voces de adentro, viene creciendo la
+            nube hasta la mitad del tablado, donde se ha de abrir, y véese en un trono MERCURIO con
+            alas en el sombrero y en los pies, y el caduceo en la mano, y PALAS armada con una asta
+            en la mano, y embrazado un escudo, en que ha de estar un espejo, y bajan a tierra, y
+            desaparécese la nube.</stage>
           <sp who="#gente">
             <speaker>[GENTE]</speaker>
             <stage>Dentro.</stage>
@@ -2640,7 +2669,8 @@
       <div type="act" n="2">
         <div type="scene" resp="#rojas" n="1">
           <head>Jornada II</head>
-          <stage>Dicen dentro, a un lado PALAS, a otro MERCURIO, y a otro ANDRÓMEDA y PERSEO.</stage>
+          <stage>Dicen dentro, a un lado PALAS, a otro MERCURIO, y a otro ANDRÓMEDA y
+            PERSEO.</stage>
           <sp who="#perseo">
             <speaker>PERSEO</speaker>
             <l>Seguirte tengo, aunque te entres</l>
@@ -2653,7 +2683,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="2">
-          <stage>Sale ANDRÓMEDA de una parte a otra, y se entra, y múdase todo el teatro al pasar con estos dos versos ANDRÓMEDA, y PERSEO tras ella, como que la ha perdido de vista; y lo que se descubre es la gruta del sueño, y MORFEO viejo venerable sobre unas yerbas de su significación, como son beleños y cipreses, y sale PERSEO.</stage>
+          <stage>Sale ANDRÓMEDA de una parte a otra, y se entra, y múdase todo el teatro al pasar
+            con estos dos versos ANDRÓMEDA, y PERSEO tras ella, como que la ha perdido de vista; y
+            lo que se descubre es la gruta del sueño, y MORFEO viejo venerable sobre unas yerbas de
+            su significación, como son beleños y cipreses, y sale PERSEO.</stage>
           <sp who="#perseo">
             <speaker>PERSEO</speaker>
             <l n="5">¿Qué lóbrega estancia es esta,</l>
@@ -2708,7 +2741,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Vase, y descúbrese el retrete con DÁNAE vestida de dama, y cuatro damas con ella cantando, y una dueña.</stage>
+          <stage>Vase, y descúbrese el retrete con DÁNAE vestida de dama, y cuatro damas con ella
+            cantando, y una dueña.</stage>
           <sp who="#perseo">
             <speaker>PERSEO</speaker>
             <l n="45">¿Mi madre entre tantas reales</l>
@@ -2996,7 +3030,8 @@
             <l> que sin él nada se vence</l>
             <l> y con él todo.]</l>
           </sp>
-          <stage>Cúbrese toda la gruta de MORFEO y el retrete, y vuelve a quedarse la selva como antes estaba, con las caserías nevadas, quedando admirado PERSEO.</stage>
+          <stage>Cúbrese toda la gruta de MORFEO y el retrete, y vuelve a quedarse la selva como
+            antes estaba, con las caserías nevadas, quedando admirado PERSEO.</stage>
           <sp who="#perseo">
             <speaker>PERSEO</speaker>
             <l>Oye, aguarda, escucha, espera,</l>
@@ -6398,7 +6433,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="13">
-          <stage>Salen todos los que pudieren al son de cajas destempladas, cantando, y detrás ANDRÓMEDA vestida de luto.</stage>
+          <stage>Salen todos los que pudieren al son de cajas destempladas, cantando, y detrás
+            ANDRÓMEDA vestida de luto.</stage>
           <sp who="#unos">
             <speaker>[UNOS]</speaker>
             <stage>Dentro.</stage>

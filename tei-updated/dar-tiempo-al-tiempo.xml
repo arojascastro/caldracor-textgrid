@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-06">
           <time when="13:05:00"/>
@@ -38,10 +42,13 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">dar-tiempo-al-tiempo</idno></publicationStmt>
+        <idno type="caldracor">dar-tiempo-al-tiempo</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Dar tiempo al tiempo. Edición de José María Viña Liste. En: Comedias, Vol. 6. Dirección de Luis Iglesias Feijoo y José María Viña Liste. Madrid : Fundación José Antonio de Castro, 2010</title>
+          <title>Pedro Calderón de la Barca, Dar tiempo al tiempo. Edición de José María Viña Liste.
+            En: Comedias, Vol. 6. Dirección de Luis Iglesias Feijoo y José María Viña Liste. Madrid
+            : Fundación José Antonio de Castro, 2010</title>
           <idno type="ISBN">978-84-96452-96-1</idno>
         </bibl>
       </sourceDesc>
@@ -146,17 +153,33 @@
           <term source="dracor" type="genreTitle">comedia de capa y espada</term>
           <term source="#kroll" type="main">comedia cómica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1662"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1662"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -1207,7 +1230,8 @@
 
             <l>¡Estraño empeño!</l>
           </sp>
-          <stage>Llama otra vez don Juan, y dicen dentro Beatriz y don Pedro, abriendo y volviendo a cerrar.</stage>
+          <stage>Llama otra vez don Juan, y dicen dentro Beatriz y don Pedro, abriendo y volviendo a
+            cerrar.</stage>
           <sp who="#diego">
             <speaker rend="caps">Diego</speaker>
 
@@ -1332,7 +1356,8 @@
 
             <l>Alcanzarlos tengo, aunque</l>
             <l>el viento les dé sus alas.</l>
-            <stage>Va don Diego tras ellos, y salen por otra puerta Inés con luz y Beatriz, deteniendo a don Pedro.</stage>
+            <stage>Va don Diego tras ellos, y salen por otra puerta Inés con luz y Beatriz,
+              deteniendo a don Pedro.</stage>
           </sp>
           <sp who="#beatriz">
             <speaker rend="caps">Beatriz</speaker>
@@ -1556,7 +1581,8 @@
             <l>y por que mejor lo veas,</l>
             <l>fuera una vez de la vaina,</l>
             <l>habrá de serlo tu pecho.</l>
-            <stage>Saca la daga don Diego, Beatriz huye, y sale don Pedro teniéndole del brazo y, matando la luz, riñen.</stage>
+            <stage>Saca la daga don Diego, Beatriz huye, y sale don Pedro teniéndole del brazo y,
+              matando la luz, riñen.</stage>
           </sp>
           <sp who="#pedro">
             <speaker rend="caps">Pedro</speaker>
@@ -1758,7 +1784,8 @@
 
 
             <l>Dices bien: aquí te aparta.</l>
-            <stage>Retíranse al medio del teatro, poniéndola a sus espaldas, y sale don Pedro, luego don Diego, y uno echa por una parte y otro por otra.</stage>
+            <stage>Retíranse al medio del teatro, poniéndola a sus espaldas, y sale don Pedro, luego
+              don Diego, y uno echa por una parte y otro por otra.</stage>
           </sp>
           <sp who="#pedro">
             <speaker rend="caps">Pedro</speaker>
@@ -1855,7 +1882,8 @@
 
 
             <l>Ven conmigo y calla.</l>
-            <stage>Llevándola como por fuerza, sale una ronda, pónese Beatriz detrás, y ellos como ocultándola.</stage>
+            <stage>Llevándola como por fuerza, sale una ronda, pónese Beatriz detrás, y ellos como
+              ocultándola.</stage>
           </sp>
           <sp who="#alguacil">
             <speaker rend="caps">Alguacil</speaker>
@@ -2070,7 +2098,8 @@
             <l>Al escribano</l>
             <l>Mientras que vamos tras él,</l>
             <l>usted escriba la causa.</l>
-            <stage>Vanse todos, y sale don Luis, caballero viejo, por una puerta, y Leonor con una luz, y pónela sobre un bufete.</stage>
+            <stage>Vanse todos, y sale don Luis, caballero viejo, por una puerta, y Leonor con una
+              luz, y pónela sobre un bufete.</stage>
           </sp>
           <sp who="#luis">
             <speaker rend="caps">Luis</speaker>
@@ -4603,7 +4632,8 @@
             <l>sirva, supuesto que ella también ama;</l>
             <l>y una y otra porfía</l>
             <l>afectas son a la prebenda mía.</l>
-            <stage>Salen don Juan y Chacón como con recato, hablando desde la puerta; don Juan se queda en ella y Chacón llega a Juana.</stage>
+            <stage>Salen don Juan y Chacón como con recato, hablando desde la puerta; don Juan se
+              queda en ella y Chacón llega a Juana.</stage>
           </sp>
           <sp who="#juan">
             <speaker rend="caps">Juan</speaker>
@@ -8949,7 +8979,8 @@
 
             <l>Mejor sé las tuyas yo,</l>
             <l>y he de vengarlas más bien.</l>
-            <stage>Riñen los dos, y don Luis se pone en medio; Beatriz y Leonor detienen a don Pedro.</stage>
+            <stage>Riñen los dos, y don Luis se pone en medio; Beatriz y Leonor detienen a don
+              Pedro.</stage>
           </sp>
           <sp who="#pedro">
             <speaker rend="caps">Pedro</speaker>

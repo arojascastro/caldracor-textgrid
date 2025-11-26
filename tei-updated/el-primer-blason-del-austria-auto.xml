@@ -18,11 +18,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <date when="2022-01-12">
           <time when="14:08:14"/>
         </date>
@@ -33,13 +36,16 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">el-primer-blason-del-austria-auto</idno></publicationStmt>
+        <idno type="caldracor">el-primer-blason-del-austria-auto</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra/el-primer-blason-del-austria--0/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra/el-primer-blason-del-austria--0/</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Victoriano Roncero, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1997. ISBN: 3-931887-04-9.</title>
+            <title>Edición digital a partir de la edición de Victoriano Roncero, Pamplona–Kassel,
+              Universidad de Navarra–Reichenberger, 1997. ISBN: 3-931887-04-9.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -99,17 +105,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date notBefore="1634" notAfter="1635"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date notBefore="1634" notAfter="1635"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -452,7 +474,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Vanse. Salen por una puerta el REY DE HUNGRÍA, el MAESTRO TEUTÓNICO, GALASO, PICOLOMINI, y por la otra el INFANTE CARDENAL, el de LEGANÉS, DON MARTÍN IDIÁQUEZ, y RIVERA, soldado, al son de cajas y clarines</stage>
+          <stage>Vanse. Salen por una puerta el REY DE HUNGRÍA, el MAESTRO TEUTÓNICO, GALASO,
+            PICOLOMINI, y por la otra el INFANTE CARDENAL, el de LEGANÉS, DON MARTÍN IDIÁQUEZ, y
+            RIVERA, soldado, al son de cajas y clarines</stage>
           <sp who="#rey">
             <speaker>REY</speaker>
             <l>Vuestra alteza, señor, sea bien venido.</l>
@@ -754,7 +778,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage>Vanse. Salen el INFANTE, el REY, LEGANÉS, IDIÁQUEZ y DON PEDRO GIRÓN. Suenan clarines y cajas</stage>
+          <stage>Vanse. Salen el INFANTE, el REY, LEGANÉS, IDIÁQUEZ y DON PEDRO GIRÓN. Suenan
+            clarines y cajas</stage>
           <sp who="#infante">
             <speaker>INFANTE</speaker>
             <l>El enemigo soberbio</l>
@@ -895,7 +920,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Vanse. Suena ruido de artillería; salen acuchillándose. Y luego sale RIVERA con un hereje a cuestas</stage>
+          <stage>Vanse. Suena ruido de artillería; salen acuchillándose. Y luego sale RIVERA con un
+            hereje a cuestas</stage>
           <sp who="#rivera">
             <speaker>RIVERA</speaker>
             <l>Mientras siguen el alcance,</l>
@@ -1069,7 +1095,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Vanse. Suena dentro: ¡victoria, victoria!, y al son de clarines y cajas, salen el INFANTE, el REY y los demás</stage>
+          <stage>Vanse. Suena dentro: ¡victoria, victoria!, y al son de clarines y cajas, salen el
+            INFANTE, el REY y los demás</stage>
           <sp who="#infante">
             <speaker>INFANTE</speaker>
             <l>¡Gran victoria, amado hermano!</l>

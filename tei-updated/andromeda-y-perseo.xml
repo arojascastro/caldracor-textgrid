@@ -19,11 +19,15 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <date when="2019-05-16">
           <time when="14:28:49"/>
         </date>
@@ -34,13 +38,18 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">andromeda-y-perseo</idno></publicationStmt>
+        <idno type="caldracor">andromeda-y-perseo</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/andromeda-y-perseo--0/html/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/andromeda-y-perseo--0/html/</idno>
           <bibl type="originalSource">
-            <title>Texto crítico preparado por José María Ruano de la Haza procedente de la edición Calderón de la Barca, Pedro, Andrómeda y Perseo, ed. José María Ruano de la Haza, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1995. ISBN: 3-930700-43-3</title>
+            <title>Texto crítico preparado por José María Ruano de la Haza procedente de la edición
+              Calderón de la Barca, Pedro, Andrómeda y Perseo, ed. José María Ruano de la Haza,
+              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1995. ISBN:
+              3-930700-43-3</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -104,17 +113,33 @@
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
         <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1759"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1759"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -126,7 +151,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000005" passive="http://www.wikidata.org/entity/Q5676291"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000005"
+        passive="http://www.wikidata.org/entity/Q5676291"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -157,7 +183,10 @@
     <body>
       <div type="act" n="1">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Salen en tropa, cantando y bailando, la GRACIA y el AGUA con un espejo; la CIENCIA y el AIRE con un airón de plumas; la IGNOCIENCIA y el FUEGO con un manto imperial; y la VOLUNTAD y la TIERRA con un azafate de frutas y flores; y, detrás, ANDRÓMEDA, como vistiéndose, y el ALBEDRÍO.</stage>
+          <stage>Salen en tropa, cantando y bailando, la GRACIA y el AGUA con un espejo; la CIENCIA
+            y el AIRE con un airón de plumas; la IGNOCIENCIA y el FUEGO con un manto imperial; y la
+            VOLUNTAD y la TIERRA con un azafate de frutas y flores; y, detrás, ANDRÓMEDA, como
+            vistiéndose, y el ALBEDRÍO.</stage>
           <sp who="#música">
             <speaker>MÚSICA</speaker>
             <l>Los años floridos</l>
@@ -2629,7 +2658,9 @@
         </div>
         <div type="scene" resp="#rojas" n="19">
           <stage>Vase.</stage>
-          <stage>Cajas y trompetas destempladas, y salen por una parte CENTRO y ELEMENTOS, y por otra las VIRTUDES, y ANDRÓMEDA en medio, cubierto el rostro con un velo negro, y los músicos con instrumentos.</stage>
+          <stage>Cajas y trompetas destempladas, y salen por una parte CENTRO y ELEMENTOS, y por
+            otra las VIRTUDES, y ANDRÓMEDA en medio, cubierto el rostro con un velo negro, y los
+            músicos con instrumentos.</stage>
           <sp who="#fuego #aire #agua #tierra #centro">
             <speaker>CORO 1.º</speaker>
             <l>La que nace para ser</l>
@@ -3251,7 +3282,8 @@
             <l>¡Viva el divino Perseo,</l>
             <l>viva el segundo David!</l>
           </sp>
-          <sp who="#fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro">
+          <sp
+            who="#fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro">
             <speaker>TODOS</speaker>
             <l>¡Viva sin fin!</l>
           </sp>
@@ -3260,7 +3292,8 @@
             <l n="1730">Pues mató en tierra y en mar</l>
             <l>la fiera y el filistín.</l>
           </sp>
-          <sp who="#fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro">
+          <sp
+            who="#fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro">
             <speaker>TODOS</speaker>
             <l>¡Viva sin fin!</l>
           </sp>
@@ -3271,7 +3304,8 @@
             <l n="1735">las flores de mayo</l>
             <l>y las rosas de abril.</l>
           </sp>
-          <sp who="#fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro">
+          <sp
+            who="#fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro">
             <speaker>TODOS</speaker>
             <l>¡Viva sin fin!</l>
           </sp>
@@ -3293,7 +3327,8 @@
             <l>venció al ciego gentilismo</l>
             <l n="1745">y al idólatra gentil!</l>
           </sp>
-          <sp who="#fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro">
+          <sp
+            who="#fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro">
             <speaker>TODOS</speaker>
             <l>¡Viva sin fin!</l>
           </sp>
@@ -3309,7 +3344,8 @@
             <l>Yo con esta fe le llamo:</l>
             <l part="I">¿dónde estás, esposo?</l>
           </sp>
-          <stage>Ábrese un carro en que se verá un altar, y en él una custodia, con ángeles que la tengan; y PERSEO, y al pie del altar MEDUSA y el DEMONIO a sus pies.</stage>
+          <stage>Ábrese un carro en que se verá un altar, y en él una custodia, con ángeles que la
+            tengan; y PERSEO, y al pie del altar MEDUSA y el DEMONIO a sus pies.</stage>
           <sp who="#perseo">
             <speaker>PERSEO</speaker>
             <l n="1750" part="F">Aquí,</l>
@@ -3354,7 +3390,8 @@
             <l>el religioso festín.</l>
           </sp>
           <stage>Dos coros.</stage>
-          <sp who="#música #fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro #perseo #demonio #medusa">
+          <sp
+            who="#música #fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro #perseo #demonio #medusa">
             <speaker>MÚSICA y TODOS</speaker>
             <l n="1775">Viva sin fin</l>
             <l>y coronen su frente</l>
@@ -3410,7 +3447,8 @@
             <l>todos se rinden a ti.</l>
           </sp>
           <stage>Eses.</stage>
-          <sp who="#música #fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro #perseo #demonio #medusa #albedrío">
+          <sp
+            who="#música #fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro #perseo #demonio #medusa #albedrío">
             <speaker>TODOS</speaker>
             <l>Viva sin fin</l>
             <l n="1795">y coronen tus sienes</l>
@@ -3436,7 +3474,8 @@
             <l>pidiendo perdón,</l>
             <l>volviendo a decir...</l>
           </sp>
-          <sp who="#música #fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro #perseo #demonio #medusa #albedrío">
+          <sp
+            who="#música #fuego #aire #agua #tierra #gracia #ciencia #voluntad #ignociencia #andrómeda #centro #perseo #demonio #medusa #albedrío">
             <speaker>TODOS</speaker>
             <l n="1805">Que viva sin fin</l>
             <l>y coronen su frente</l>

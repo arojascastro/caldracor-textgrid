@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-09">
           <time when="11:41:04"/>
@@ -38,10 +42,13 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">el-postrer-duelo-de-espana</idno></publicationStmt>
+        <idno type="caldracor">el-postrer-duelo-de-espana</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, El postrer duelo de España. En: Comedias, Vol. 4. Dirección de Luis Iglesias Feijoo y Sebastian Neumeister. Madrid : Fundación José Antonio de Castro, 2010</title>
+          <title>Pedro Calderón de la Barca, El postrer duelo de España. En: Comedias, Vol. 4.
+            Dirección de Luis Iglesias Feijoo y Sebastian Neumeister. Madrid : Fundación José
+            Antonio de Castro, 2010</title>
           <idno type="ISBN">978-84-96452-89-3</idno>
         </bibl>
       </sourceDesc>
@@ -164,17 +171,33 @@
           <term source="dracor" type="genreTitle">comedia famosa</term>
           <term source="#kroll" type="main">comedia histórica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1665"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1665"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -218,7 +241,9 @@
       <div type="act" n="1">
         <head rend="caps">Primera Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Dentro atabalillos y chirimías y con las primeras voces salen por una parte don Pedro Torrellas, vestido de camino, y por otra don Jerónimo de Ansa, de cortesano.</stage>
+          <stage>Dentro atabalillos y chirimías y con las primeras voces salen por una parte don
+            Pedro Torrellas, vestido de camino, y por otra don Jerónimo de Ansa, de
+            cortesano.</stage>
           <sp who="#voces">
             <speaker rend="caps">Voces</speaker>
             <stage>Dentro.</stage>
@@ -972,7 +997,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Salen por una puerta, con acompañamiento, el Almirante, el Marqués, de alemán, Carlos y detrás de él el Condestable, viejo venerable; y por otras, con acompañamiento también, Violante, vestida de negro, una criada de la mano, y entre los demás don Jerónimo.</stage>
+          <stage>Salen por una puerta, con acompañamiento, el Almirante, el Marqués, de alemán,
+            Carlos y detrás de él el Condestable, viejo venerable; y por otras, con acompañamiento
+            también, Violante, vestida de negro, una criada de la mano, y entre los demás don
+            Jerónimo.</stage>
           <sp who="#violante">
             <speaker rend="caps">Violante</speaker>
 
@@ -1455,7 +1483,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="12">
-          <stage>Dentro grita de villanos y salen Benito, Gila y otros, cantando y bailando delante de Serafina.</stage>
+          <stage>Dentro grita de villanos y salen Benito, Gila y otros, cantando y bailando delante
+            de Serafina.</stage>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
 
@@ -2293,7 +2322,8 @@
             <l>licencia, tan cara a cara,</l>
             <l>si no se da, no se toma.</l>
           </sp>
-          <stage>Desde aquí se dice todo el tono seguido, sin dejar de cantar, aunque se represente.</stage>
+          <stage>Desde aquí se dice todo el tono seguido, sin dejar de cantar, aunque se
+            represente.</stage>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
 
@@ -2462,7 +2492,10 @@
 
             <l>Viola ante azar, jazmín, clavel y rosa;</l>
             <l>y escogiola por ser la más hermosa.</l>
-            <stage>Desde que se empieza a cantar la segunda vez, prosigue siempre continuadas la música y la representación, procurando ajustarse, ya abreviando o ya alargando las repeticiones, de suerte que vengan a acabar todos juntos, yéndose don Pedro por la puerta del cuadro y Violante por la del teatro.</stage>
+            <stage>Desde que se empieza a cantar la segunda vez, prosigue siempre continuadas la
+              música y la representación, procurando ajustarse, ya abreviando o ya alargando las
+              repeticiones, de suerte que vengan a acabar todos juntos, yéndose don Pedro por la
+              puerta del cuadro y Violante por la del teatro.</stage>
           </sp>
         </div>
 
@@ -2472,7 +2505,8 @@
       <div type="act" n="2">
         <head rend="caps">Segunda Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Salen don Pedro hablando consigo y Ginés, tras él, como notándole a hurto las acciones.</stage>
+          <stage>Salen don Pedro hablando consigo y Ginés, tras él, como notándole a hurto las
+            acciones.</stage>
           <sp who="#don-pedro">
             <speaker rend="caps">Don Pedro</speaker>
 
@@ -4151,7 +4185,8 @@
             <l>La espada de la mano</l>
             <l>se os ha caído.</l>
           </sp>
-          <stage>Cáesele la espada a don Pedro, pasa la daga a la mano derecha y don Jerónimo se retira.</stage>
+          <stage>Cáesele la espada a don Pedro, pasa la daga a la mano derecha y don Jerónimo se
+            retira.</stage>
           <sp who="#don-pedro">
             <speaker rend="caps">Don Pedro</speaker>
 
@@ -4867,7 +4902,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="24">
-          <stage>Dentro ruido. Sale Flora y vase a esconder don Pedro al cuadro y Violante le lleva a otra puerta de donde sale Serafina.</stage>
+          <stage>Dentro ruido. Sale Flora y vase a esconder don Pedro al cuadro y Violante le lleva
+            a otra puerta de donde sale Serafina.</stage>
           <sp who="#voces">
             <speaker rend="caps">Voces</speaker>
 
@@ -6082,7 +6118,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Salen riñendo don Pedro y don Jerónimo, gente en medio y, sin sacar las espadas, el Almirante por una puerta y el Marqués por otra.</stage>
+          <stage>Salen riñendo don Pedro y don Jerónimo, gente en medio y, sin sacar las espadas, el
+            Almirante por una puerta y el Marqués por otra.</stage>
           <sp who="#don-pedro">
             <speaker rend="caps">Don Pedro</speaker>
 
@@ -8249,7 +8286,14 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="23">
-          <stage>Cajas y trompetas. Y córrese la cortina de todo el teatro y vese en un trono Carlos con una vara de justicia dorada en la mano. Y más abajo el Condestable en otro trono con un bufete delante y en él un misal y en dos fuentes dos arneses, dos martillos de desarmar y dos espadas. Al pie de ambos tronos estarán cuatro reyes de armas con casacas bordadas de las armas de Castilla y León y dos tiendas que estarán a los dos lados. Salen los que han nombrado los versos de padrinos. Después Ginés con un escudo de las armas de los Torrellas delante de don Pedro y Gonzalo con otro de los Ansas delante de don Jerónimo, y los dos en cuerpo con bandas y plumas.</stage>
+          <stage>Cajas y trompetas. Y córrese la cortina de todo el teatro y vese en un trono Carlos
+            con una vara de justicia dorada en la mano. Y más abajo el Condestable en otro trono con
+            un bufete delante y en él un misal y en dos fuentes dos arneses, dos martillos de
+            desarmar y dos espadas. Al pie de ambos tronos estarán cuatro reyes de armas con casacas
+            bordadas de las armas de Castilla y León y dos tiendas que estarán a los dos lados.
+            Salen los que han nombrado los versos de padrinos. Después Ginés con un escudo de las
+            armas de los Torrellas delante de don Pedro y Gonzalo con otro de los Ansas delante de
+            don Jerónimo, y los dos en cuerpo con bandas y plumas.</stage>
           <sp who="#condestable">
             <speaker rend="caps">Condestable</speaker>
 
@@ -8275,7 +8319,8 @@
 
             <l>Haced la primer llamada,</l>
             <l>la segunda, y la tercera,</l>
-            <stage>Tres toques de cajas y trompetas, y después a marchar, hacen su paseo y reverencias.</stage>
+            <stage>Tres toques de cajas y trompetas, y después a marchar, hacen su paseo y
+              reverencias.</stage>
             <l>y entren al son de su salva.</l>
           </sp>
           <sp who="#don-pedro">
@@ -8422,7 +8467,8 @@
 
 
             <l>Acompáñenles las cajas</l>
-            <stage>Las cajas y éntranse como salieron, y llegan a la mesa el Conde y el Duque, cada uno con el criado de su ahijado.</stage>
+            <stage>Las cajas y éntranse como salieron, y llegan a la mesa el Conde y el Duque, cada
+              uno con el criado de su ahijado.</stage>
             <l>y trompetas mientras vuelven</l>
             <l>a sus tiendas de campaña.</l>
             <l>¿Qué demandáis, señor duque</l>
@@ -8471,7 +8517,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="24">
-          <stage>Vanse trocando los puestos, y adelántanse los reyes de armas a la punta del tablado, y sale el tambor mayor con dos cajas delante y echa el bando; ha de traer un bastón sin insignia.</stage>
+          <stage>Vanse trocando los puestos, y adelántanse los reyes de armas a la punta del
+            tablado, y sale el tambor mayor con dos cajas delante y echa el bando; ha de traer un
+            bastón sin insignia.</stage>
           <sp who="#benavente #duque">
             <speaker rend="caps">Los Dos</speaker>
 
@@ -8522,7 +8570,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="25">
-          <stage>Las cajas, y sale don Pedro armado con sus padrinos y el Condestable sale de su asiento a reconocerle.</stage>
+          <stage>Las cajas, y sale don Pedro armado con sus padrinos y el Condestable sale de su
+            asiento a reconocerle.</stage>
           <sp who="#condestable">
             <speaker rend="caps">Condestable</speaker>
 
@@ -8594,7 +8643,11 @@
             <l>estáis protestando al cielo</l>
             <l>que es honor y no venganza.</l>
             <l>Tocad al avemaría.</l>
-            <stage>De rodillas todos. La caja da los nueve golpes de tres en tres y remata en rebato. El Condestable vuelve a su silla. Dase la batalla con los martillos primero, luego con las espadas y llegan a los brazos. El César arroja la vara, con que los padrinos llegan a esparcirlos y ellos porfían. Levántase el César con enfado; levanta la vara el Condestable.</stage>
+            <stage>De rodillas todos. La caja da los nueve golpes de tres en tres y remata en
+              rebato. El Condestable vuelve a su silla. Dase la batalla con los martillos primero,
+              luego con las espadas y llegan a los brazos. El César arroja la vara, con que los
+              padrinos llegan a esparcirlos y ellos porfían. Levántase el César con enfado; levanta
+              la vara el Condestable.</stage>
             <l>Las sobrevistas caladas,</l>
             <l>agora de los padrinos</l>
             <l>abrazados.</l>

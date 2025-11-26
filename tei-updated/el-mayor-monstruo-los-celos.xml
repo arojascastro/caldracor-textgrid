@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2021-12-17">
           <time when="16:57:54"/>
@@ -38,10 +42,14 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">el-mayor-monstruo-los-celos</idno></publicationStmt>
+        <idno type="caldracor">el-mayor-monstruo-los-celos</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, El Mayor Monstruo Los Celos. Edición crítica de María J. Caamaño Rojo. Biblioteca Áurea Hispánica. Dirección de Ignacio Arellano. Universidad de Navarra / Iberoamericana / Vervuert 2017 Biblioteca Áurea Hispánica 114, Comedias completas de Calderón 16</title>
+          <title>Pedro Calderón de la Barca, El Mayor Monstruo Los Celos. Edición crítica de María
+            J. Caamaño Rojo. Biblioteca Áurea Hispánica. Dirección de Ignacio Arellano. Universidad
+            de Navarra / Iberoamericana / Vervuert 2017 Biblioteca Áurea Hispánica 114, Comedias
+            completas de Calderón 16</title>
           <idno type="URL">https://doi.org/10.31819/9783954877645</idno>
         </bibl>
       </sourceDesc>
@@ -128,17 +136,33 @@
           <term source="dracor" type="genreTitle">comedia famosa</term>
           <term source="#kroll" type="main">sin datos</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1665"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1665"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -179,7 +203,8 @@
       <div type="act" n="1">
         <head rend="caps">Primera Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage type="withText">Salen los músicos y mientras cantan van saliendo los que puedan de acompañamiento y detrás el Tetrarca y Mariene llorando.</stage>
+          <stage type="withText">Salen los músicos y mientras cantan van saliendo los que puedan de
+            acompañamiento y detrás el Tetrarca y Mariene llorando.</stage>
           <sp who="#música">
             <speaker rend="caps">Músicos</speaker>
 
@@ -633,7 +658,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Vanse. Salen el Tetrarca y Filipo trayendo a Tolomeo desnudo y herido con el puñal en el hombro.</stage>
+          <stage>Vanse. Salen el Tetrarca y Filipo trayendo a Tolomeo desnudo y herido con el puñal
+            en el hombro.</stage>
           <sp who="#filipo">
             <speaker rend="caps">Filipo</speaker>
 
@@ -951,7 +977,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="4">
-          <stage>Vanse. Cajas y trompetas dentro y salen Octaviano con bastón y corona de laurel y, como presos, Aristóbolo vestido pobremente y Polidoro con galas, desaliñadamente vestido. Patricio, capitán y soldados.</stage>
+          <stage>Vanse. Cajas y trompetas dentro y salen Octaviano con bastón y corona de laurel y,
+            como presos, Aristóbolo vestido pobremente y Polidoro con galas, desaliñadamente
+            vestido. Patricio, capitán y soldados.</stage>
           <sp who="#unos">
             <speaker rend="caps">Unos</speaker>
             <stage type="withText">Dentro</stage>
@@ -2179,7 +2207,10 @@
       <div type="act" n="2">
         <head rend="caps">Segunda Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Córrese una cortina y vese a un lado del tablado el soldado primero como sustentando de la parte de abajo un retrato entero de Mariene y el soldado segundo de la parte de arriba como que le está colgando sobre una puerta que habrá en el vistuario.</stage>
+          <stage>Córrese una cortina y vese a un lado del tablado el soldado primero como
+            sustentando de la parte de abajo un retrato entero de Mariene y el soldado segundo de la
+            parte de arriba como que le está colgando sobre una puerta que habrá en el
+            vistuario.</stage>
           <sp who="#soldado-1">
             <speaker rend="caps">SOLDADO 1º</speaker>
 
@@ -2410,7 +2441,8 @@
             <l>puede, a sí mismo se afrenta,</l>
             <l>pues quita a la voluntad</l>
             <l>lo que le añade a la fuerza.</l>
-            <stage>Alarga la otra mano en que no tiene el retrato y el Tetrarca al besar la una mira a la otra.</stage>
+            <stage>Alarga la otra mano en que no tiene el retrato y el Tetrarca al besar la una mira
+              a la otra.</stage>
             <l>Dame tu mano... Mas, ¡cielos</l>
             <l>divinos!, al besar esta,</l>
             <l>¿qué es lo que en aquella miro?</l>
@@ -2521,7 +2553,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Al entrarse Octaviano va a darle el Tetrarca, cae el retrato, clava en él el puñal y él vuelve.</stage>
+          <stage>Al entrarse Octaviano va a darle el Tetrarca, cae el retrato, clava en él el puñal
+            y él vuelve.</stage>
           <sp who="#octaviano">
             <speaker rend="caps">Octaviano</speaker>
 
@@ -2598,7 +2631,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="6">
-          <stage>Vase. Vuelve a cubrir la cortina el retrato y salen dos soldados y Polidoro paseándose.</stage>
+          <stage>Vase. Vuelve a cubrir la cortina el retrato y salen dos soldados y Polidoro
+            paseándose.</stage>
           <sp who="#soldado-1">
             <speaker rend="caps">SOLDADO 1º</speaker>
 
@@ -2906,7 +2940,8 @@
 
             <l>¿Quién vio príncipe aporreado?</l>
           </sp>
-          <stage>A la puerta el capitán y Tetrarca, y los dos le vuelven a poner capa y sombrero como que le sirven.</stage>
+          <stage>A la puerta el capitán y Tetrarca, y los dos le vuelven a poner capa y sombrero
+            como que le sirven.</stage>
           <sp who="#capitán">
             <speaker rend="caps">Capitán</speaker>
 
@@ -3710,7 +3745,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="11">
-          <stage>Vanse. Las cajas, y salgan por una parte Aristóbolo y soldados y por otra Mariene y damas.</stage>
+          <stage>Vanse. Las cajas, y salgan por una parte Aristóbolo y soldados y por otra Mariene y
+            damas.</stage>
           <sp who="#aristóbolo">
             <speaker rend="caps">Aristóbolo</speaker>
 
@@ -4754,7 +4790,10 @@
       <div type="act" n="3">
         <head rend="caps">Tercera Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage type="withText">Suenan instrumentos músicos en una parte, y en habiendo representado y cantado sus versos, suenan en otra cajas destempladas y dice dentro Mariene los suyos, y luego en medio suenan algunos tiros y chirimías y salen al tablado Octaviano, capitán y soldados.</stage>
+          <stage type="withText">Suenan instrumentos músicos en una parte, y en habiendo
+            representado y cantado sus versos, suenan en otra cajas destempladas y dice dentro
+            Mariene los suyos, y luego en medio suenan algunos tiros y chirimías y salen al tablado
+            Octaviano, capitán y soldados.</stage>
           <sp who="#voces">
             <speaker rend="caps">Voces</speaker>
 
@@ -4943,7 +4982,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Con esta repetición salen al tablado por una parte los músicos y Tolomeo con una fuente y en ella unas llaves y Filipo con otra y en ella un laurel, y por la otra parte Mariene vestida de luto con un velo en el rostro y las mujeres que puedan.</stage>
+          <stage>Con esta repetición salen al tablado por una parte los músicos y Tolomeo con una
+            fuente y en ella unas llaves y Filipo con otra y en ella un laurel, y por la otra parte
+            Mariene vestida de luto con un velo en el rostro y las mujeres que puedan.</stage>
           <sp who="#tolomeo">
             <speaker rend="caps">Tolomeo</speaker>
 
@@ -5930,7 +5971,8 @@
             <l>que estando más retirada,</l>
             <l>con más secreto es forzoso</l>
             <l>que pueda sin ruido abrirla.</l>
-            <stage>Llega a la otra puerta, que estará como dicen los versos, y él hace las acciones que significan.</stage>
+            <stage>Llega a la otra puerta, que estará como dicen los versos, y él hace las acciones
+              que significan.</stage>
             <l>Mas no haré, si reconozco</l>
             <l>cuánto defendida está</l>
             <l>de candados y cerrojos</l>
@@ -6302,7 +6344,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="14">
-          <stage>Pónese en medio Filipo, vase huyendo Tolomeo, el Tetrarca tras él y vuelven por la otra parte.</stage>
+          <stage>Pónese en medio Filipo, vase huyendo Tolomeo, el Tetrarca tras él y vuelven por la
+            otra parte.</stage>
           <sp who="#tetrarca">
             <speaker rend="caps">Tetrarca</speaker>
 
@@ -6573,7 +6616,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="18">
-          <stage>Vanse. Sale Sirene con luces y las demás que puedan con azafates, y luego Mariene.</stage>
+          <stage>Vanse. Sale Sirene con luces y las demás que puedan con azafates, y luego
+            Mariene.</stage>
           <sp who="#mariene">
             <speaker rend="caps">Mariene</speaker>
 
@@ -6788,7 +6832,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="20">
-          <stage>Vanse huyendo dejando los azafates caer. D AMA 2ª Ni yo, que apenas aliento.</stage>
+          <stage>Vanse huyendo dejando los azafates caer. D AMA 2ª Ni yo, que apenas
+            aliento.</stage>
           <stage>Vase. D AMA 1ª Ni yo, que tímida huyo.</stage>
           <stage>Vase.</stage>
           <sp who="#mariene">
@@ -6905,7 +6950,8 @@
             <l>reconociera de que</l>
             <l>para volvérosle tuvo.</l>
           </sp>
-          <stage>Va a poner la mano en la luz, él se la toma y ella, retirándola, le saca el puñal de la cinta.</stage>
+          <stage>Va a poner la mano en la luz, él se la toma y ella, retirándola, le saca el puñal
+            de la cinta.</stage>
           <sp who="#octaviano">
             <speaker rend="caps">Octaviano</speaker>
 
@@ -6966,7 +7012,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="21">
-          <stage>Deja caer el puñal, y vase y Octaviano tras ella, y sale el Tetrarca por otra parte.</stage>
+          <stage>Deja caer el puñal, y vase y Octaviano tras ella, y sale el Tetrarca por otra
+            parte.</stage>
           <sp who="#tetrarca">
             <speaker rend="caps">Tetrarca</speaker>
 
@@ -7047,7 +7094,8 @@
             <l>Es en vano,</l>
             <l>mas, ¡ay de mí, cielos justos!</l>
           </sp>
-          <stage>Vuelven huyendo Mariene y Octaviano tras ella y da en brazos del Tetrarca tropezando.</stage>
+          <stage>Vuelven huyendo Mariene y Octaviano tras ella y da en brazos del Tetrarca
+            tropezando.</stage>
           <sp who="#octaviano">
             <speaker rend="caps">Octaviano</speaker>
 

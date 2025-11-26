@@ -19,11 +19,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <date when="2022-01-12">
           <time when="14:08:48"/>
         </date>
@@ -34,13 +37,15 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">el-pintor-de-su-deshonra-auto</idno></publicationStmt>
+        <idno type="caldracor">el-pintor-de-su-deshonra-auto</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/19077</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de A. K. G. Paterson, Pamplona– Kassel, Universidad de Navarra–Reichenberger, 2011. ISBN: 978-3-937734-77-4.</title>
+            <title>Edición digital a partir de la edición de A. K. G. Paterson, Pamplona– Kassel,
+              Universidad de Navarra–Reichenberger, 2011. ISBN: 978-3-937734-77-4.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -91,17 +96,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date notBefore="1644" notAfter="1646"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date notBefore="1644" notAfter="1646"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -137,7 +158,8 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Ábrese un Dragón en el primer carro, y sale de él el LUCERO, vestido de demonio.</stage>
+          <stage>Ábrese un Dragón en el primer carro, y sale de él el LUCERO, vestido de
+            demonio.</stage>
           <sp who="#lucero">
             <speaker>LUCERO</speaker>
             <l>Si dijo Jeremías,</l>
@@ -547,7 +569,8 @@
             <l n="270">vuelve (¡ay infeliz!) los ojos.</l>
             <l part="I">¿Qué ves?</l>
           </sp>
-          <stage>Los primeros bastidores del segundo carro han de ser peñascos con nubes en hombros.</stage>
+          <stage>Los primeros bastidores del segundo carro han de ser peñascos con nubes en
+            hombros.</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
             <l part="F">Un peñasco veo</l>
@@ -562,7 +585,8 @@
             <l>Del primer término pasa</l>
             <l part="I">al segundo.</l>
           </sp>
-          <stage>Córrense los primeros y vense en los segundos bastidores árboles, animales, flores y frutos.</stage>
+          <stage>Córrense los primeros y vense en los segundos bastidores árboles, animales, flores
+            y frutos.</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
             <l part="F">Ya el umbroso</l>
@@ -575,7 +599,8 @@
             <speaker>LUCERO</speaker>
             <l part="I">Pasa al tercero.</l>
           </sp>
-          <stage>Córrense los segundos [bastidores], y vese en los terceros una fábrica y en sus puertas un lienzo en primado solamente.</stage>
+          <stage>Córrense los segundos [bastidores], y vese en los terceros una fábrica y en sus
+            puertas un lienzo en primado solamente.</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
             <l part="F">Ya miro</l>
@@ -701,7 +726,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Escóndense los dos detrás del árbol, y salen los MÚSICOS con instrumentos, la INOCENCIA con una tabla de matices, la CIENCIA con el tiento, que será una vara dorada, la GRACIA con los pinceles, y detrás el PINTOR de galán.</stage>
+          <stage>Escóndense los dos detrás del árbol, y salen los MÚSICOS con instrumentos, la
+            INOCENCIA con una tabla de matices, la CIENCIA con el tiento, que será una vara dorada,
+            la GRACIA con los pinceles, y detrás el PINTOR de galán.</stage>
           <sp who="#pintor">
             <speaker>PINTOR</speaker>
             <l n="335">Ya que en este siempre ufano</l>
@@ -788,7 +815,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="4">
-          <stage>Sube el PINTOR adonde está el lienzo con primado, con tal artificio cubierta de polvos la pintura que al irlos quitando con el pincel se vaya descubriendo el rostro y demás adornos, siendo retrato de la que haya de hacer a la NATURALEZA HUMANA. Y cantan las tres mientras él hace la acción de que la pinta.</stage>
+          <stage>Sube el PINTOR adonde está el lienzo con primado, con tal artificio cubierta de
+            polvos la pintura que al irlos quitando con el pincel se vaya descubriendo el rostro y
+            demás adornos, siendo retrato de la que haya de hacer a la NATURALEZA HUMANA. Y cantan
+            las tres mientras él hace la acción de que la pinta.</stage>
           <sp who="#musicos">
             <speaker>MÚSICOS</speaker>
             <l n="395">Pues fueron del Señor obras</l>
@@ -812,7 +842,8 @@
             <l part="F">…y sol,</l>
             <l>…bendecid al Señor.</l>
           </sp>
-          <sp who="#albedrio #mundo #amor #musica #culpa #lucero #pintor #ciencia #inocencia #musicos #gracia">
+          <sp
+            who="#albedrio #mundo #amor #musica #culpa #lucero #pintor #ciencia #inocencia #musicos #gracia">
             <speaker>TODOS</speaker>
             <l n="400">Bendecid al Señor.</l>
           </sp>
@@ -839,7 +870,8 @@
             <l part="F">…ardor,</l>
             <l n="405">…bendecid al Señor.</l>
           </sp>
-          <sp who="#albedrio #mundo #amor #musica #culpa #lucero #pintor #ciencia #inocencia #musicos #gracia">
+          <sp
+            who="#albedrio #mundo #amor #musica #culpa #lucero #pintor #ciencia #inocencia #musicos #gracia">
             <speaker>TODOS</speaker>
             <l>Bendecid al Señor.</l>
           </sp>
@@ -888,7 +920,8 @@
             <l n="420" part="F">…arrebol,</l>
             <l>…bendecid al Señor.</l>
           </sp>
-          <sp who="#albedrio #mundo #amor #musica #pintor #lucero #culpa #ciencia #inocencia #musicos #gracia">
+          <sp
+            who="#albedrio #mundo #amor #musica #pintor #lucero #culpa #ciencia #inocencia #musicos #gracia">
             <speaker>TODOS</speaker>
             <l>Bendecid al Señor.</l>
           </sp>
@@ -916,7 +949,8 @@
             <l part="F">…verdor,</l>
             <l>…bendecid al Señor.</l>
           </sp>
-          <sp who="#albedrio #mundo #amor #musica #pintor #lucero #culpa #ciencia #inocencia #musicos #gracia">
+          <sp
+            who="#albedrio #mundo #amor #musica #pintor #lucero #culpa #ciencia #inocencia #musicos #gracia">
             <speaker>TODOS</speaker>
             <l>Bendecid al Señor.</l>
           </sp>
@@ -961,7 +995,8 @@
             <l part="F">y flor,</l>
             <l>…bendecid al Señor.</l>
           </sp>
-          <sp who="#albedrio #mundo #amor #musica #pintor #culpa #lucero #ciencia #inocencia #musicos #gracia">
+          <sp
+            who="#albedrio #mundo #amor #musica #pintor #culpa #lucero #ciencia #inocencia #musicos #gracia">
             <speaker>TODOS</speaker>
             <l>Bendecid al Señor.</l>
           </sp>
@@ -988,7 +1023,8 @@
             <l part="F">…albor,</l>
             <l>…bendecid al Señor.</l>
           </sp>
-          <sp who="#albedrio #mundo #amor #musica #pintor #culpa #lucero #ciencia #inocencia #musicos #gracia">
+          <sp
+            who="#albedrio #mundo #amor #musica #pintor #culpa #lucero #ciencia #inocencia #musicos #gracia">
             <speaker>TODOS</speaker>
             <l n="450">Bendecid al Señor.</l>
           </sp>
@@ -1005,7 +1041,9 @@
             <l>dando a la materia forma</l>
             <l n="460">este aliento de la vida.</l>
           </sp>
-          <stage>Hace como que inspira en el lienzo, y cayendo el bastidor se ve detrás de él en la misma acción que estaba [en] la pintura y con los mismos vestidos la NATURALEZA HUMANA.</stage>
+          <stage>Hace como que inspira en el lienzo, y cayendo el bastidor se ve detrás de él en la
+            misma acción que estaba [en] la pintura y con los mismos vestidos la NATURALEZA
+            HUMANA.</stage>
           <sp who="#gracia">
             <speaker>GRACIA</speaker>
             <stage>canta</stage>
@@ -1030,7 +1068,8 @@
             <l part="F">…voz,</l>
             <l n="465">…bendecid al Señor.</l>
           </sp>
-          <sp who="#albedrio #mundo #amor #musica #culpa #lucero #pintor #ciencia #inocencia #musicos #gracia">
+          <sp
+            who="#albedrio #mundo #amor #musica #culpa #lucero #pintor #ciencia #inocencia #musicos #gracia">
             <speaker>TODOS</speaker>
             <l>Bendecid al Señor.</l>
           </sp>
@@ -1090,7 +1129,8 @@
         </div>
         <div type="scene" resp="#rojas" n="5">
           <stage>Vanse LUCERO y CULPA, y dicen todos, unos cantando y otros representando.</stage>
-          <sp who="#mundo #amor #musica #pintor #ciencia #inocencia #musicos #naturaleza #culpa #lucero #gracia">
+          <sp
+            who="#mundo #amor #musica #pintor #ciencia #inocencia #musicos #naturaleza #culpa #lucero #gracia">
             <speaker>TODOS</speaker>
             <l>Pues ya coronó sus obras</l>
             <l>dando al cuerpo que formó</l>
@@ -1611,7 +1651,9 @@
             <speaker>CULPA</speaker>
             <l>Come, y como Dios serás.</l>
           </sp>
-          <stage>Esto dice la CULPA, y arroja una manzana dorada, asida de un listón, y al irla la NATURALEZA a coger la va retirando, y ella, yendo tras ella, va dejando atrás a las V IRTUDES como las fue hallando, siguiéndola su ALBEDRÍO.</stage>
+          <stage>Esto dice la CULPA, y arroja una manzana dorada, asida de un listón, y al irla la
+            NATURALEZA a coger la va retirando, y ella, yendo tras ella, va dejando atrás a las V
+            IRTUDES como las fue hallando, siguiéndola su ALBEDRÍO.</stage>
           <sp who="#naturaleza">
             <speaker>NATURALEZA</speaker>
             <l>A mis plantas ha caído</l>
@@ -2203,7 +2245,8 @@
             <l n="1030">pues en el punto que lloras</l>
             <l>el ofendido te alivia</l>
             <l>y el querido te congoja.</l>
-            <stage>Toma un bastidor en que estará pintada el arca del diluvio y arrójale dentro.</stage>
+            <stage>Toma un bastidor en que estará pintada el arca del diluvio y arrójale
+              dentro.</stage>
             <l>Esta tabla que fragmento</l>
             <l>es de una arca milagrosa</l>
             <l n="1035">y algún día podrá ser</l>
@@ -2244,7 +2287,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <stage>Con esta repetición se entra él, y salen cayendo en el tablado como que salen del mar el MUNDO y la NATURALEZA, asidos a la tabla.</stage>
+          <stage>Con esta repetición se entra él, y salen cayendo en el tablado como que salen del
+            mar el MUNDO y la NATURALEZA, asidos a la tabla.</stage>
           <sp who="#mundo">
             <speaker>MUNDO</speaker>
             <l>Ya en las eminentes cumbres,</l>
@@ -2363,7 +2407,9 @@
             <l>Esta tabla del naufragio</l>
             <l>término entre las dos ponga.</l>
           </sp>
-          <stage>Levanta la tabla o bastidor en que salió a nado y vese como antes se dijo el arca del diluvio pintada, y poniéndose detrás de ella la NATURALEZA se detiene la CULPA.</stage>
+          <stage>Levanta la tabla o bastidor en que salió a nado y vese como antes se dijo el arca
+            del diluvio pintada, y poniéndose detrás de ella la NATURALEZA se detiene la
+            CULPA.</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
             <l>¿La tabla? Pero ¿qué miro?</l>
@@ -2589,7 +2635,8 @@
             <l>porque en esperanzas locas</l>
             <l n="1255">no fíe Dios esta imagen.</l>
           </sp>
-          <stage>Tiénela de las manos el LUCERO, y llega la CULPA y pónela un clavo en la frente.</stage>
+          <stage>Tiénela de las manos el LUCERO, y llega la CULPA y pónela un clavo en la
+            frente.</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
             <l>Pincel será de mis obras,</l>
@@ -2789,7 +2836,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="24">
-          <stage>Con esta repetición sale el PINTOR vestido de villano y AMOR DIVINO con él, de galán.</stage>
+          <stage>Con esta repetición sale el PINTOR vestido de villano y AMOR DIVINO con él, de
+            galán.</stage>
           <sp who="#pintor">
             <speaker>PINTOR</speaker>
             <l>Amor, pues sólo de ti</l>
@@ -2996,7 +3044,8 @@
             <l>porque antes que ser yo crea</l>
             <l part="I">le quite la vida?</l>
           </sp>
-          <stage>Ha de haber una cruz en el tablado en frente del árbol primero y llévale [el AMOR] a ella.</stage>
+          <stage>Ha de haber una cruz en el tablado en frente del árbol primero y llévale [el AMOR]
+            a ella.</stage>
           <sp who="#amor">
             <speaker>AMOR</speaker>
             <l n="1455" part="F">Sea</l>
@@ -3140,7 +3189,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="26">
-          <stage>Sale la NATURALEZA llorando, y la CULPA tras ella, y poniéndose [NATURALEZA] de cara al PINTOR, él hace como que la retrata.</stage>
+          <stage>Sale la NATURALEZA llorando, y la CULPA tras ella, y poniéndose [NATURALEZA] de
+            cara al PINTOR, él hace como que la retrata.</stage>
           <sp who="#naturaleza">
             <speaker>NATURALEZA</speaker>
             <l>En fin, ¿no me has de dejar?</l>
@@ -3179,7 +3229,8 @@
             <speaker>MÚSICOS</speaker>
             <l>Tu pecado.</l>
           </sp>
-          <stage>Atienden las dos con suspensión al eco de la música y el PINTOR no deja de pintar.</stage>
+          <stage>Atienden las dos con suspensión al eco de la música y el PINTOR no deja de
+            pintar.</stage>
           <sp who="#naturaleza">
             <speaker>NATURALEZA</speaker>
             <l>…a padecer de esta suerte…</l>
@@ -3460,7 +3511,8 @@
             <l>El pintor de su deshonra</l>
             <l>soy, morid de una vez ambos.</l>
           </sp>
-          <stage>Dispara y el AMOR, tirándole de la mano, tuerce la mira a la pistola. Y caen LUCERO y CULPA, que estará en medio de los dos, quedando ellas como asombradas.</stage>
+          <stage>Dispara y el AMOR, tirándole de la mano, tuerce la mira a la pistola. Y caen LUCERO
+            y CULPA, que estará en medio de los dos, quedando ellas como asombradas.</stage>
           <sp who="#lucero">
             <speaker>LUCERO</speaker>
             <l part="I">Muerto soy.</l>
@@ -3585,7 +3637,8 @@
             <l n="1685">que de mis venas derramo,</l>
             <l>volverla a su primer lustre,</l>
             <l>si en esta fuente la lavo.</l>
-            <stage>Ábrese un carro y vense las VIRTUDES alrededor de la fuente de siete caños.</stage>
+            <stage>Ábrese un carro y vense las VIRTUDES alrededor de la fuente de siete
+              caños.</stage>
             <l>Llega, que en ella hallarás</l>
             <l>la sangre de mi costado</l>
             <l n="1690">en poder de tus Virtudes,</l>
@@ -3676,7 +3729,8 @@
             <l n="1725">cesa, que aquese es el pasmo</l>
             <l>que más acaba conmigo.</l>
           </sp>
-          <stage>Si no estuviere presente el Santísimo. se aparecerá sobre un trono un cáliz con una hostia.</stage>
+          <stage>Si no estuviere presente el Santísimo. se aparecerá sobre un trono un cáliz con una
+            hostia.</stage>
           <sp who="#lucero">
             <speaker>LUCERO</speaker>
             <l>Y así, huyendo de mirarlo…,</l>

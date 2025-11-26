@@ -17,11 +17,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-25">
           <time when="10:42:12"/>
@@ -33,13 +36,15 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">la-torre-de-babilonia</idno></publicationStmt>
+        <idno type="caldracor">la-torre-de-babilonia</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18216</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de V. Nider, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2008. ISBN: 978-3-937734-49-1.</title>
+            <title>Edición digital a partir de la edición de V. Nider, Pamplona–Kassel, Universidad
+              de Navarra–Reichenberger, 2008. ISBN: 978-3-937734-49-1.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -111,17 +116,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1637"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1637"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -141,7 +162,10 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Entra por la plaza (lo más bien imitada que puede) el arca de Noé sobre lienzos pintados, y en llegando al tablado, se abre en lo alto de ella una compuerta con ventana,ventana desde donde ha de haber bajada para el tablado, y sale por ella Noé, viejo venerable.</stage>
+          <stage>Entra por la plaza (lo más bien imitada que puede) el arca de Noé sobre lienzos
+            pintados, y en llegando al tablado, se abre en lo alto de ella una compuerta con
+            ventana,ventana desde donde ha de haber bajada para el tablado, y sale por ella Noé,
+            viejo venerable.</stage>
           <sp who="#noe">
             <speaker>NOÉ</speaker>
             <l>Reliquias reservadas</l>
@@ -1183,7 +1207,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="19">
-          <stage>Vase el Ángel y entran por dos partes de la plaza Heber, con ganados, pastores y Libio, villano; y Arcener con labradores, espigas y instrumentos de labranzavestidos los dos de pastores, y Floro, villano; y representan sin subir al tablado</stage>
+          <stage>Vase el Ángel y entran por dos partes de la plaza Heber, con ganados, pastores y
+            Libio, villano; y Arcener con labradores, espigas y instrumentos de labranzavestidos los
+            dos de pastores, y Floro, villano; y representan sin subir al tablado</stage>
           <sp who="#heber">
             <speaker>HEBER</speaker>
             <l>Alto monte de Armenia, cuya cumbre</l>
@@ -1308,7 +1334,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="21">
-          <stage>Entra por la otra parte de la plaza Nembrot, vestido de pieles y cuatro salvajes en camellos, o en caballos, en pelo; y todos traen zuecos que los hacen más crecidos, y tocan cajas.</stage>
+          <stage>Entra por la otra parte de la plaza Nembrot, vestido de pieles y cuatro salvajes en
+            camellos, o en caballos, en pelo; y todos traen zuecos que los hacen más crecidos, y
+            tocan cajas.</stage>
           <sp who="#nembrot">
             <speaker>NEMBROT</speaker>
             <l part="F">¡Ah del monte!</l>
@@ -1762,7 +1790,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="22">
-          <stage>Tocan cajas, dase batalla, y éntranse retirando de Nembrot, Heber, Arcener y su gente, y vuelve a salir Nembrot con sangre en las manos</stage>
+          <stage>Tocan cajas, dase batalla, y éntranse retirando de Nembrot, Heber, Arcener y su
+            gente, y vuelve a salir Nembrot con sangre en las manos</stage>
           <sp who="#nembrot">
             <speaker>NEMBROT</speaker>
             <l>Mueran los que no se dieren</l>
@@ -1862,7 +1891,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="24">
-          <stage>Vase. Cajas y salen todos los que puedan, rendidos Heber, Arcener, Libio y Floro; detrás los salvajes y después Nembrot.</stage>
+          <stage>Vase. Cajas y salen todos los que puedan, rendidos Heber, Arcener, Libio y Floro;
+            detrás los salvajes y después Nembrot.</stage>
           <sp who="#nembrot">
             <speaker>NEMBROT</speaker>
             <l>En la falda lisonjera</l>
@@ -1895,7 +1925,8 @@
             <l>mísera gente cautiva,</l>
             <l>a su deidad obediente.</l>
           </sp>
-          <sp who="#mujer #mujer-2 #mujer-3 #sem #japhet #cam #mujer-1 #floro #salvaje-3 #salvaje-4 #heber #arcener #libio #acompanamiento #noe #salvaje-1 #salvaje-2">
+          <sp
+            who="#mujer #mujer-2 #mujer-3 #sem #japhet #cam #mujer-1 #floro #salvaje-3 #salvaje-4 #heber #arcener #libio #acompanamiento #noe #salvaje-1 #salvaje-2">
             <speaker>TODOS</speaker>
             <l n="1205">Nembrot invicto y valiente,</l>
             <l>primer rey del mundo, ¡viva!</l>
@@ -1997,7 +2028,9 @@
             <l>que en este campo ha de ser</l>
             <l n="1275">la torre que se ha de hacer</l>
             <l>contra las iras del cielo.</l>
-            <stage>Bajan todos y toman instrumentos, unos azadas, otros espuertas y cubos; llegan adonde ha de ser la torre, hacen como que cavan unos y otros traen materiales y la torre empieza a subir.</stage>
+            <stage>Bajan todos y toman instrumentos, unos azadas, otros espuertas y cubos; llegan
+              adonde ha de ser la torre, hacen como que cavan unos y otros traen materiales y la
+              torre empieza a subir.</stage>
             <l>Todos juntos empezad,</l>
             <l>de esos montes arrancad</l>
             <l>piedras, sus senos romped,</l>
@@ -2252,7 +2285,8 @@
             <l n="1390">en vano las fuerzas son</l>
             <l>y la labor cesará.</l>
           </sp>
-          <sp who="#mujer #mujer-2 #mujer-3 #sem #japhet #cam #mujer-1 #acompanamiento #noe #salvaje-3 #salvaje-4 #arcener #salvaje-2 #floro #libio #heber #salvaje-1">
+          <sp
+            who="#mujer #mujer-2 #mujer-3 #sem #japhet #cam #mujer-1 #acompanamiento #noe #salvaje-3 #salvaje-4 #arcener #salvaje-2 #floro #libio #heber #salvaje-1">
             <speaker>TODOS</speaker>
             <l>Cese, cese la labor.</l>
           </sp>
@@ -2291,7 +2325,8 @@
             <l>para escarmiento del mundo,</l>
             <l n="1420">fuego descienda de Dios.</l>
           </sp>
-          <stage>Aquí se deshaze la torre bajando algunos cohetesa ella y quedan algunos como cogidos de la fábrica; suben al tablado Arcener, Heber, Libio y Floro.</stage>
+          <stage>Aquí se deshaze la torre bajando algunos cohetesa ella y quedan algunos como
+            cogidos de la fábrica; suben al tablado Arcener, Heber, Libio y Floro.</stage>
           <sp who="#salvaje-1">
             <speaker>SALVAJE 1.º</speaker>
             <l>¡Ay de mí, infeliz, que muero</l>

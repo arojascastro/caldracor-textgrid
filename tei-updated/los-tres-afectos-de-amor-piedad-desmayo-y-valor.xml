@@ -6,7 +6,8 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Los tres afectos de amor, piedad, desmayo y valor</title>
-        <title type="sub">Fiesta que se represento a sus Majestades en el Salon de su Real Palacio</title>
+        <title type="sub">Fiesta que se represento a sus Majestades en el Salon de su Real
+          Palacio</title>
         <title type="sub">Gran Comedia</title>
         <author>
           <persName>
@@ -24,11 +25,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-13">
           <time when="13:22:03"/>
@@ -39,13 +44,21 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">los-tres-afectos-de-amor-piedad-desmayo-y-valor</idno></publicationStmt>
+        <idno type="caldracor">los-tres-afectos-de-amor-piedad-desmayo-y-valor</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="sourceText">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra/los-tres-afectos-de-amor-piedad-desmayo-y-valor/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra/los-tres-afectos-de-amor-piedad-desmayo-y-valor/</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir De los mejores el mejor, libro nueuo de comedias varias, nunca impressas, compuestas por los mejores ingenios de España : parte treze ..., En Madrid : por Mateo Fernandez ... : a costa de Francisco Serrano de Figueroa ..., 1660, p. 230-275. La modernización de la ortografía, la acentuación y la puntuación se ha realizado mediante el modelo de transcripción desarrollado por Álvaro Cuéllar, “Spanish Golden Age Theatre Prints (Spelling Modernization) 1.0”. Transkribus, 2021.</title>
+            <title>Edición digital a partir De los mejores el mejor, libro nueuo de comedias varias,
+              nunca impressas, compuestas por los mejores ingenios de España : parte treze ..., En
+              Madrid : por Mateo Fernandez ... : a costa de Francisco Serrano de Figueroa ..., 1660,
+              p. 230-275. La modernización de la ortografía, la acentuación y la puntuación se ha
+              realizado mediante el modelo de transcripción desarrollado por Álvaro Cuéllar,
+              “Spanish Golden Age Theatre Prints (Spelling Modernization) 1.0”. Transkribus,
+              2021.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -193,17 +206,33 @@
           <term source="dracor" type="genreTitle">comedia mitológica</term>
           <term source="#kroll" type="main">comedia mitológica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1660"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1660"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -219,7 +248,8 @@
     <front>
       <docTitle>
         <titlePart type="main">Los tres afectos de amor, piedad, desmayo y valor</titlePart>
-        <titlePart type="sub">Fiesta que se represento a sus Majestades en el Salon de su Real Palacio</titlePart>
+        <titlePart type="sub">Fiesta que se represento a sus Majestades en el Salon de su Real
+          Palacio</titlePart>
         <titlePart type="sub">Gran Comedia</titlePart>
       </docTitle>
       <castList>
@@ -245,7 +275,8 @@
       <div type="act" n="1">
         <head rend="caps">Jornada Primera</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Salen cantando Cloris, Laura, y Nise, cada una por su puerta, su copla, vestidas en traje de monte, y después Rosarda Infanta de Cipre.</stage>
+          <stage>Salen cantando Cloris, Laura, y Nise, cada una por su puerta, su copla, vestidas en
+            traje de monte, y después Rosarda Infanta de Cipre.</stage>
           <sp who="#cloris">
             <speaker rend="caps">Cloris</speaker>
             <stage type="withText">canta</stage>
@@ -1984,7 +2015,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="10">
-          <stage>Tocan chirimias, y salen por una parte los hombres con Seleuco, y por otra todas las Damas con Rosarda.</stage>
+          <stage>Tocan chirimias, y salen por una parte los hombres con Seleuco, y por otra todas
+            las Damas con Rosarda.</stage>
           <sp who="#seleuco">
             <speaker rend="caps">Seleuco</speaker>
 
@@ -2533,7 +2565,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="17">
-          <stage>Salen por dos puertas Flabio, y Celio, con acompañamiento, y Lelio, y Silvio, criados.</stage>
+          <stage>Salen por dos puertas Flabio, y Celio, con acompañamiento, y Lelio, y Silvio,
+            criados.</stage>
           <sp who="#lelio">
             <speaker rend="caps">Lelio</speaker>
 
@@ -4019,7 +4052,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Cantan, y a un mismo tiempo representan, y sale por una parte Celio, y por otra Flabio.</stage>
+          <stage>Cantan, y a un mismo tiempo representan, y sale por una parte Celio, y por otra
+            Flabio.</stage>
           <sp who="#todas">
             <speaker rend="caps">Todas</speaker>
 
@@ -5795,7 +5829,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="18">
-          <stage>Escóndense los dos, y salen en traje de bandidos, con mascarillas Anteo, Ismenia, Golilla, y otros.</stage>
+          <stage>Escóndense los dos, y salen en traje de bandidos, con mascarillas Anteo, Ismenia,
+            Golilla, y otros.</stage>
           <sp who="#ismenia">
             <speaker rend="caps">Ismenia</speaker>
 
@@ -8570,7 +8605,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="22">
-          <stage>Descúbrese el Templo de Venos, canta la Música, y habiéndose entrado por la una puerta, salen por la otra todos con ramos en las manos, y guirnaldas, y detrás Libio, Celio, Flabio, Rosarda, Seleuco, y por otro lado Ismenia.</stage>
+          <stage>Descúbrese el Templo de Venos, canta la Música, y habiéndose entrado por la una
+            puerta, salen por la otra todos con ramos en las manos, y guirnaldas, y detrás Libio,
+            Celio, Flabio, Rosarda, Seleuco, y por otro lado Ismenia.</stage>
           <sp who="#rosarda">
             <speaker rend="caps">Rosarda</speaker>
 

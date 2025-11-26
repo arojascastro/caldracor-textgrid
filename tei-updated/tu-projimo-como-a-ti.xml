@@ -17,11 +17,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-02-04">
           <time when="13:40:59"/>
@@ -33,13 +36,15 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">tu-projimo-como-a-ti</idno></publicationStmt>
+        <idno type="caldracor">tu-projimo-como-a-ti</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18218</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de E. Illescas, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2008. ISBN: 978-3-937734-54-5.</title>
+            <title>Edición digital a partir de la edición de E. Illescas, Pamplona–Kassel,
+              Universidad de Navarra–Reichenberger, 2008. ISBN: 978-3-937734-54-5.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -111,17 +116,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1653"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1653"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -167,7 +188,8 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Sale en lo alto del primer carro, que ha de ser una montaña pintada de flores, la Culpa, vestida a lo bandolero, con capa gascona, montera, charpa y pistolas</stage>
+          <stage>Sale en lo alto del primer carro, que ha de ser una montaña pintada de flores, la
+            Culpa, vestida a lo bandolero, con capa gascona, montera, charpa y pistolas</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
             <l>¡Ah de la cumbre del monte!</l>
@@ -181,7 +203,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="2">
-          <stage>Sale en el segundo carro, que será una montaña pinta-da de breñas incultas, el Mundo, vestido también a lo bandolero</stage>
+          <stage>Sale en el segundo carro, que será una montaña pinta-da de breñas incultas, el
+            Mundo, vestido también a lo bandolero</stage>
           <sp who="#mundo">
             <speaker>MUNDO</speaker>
             <l part="F">¿En qué te sirvo,</l>
@@ -204,7 +227,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="3">
-          <stage>Sale del tercer carro, que será otra montaña pintada de llamas, el Demonio, vestido en el mismo traje</stage>
+          <stage>Sale del tercer carro, que será otra montaña pintada de llamas, el Demonio, vestido
+            en el mismo traje</stage>
           <sp who="#demonio">
             <speaker>DEMONIO</speaker>
             <l part="F">¿Qué quieres,</l>
@@ -229,7 +253,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="4">
-          <stage>Sale en el cuarto carro, que será otra montaña pintada de flores, la Lascivia, en el mismo traje vestida</stage>
+          <stage>Sale en el cuarto carro, que será otra montaña pintada de flores, la Lascivia, en
+            el mismo traje vestida</stage>
           <sp who="#lascivia">
             <speaker>LASCIVIA</speaker>
             <l>¿Qué intentas, que ya la errada</l>
@@ -2198,7 +2223,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="22">
-          <stage>Vase. Sale la Noche por el carro de en medio, La Gracia por una parte, y la Culpa por otra</stage>
+          <stage>Vase. Sale la Noche por el carro de en medio, La Gracia por una parte, y la Culpa
+            por otra</stage>
           <sp who="#culpa">
             <speaker>CULPA</speaker>
             <l>Ya que la ley natural</l>
@@ -3350,7 +3376,8 @@
             <l>al prójimo como a ti.</l>
           </sp>
           <stage>Cantando y Representando</stage>
-          <sp who="#aurora #musicos #gracia #lucero #levita #penitencia #noche #muerte #sacerdote #amor #lascivia #pedro #hombre #deseo #culpa #mundo #demonio #sol">
+          <sp
+            who="#aurora #musicos #gracia #lucero #levita #penitencia #noche #muerte #sacerdote #amor #lascivia #pedro #hombre #deseo #culpa #mundo #demonio #sol">
             <speaker>TODOS</speaker>
             <l n="1765">«Ya que el ejemplo te di,</l>
             <l>hombre, que ames te ruego</l>

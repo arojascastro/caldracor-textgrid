@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-13">
           <time when="13:22:03"/>
@@ -38,10 +42,13 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">origen-perdida-y-restauracion-de-la-virgen-del-sagrario</idno></publicationStmt>
+        <idno type="caldracor">origen-perdida-y-restauracion-de-la-virgen-del-sagrario</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="originalSource">
-          <title>Pedro Calderón de la Barca, Origen, pérdida y restauración de la Virgen del Sagrario. En: Comedias, Vol. 2. Dirección de Luis Iglesias Feijoo y Santiago Fernández Mosquera. Madrid : Fundación José Antonio de Castro, 2007</title>
+          <title>Pedro Calderón de la Barca, Origen, pérdida y restauración de la Virgen del
+            Sagrario. En: Comedias, Vol. 2. Dirección de Luis Iglesias Feijoo y Santiago Fernández
+            Mosquera. Madrid : Fundación José Antonio de Castro, 2007</title>
           <idno type="ISBN">978-84-96452-36-7</idno>
         </bibl>
       </sourceDesc>
@@ -233,17 +240,33 @@
           <term source="dracor" type="genreTitle">comedia religiosa</term>
           <term source="#kroll" type="main">comedia religiosa</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date notBefore="1616" notAfter="1629"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date notBefore="1616" notAfter="1629"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -309,7 +332,8 @@
       <div type="act" n="1">
         <head rend="caps">Primera Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Suena dentro ruido de caza y sale huyendo una fiera y, en llegando al tablado, se quita la máscara y queda un hombre y detrás de él sale el rey Recisundo.</stage>
+          <stage>Suena dentro ruido de caza y sale huyendo una fiera y, en llegando al tablado, se
+            quita la máscara y queda un hombre y detrás de él sale el rey Recisundo.</stage>
           <sp who="#dentro">
             <speaker rend="caps">Dentro</speaker>
 
@@ -651,7 +675,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="7">
-          <stage>Suena música y salen acompañamiento y los Reyes y san Ildefonso de cardenal.</stage>
+          <stage>Suena música y salen acompañamiento y los Reyes y san Ildefonso de
+            cardenal.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
@@ -1248,7 +1273,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage>Música, y ábrese el sepulcro y sale santa Leocadia con una cinta encarnada en la garganta y una palma.</stage>
+          <stage>Música, y ábrese el sepulcro y sale santa Leocadia con una cinta encarnada en la
+            garganta y una palma.</stage>
           <sp who="#ildefonso">
             <speaker rend="caps">Ildefonso</speaker>
 
@@ -1611,7 +1637,8 @@
 
             <l>(Presto verás el fin suyo).</l>
           </sp>
-          <stage>Descubre san Ildefonso el altar de la Virgen del Sagrario y hincado de rodillas va subiendo hasta que iguala con ella.</stage>
+          <stage>Descubre san Ildefonso el altar de la Virgen del Sagrario y hincado de rodillas va
+            subiendo hasta que iguala con ella.</stage>
           <sp who="#ildefonso">
             <speaker rend="caps">Ildefonso</speaker>
 
@@ -1681,7 +1708,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="13">
-          <stage>Sale un carro triunfal y en él la Virgen, de suerte que quede Nuestra Señora entre la de bulto y San Ildefonso y que pueda tocar a uno y a otro, y trae una casulla.</stage>
+          <stage>Sale un carro triunfal y en él la Virgen, de suerte que quede Nuestra Señora entre
+            la de bulto y San Ildefonso y que pueda tocar a uno y a otro, y trae una
+            casulla.</stage>
           <sp who="#virgen">
             <speaker rend="caps">Virgen</speaker>
 
@@ -1757,7 +1786,9 @@
       <div type="act" n="2">
         <head rend="caps">Segunda Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Cúbrese todo el teatro de lienzos de muralla y aparecen en el muro Íñigo, Rodrigo, Teodosio, viejo, y Godmán, alcaide. Suena un clarín y sale por lo bajo Tarif, moro negro.</stage>
+          <stage>Cúbrese todo el teatro de lienzos de muralla y aparecen en el muro Íñigo, Rodrigo,
+            Teodosio, viejo, y Godmán, alcaide. Suena un clarín y sale por lo bajo Tarif, moro
+            negro.</stage>
           <sp who="#teodosio">
             <speaker rend="caps">Teodosio</speaker>
 
@@ -3440,7 +3471,11 @@
       <div type="act" n="3">
         <head rend="caps">Tercera Jornada</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Cúbrese todo el teatro de tafetanes y suenan atabalillos y chirimías y debajo de un dosel están el rey don Alfonso y la reina doña Constanza con coronas y cetros; a un lado todas las damas y al otro Ramiro, Nuño, Vela, Juan Ruiz y detrás de la silla del Rey don Bernardo, arzobispo, y a los pies Selín, moro, con una fuente y en ella unas llaves.</stage>
+          <stage>Cúbrese todo el teatro de tafetanes y suenan atabalillos y chirimías y debajo de un
+            dosel están el rey don Alfonso y la reina doña Constanza con coronas y cetros; a un lado
+            todas las damas y al otro Ramiro, Nuño, Vela, Juan Ruiz y detrás de la silla del Rey don
+            Bernardo, arzobispo, y a los pies Selín, moro, con una fuente y en ella unas
+            llaves.</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
@@ -4204,7 +4239,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Suenan chirimías y sale oyendo don Bernardo, el arzobispo, y, en acabando de tocar, cantan dentro.</stage>
+          <stage>Suenan chirimías y sale oyendo don Bernardo, el arzobispo, y, en acabando de tocar,
+            cantan dentro.</stage>
           <sp who="#músicos">
             <speaker rend="caps">Músicos</speaker>
 
@@ -4845,7 +4881,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="17">
-          <stage>Sale la Reina, suelto el cabello, en una mano un cristo y en la otra un puñal.</stage>
+          <stage>Sale la Reina, suelto el cabello, en una mano un cristo y en la otra un
+            puñal.</stage>
           <sp who="#constanza">
             <speaker rend="caps">Constanza</speaker>
 
@@ -5160,7 +5197,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="18">
-          <stage>Suben a Selín, que sale enlodado con muchos temores y en las manos una losa.</stage>
+          <stage>Suben a Selín, que sale enlodado con muchos temores y en las manos una
+            losa.</stage>
           <sp who="#don-vela">
             <speaker rend="caps">Don Vela</speaker>
 
@@ -5414,7 +5452,8 @@
             <l>hasta que varón devoto</l>
             <l>mayor templo la levante.</l>
           </sp>
-          <stage>Sube la imagen y van en procesión todos; el arzobispo la lleva, y luego de rodillas canta la música, que han de ser los pajes con sobrepellices.</stage>
+          <stage>Sube la imagen y van en procesión todos; el arzobispo la lleva, y luego de rodillas
+            canta la música, que han de ser los pajes con sobrepellices.</stage>
           <sp who="#constanza">
             <speaker rend="caps">Constanza</speaker>
             <stage type="withText">Cantando</stage>

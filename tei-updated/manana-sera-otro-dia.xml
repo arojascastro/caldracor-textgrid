@@ -17,11 +17,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-20">
           <time when="12:53:44"/>
@@ -33,7 +36,8 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Licence </ref>
           </licence>
         </availability>
-      <idno type="caldracor">manana-sera-otro-dia</idno></publicationStmt>
+        <idno type="caldracor">manana-sera-otro-dia</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name/>
@@ -135,17 +139,33 @@
           <term source="dracor" type="genreTitle">comedia de capa y espada</term>
           <term source="#kroll" type="main">comedia cómica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1635"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1635"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -1390,7 +1410,8 @@
             <l n="705"> yo, que viendo esa ventaja, </l>
             <l part="I"> le defenderé. </l>
           </sp>
-          <sp who="#don-luis #juana #elvira #don-juan #leonor #capitan #dentro #don-diego #fabio #otro #don-fernando #roque #alguacil #pedro #isabel #escudero #juan #ines #uno">
+          <sp
+            who="#don-luis #juana #elvira #don-juan #leonor #capitan #dentro #don-diego #fabio #otro #don-fernando #roque #alguacil #pedro #isabel #escudero #juan #ines #uno">
             <speaker> TODOS </speaker>
             <l part="F"> ¿Qué es esto? </l>
           </sp>
@@ -1415,7 +1436,8 @@
             <l> ¡Vive Dios que he de morir </l>
             <l part="I"> en venganza! </l>
           </sp>
-          <sp who="#don-luis #juana #elvira #don-juan #leonor #capitan #dentro #don-diego #fabio #otro #don-fernando #roque #alguacil #pedro #isabel #escudero #juan #ines #uno">
+          <sp
+            who="#don-luis #juana #elvira #don-juan #leonor #capitan #dentro #don-diego #fabio #otro #don-fernando #roque #alguacil #pedro #isabel #escudero #juan #ines #uno">
             <speaker> TODOS </speaker>
             <l part="F"> Deteneos </l>
             <l part="I"> a la justicia. </l>
@@ -5842,7 +5864,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage> Vanse. Sale por una puerta Elvira con manto y por otra doña Beatriz sin él, y Juana. </stage>
+          <stage> Vanse. Sale por una puerta Elvira con manto y por otra doña Beatriz sin él, y
+            Juana. </stage>
           <sp who="#beatriz">
             <speaker> BEATRIZ </speaker>
             <l> Desde el punto que te vi, </l>
@@ -6975,7 +6998,8 @@
         </div>
         <div type="scene" resp="#rojas" n="21">
           <stage> Salen todos los que pudieren. </stage>
-          <sp who="#don-luis #juana #elvira #don-juan #leonor #capitan #dentro #don-diego #fabio #otro #don-fernando #roque #alguacil #pedro #isabel #escudero #juan #ines #uno">
+          <sp
+            who="#don-luis #juana #elvira #don-juan #leonor #capitan #dentro #don-diego #fabio #otro #don-fernando #roque #alguacil #pedro #isabel #escudero #juan #ines #uno">
             <speaker> TODOS </speaker>
             <l part="I"> Estos son. </l>
           </sp>

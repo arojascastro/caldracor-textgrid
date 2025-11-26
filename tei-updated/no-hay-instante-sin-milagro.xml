@@ -19,11 +19,15 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <date when="2019-05-01">
           <time when="09:58:05"/>
         </date>
@@ -34,13 +38,18 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">no-hay-instante-sin-milagro</idno></publicationStmt>
+        <idno type="caldracor">no-hay-instante-sin-milagro</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/no-hay-instante-sin-milagro--0/html/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/no-hay-instante-sin-milagro--0/html/</idno>
           <bibl type="originalSource">
-            <title>Texto crítico preparado por Ignacio Arellano, Ildefonso Adeva y Rafael Zafra procedente de la edición Calderón de la Barca, Pedro, No hay instante sin milagro, ed. Ignacio Arellano, Ildefonso Adeva y Rafael Zafra, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1995. ISBN: 3-930700-17-4.</title>
+            <title>Texto crítico preparado por Ignacio Arellano, Ildefonso Adeva y Rafael Zafra
+              procedente de la edición Calderón de la Barca, Pedro, No hay instante sin milagro, ed.
+              Ignacio Arellano, Ildefonso Adeva y Rafael Zafra, Pamplona–Kassel, Universidad de
+              Navarra–Reichenberger, 1995. ISBN: 3-930700-17-4.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -110,17 +119,33 @@
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
         <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1677"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1677"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -132,7 +157,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000049" passive="http://www.wikidata.org/entity/Q68905409"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000049"
+        passive="http://www.wikidata.org/entity/Q68905409"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -164,7 +190,10 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Salen los MÚSICOS y, a los primeros versos que cantan, el BAUTISMO, niño vestido de blanco; la CONFIRMACIÓN, de dama; la PENITENCIA, de pieles; la COMUNIÓN, de dama; el ORDEN SACERDOTAL, viejo venerable; el MATRIMONIO, de galán; y la EXTREMA UNCIÓN, de negro; y detrás la FE, con corona y manto imperial.</stage>
+          <stage>Salen los MÚSICOS y, a los primeros versos que cantan, el BAUTISMO, niño vestido de
+            blanco; la CONFIRMACIÓN, de dama; la PENITENCIA, de pieles; la COMUNIÓN, de dama; el
+            ORDEN SACERDOTAL, viejo venerable; el MATRIMONIO, de galán; y la EXTREMA UNCIÓN, de
+            negro; y detrás la FE, con corona y manto imperial.</stage>
           <sp who="#músicos">
             <speaker>MÚSICOS</speaker>
             <l>El siempre felice día</l>
@@ -181,7 +210,8 @@
             <l>y así, a los dulces acentos</l>
             <l n="10">vienen de la Eucaristía...</l>
           </sp>
-          <sp who="#bautismo #confirmación #penitencia #comunión #orden-sacerdotal #matrimonio #extrema-unción #fe #músicos">
+          <sp
+            who="#bautismo #confirmación #penitencia #comunión #orden-sacerdotal #matrimonio #extrema-unción #fe #músicos">
             <speaker>TODOS y MÚSICOS</speaker>
             <l>Porque el siempre feliz día</l>
             <l>que al cielo ofrece la Fe,</l>
@@ -205,7 +235,8 @@
             <l>...bien es que gracias le dé</l>
             <l>nuestra justa oblación pía,...</l>
           </sp>
-          <sp who="#bautismo #confirmación #penitencia #comunión #orden-sacerdotal #matrimonio #extrema-unción #fe #músicos">
+          <sp
+            who="#bautismo #confirmación #penitencia #comunión #orden-sacerdotal #matrimonio #extrema-unción #fe #músicos">
             <speaker>MÚSICOS y TODOS</speaker>
             <l>...el siempre felice día</l>
             <l>que al cielo ofrece la Fe.</l>
@@ -227,7 +258,8 @@
             <l>...a voz de la Eucaristía</l>
             <l>venimos todos, porque...</l>
           </sp>
-          <sp who="#bautismo #confirmación #penitencia #comunión #orden-sacerdotal #matrimonio #extrema-unción #fe #músicos">
+          <sp
+            who="#bautismo #confirmación #penitencia #comunión #orden-sacerdotal #matrimonio #extrema-unción #fe #músicos">
             <speaker>TODOS y MÚSICOS</speaker>
             <l>...gloria a Dios la tierra dé</l>
             <l>en júbilos de alegría.</l>
@@ -285,7 +317,8 @@
             <l>¿para qué he de hablar de uno,</l>
             <l>cuando de todos me ofendo?</l>
           </sp>
-          <sp who="#bautismo #confirmación #penitencia #comunión #orden-sacerdotal #matrimonio #extrema-unción">
+          <sp
+            who="#bautismo #confirmación #penitencia #comunión #orden-sacerdotal #matrimonio #extrema-unción">
             <speaker>TODOS</speaker>
             <l part="I">¿Pues cómo?</l>
           </sp>
@@ -530,7 +563,8 @@
             <l n="290">asunto para el ejemplo.</l>
             <l>¿Quién está en aquel retrete?</l>
           </sp>
-          <stage>ábrese en lo alto del primer carro un retrete, en que estará MAGDALENA en acción de que se está tocando.</stage>
+          <stage>ábrese en lo alto del primer carro un retrete, en que estará MAGDALENA en acción de
+            que se está tocando.</stage>
           <sp who="#apostasía">
             <speaker>APOSTASÍA</speaker>
             <l>Una dama a quien el pueblo</l>
@@ -1174,7 +1208,8 @@
             <l>este pístico nardo a ser testigo,</l>
             <l n="700">que derramado lave mi pecado</l>
             <l>a los pies del que es olio derramado.</l>
-            <stage>Las plumas.Las joyas.Los guantes.El pañuelo.El manto.Las cintas del tocado.</stage>
+            <stage>Las plumas.Las joyas.Los guantes.El pañuelo.El manto.Las cintas del
+              tocado.</stage>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="10">
@@ -1252,7 +1287,8 @@
             <l n="735">que un ladrón me propuso, de quien era</l>
             <l part="I">la acción decir...</l>
           </sp>
-          <sp who="#saulo #constantino #pablo #agustino #magdalena #orden-sacerdotal #extrema-unción #matrimonio #fe #penitencia">
+          <sp
+            who="#saulo #constantino #pablo #agustino #magdalena #orden-sacerdotal #extrema-unción #matrimonio #fe #penitencia">
             <speaker>VOCES</speaker>
             <stage>Dentro.</stage>
             <l part="F">Crucificado muera!</l>
@@ -2016,7 +2052,8 @@
             <l>lisonja de su belleza,</l>
             <l n="1160">ya lo es de su desengaño,</l>
             <l>pues dice deshecho en perlas:</l>
-            <stage>Vuelve el carro, que fue de retrete, convertido en gruta, y véese MAGDALENA en hábito penitente delante de una cruz.</stage>
+            <stage>Vuelve el carro, que fue de retrete, convertido en gruta, y véese MAGDALENA en
+              hábito penitente delante de una cruz.</stage>
           </sp>
           <sp who="#magdalena">
             <speaker>MAGDALENA</speaker>
@@ -2097,7 +2134,8 @@
             <l>a sumas honras de un bello</l>
             <l>Paraíso, en cuya esfera</l>
             <l part="I">glorioso dice:</l>
-            <stage>Vuelve el carro, que fue monte, convertido en jardín, y DIMAS en él, vestido de gala.</stage>
+            <stage>Vuelve el carro, que fue monte, convertido en jardín, y DIMAS en él, vestido de
+              gala.</stage>
           </sp>
           <sp who="#dimas">
             <speaker>DIMAS</speaker>
@@ -2264,7 +2302,8 @@
             <speaker>MÚSICOS</speaker>
             <l>Notorio sea...</l>
           </sp>
-          <sp who="#fe #apostasía #pensamiento #penitencia #magdalena #bautismo #constantino #músicos">
+          <sp
+            who="#fe #apostasía #pensamiento #penitencia #magdalena #bautismo #constantino #músicos">
             <speaker>TODOS y MÚSICOS</speaker>
             <l>...a cuantos en sus cristales</l>
             <l>lavan la mancha primera,</l>
@@ -2518,7 +2557,8 @@
             <l>juzgarte tú mismo es fuerza».</l>
             <stage>Lee.</stage>
           </sp>
-          <sp who="#fe #pensamiento #penitencia #magdalena #bautismo #constantino #confirmación #agustino #comunión #músicos">
+          <sp
+            who="#fe #pensamiento #penitencia #magdalena #bautismo #constantino #confirmación #agustino #comunión #músicos">
             <speaker>TODOS y MÚSICOS</speaker>
             <l n="1480">Alerta, alerta,</l>
             <l>mortal, reprendete tú,</l>
@@ -2647,7 +2687,8 @@
             <l>de que pudo suspenderla,</l>
             <l part="I">a ella volvamos.</l>
           </sp>
-          <sp who="#penitencia #magdalena #bautismo #constantino #confirmación #agustino #comunión #saulo #matrimonio #extrema-unción">
+          <sp
+            who="#penitencia #magdalena #bautismo #constantino #confirmación #agustino #comunión #saulo #matrimonio #extrema-unción">
             <speaker>TODOS</speaker>
             <l part="F">Bien dices;</l>
             <l n="1560">vamos tras la Fe a ponerla</l>
@@ -2714,7 +2755,8 @@
             <speaker>FE</speaker>
             <l part="I">Vengan todos...</l>
           </sp>
-          <sp who="#confirmación #agustino #comunión #saulo #matrimonio #extrema-unción #pablo #dimas #magdalena #bautismo #constantino #penitencia #músicos">
+          <sp
+            who="#confirmación #agustino #comunión #saulo #matrimonio #extrema-unción #pablo #dimas #magdalena #bautismo #constantino #penitencia #músicos">
             <speaker>TODOS y MÚSICOS</speaker>
             <l n="1605" part="F">Todos vengan...</l>
           </sp>
@@ -2722,7 +2764,8 @@
             <speaker>FE</speaker>
             <l>...donde sepan todos...</l>
           </sp>
-          <sp who="#confirmación #agustino #comunión #saulo #matrimonio #extrema-unción #pablo #dimas #magdalena #bautismo #constantino #penitencia #músicos">
+          <sp
+            who="#confirmación #agustino #comunión #saulo #matrimonio #extrema-unción #pablo #dimas #magdalena #bautismo #constantino #penitencia #músicos">
             <speaker>TODOS y MÚSICOS</speaker>
             <l>...donde todos sepan...</l>
           </sp>
@@ -2730,7 +2773,8 @@
             <speaker>FE</speaker>
             <l>...que el siempre felice día...</l>
           </sp>
-          <sp who="#confirmación #agustino #comunión #saulo #matrimonio #extrema-unción #pablo #dimas #magdalena #bautismo #constantino #penitencia #músicos">
+          <sp
+            who="#confirmación #agustino #comunión #saulo #matrimonio #extrema-unción #pablo #dimas #magdalena #bautismo #constantino #penitencia #músicos">
             <speaker>TODOS y MÚSICOS</speaker>
             <l>...que el siempre felice día...</l>
           </sp>
@@ -2738,7 +2782,8 @@
             <speaker>FE</speaker>
             <l n="1610">...que al cielo ofrece la tierra...</l>
           </sp>
-          <sp who="#confirmación #agustino #comunión #saulo #matrimonio #extrema-unción #pablo #dimas #magdalena #bautismo #constantino #penitencia #músicos">
+          <sp
+            who="#confirmación #agustino #comunión #saulo #matrimonio #extrema-unción #pablo #dimas #magdalena #bautismo #constantino #penitencia #músicos">
             <speaker>TODOS y MÚSICOS</speaker>
             <l>...que al cielo ofrece la tierra...</l>
           </sp>
@@ -2747,14 +2792,17 @@
             <l>... ...No hay instante sin milagro</l>
             <l>en los triunfos de la Iglesia.</l>
           </sp>
-          <sp who="#confirmación #agustino #comunión #saulo #matrimonio #extrema-unción #pablo #dimas #magdalena #bautismo #constantino #penitencia #músicos">
+          <sp
+            who="#confirmación #agustino #comunión #saulo #matrimonio #extrema-unción #pablo #dimas #magdalena #bautismo #constantino #penitencia #músicos">
             <speaker>TODOS y MÚSICOS</speaker>
             <l>... ...No hay instante sin milagro</l>
             <l n="1615">en los triunfos de la Iglesia.</l>
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="37">
-          <stage>Con esta música salen en tropa MÚSICOS y SACRAMENTOS delante, y luego la FE en un carro triunfal, que ha de atravesar el tablado, tirando de unas bandas, que han de llevar MAGDALENA, DIMAS, SAULO, CONSTANTINO y AGUSTINO.</stage>
+          <stage>Con esta música salen en tropa MÚSICOS y SACRAMENTOS delante, y luego la FE en un
+            carro triunfal, que ha de atravesar el tablado, tirando de unas bandas, que han de
+            llevar MAGDALENA, DIMAS, SAULO, CONSTANTINO y AGUSTINO.</stage>
           <sp who="#apostasía">
             <speaker>APOSTASÍA</speaker>
             <l>¡Ay de mí, infeliz! Que al ver</l>
@@ -2784,7 +2832,8 @@
             <l>y así con ellos diré:</l>
             <l part="I">Todos vengan...</l>
           </sp>
-          <sp who="#penitencia #matrimonio #bautismo #confirmación #comunión #extrema-unción #orden-sacerdotal #fe #agustino #constantino #saulo #dimas #magdalena #músicos">
+          <sp
+            who="#penitencia #matrimonio #bautismo #confirmación #comunión #extrema-unción #orden-sacerdotal #fe #agustino #constantino #saulo #dimas #magdalena #músicos">
             <speaker>TODOS y MÚSICOS</speaker>
             <l part="F">Todos vengan...</l>
           </sp>
@@ -2804,7 +2853,8 @@
             <l>lo no visible confiesa...</l>
             <stage>Postrado a los pies del carro.</stage>
           </sp>
-          <sp who="#apostasía #penitencia #matrimonio #bautismo #confirmación #comunión #extrema-unción #orden-sacerdotal #fe #agustino #constantino #saulo #dimas #magdalena #músicos">
+          <sp
+            who="#apostasía #penitencia #matrimonio #bautismo #confirmación #comunión #extrema-unción #orden-sacerdotal #fe #agustino #constantino #saulo #dimas #magdalena #músicos">
             <speaker>éL, TODOS y MÚSICOS</speaker>
             <l n="1640">...que el siempre felice día</l>
             <l>que al cielo ofrece la tierra,</l>
@@ -2826,7 +2876,8 @@
             <l>el Orden Sacerdotal,</l>
             <l part="I">la Mesa puesta.</l>
           </sp>
-          <stage>ábrese el otro carro, y véese el ORDEN SACERDOTAL y delante de él un altar con Hostia y Cáliz.</stage>
+          <stage>ábrese el otro carro, y véese el ORDEN SACERDOTAL y delante de él un altar con
+            Hostia y Cáliz.</stage>
           <sp who="#orden-sacerdotal">
             <speaker>ORDEN SACERDOTAL</speaker>
             <l n="1655" part="F">Y en ella</l>
@@ -2907,12 +2958,14 @@
             <l>os publicáis, de la fiesta</l>
             <l part="I">prosiga el triunfo...</l>
           </sp>
-          <sp who="#apostasía #penitencia #matrimonio #bautismo #confirmación #comunión #extrema-unción #orden-sacerdotal #agustino #constantino #saulo #dimas #magdalena">
+          <sp
+            who="#apostasía #penitencia #matrimonio #bautismo #confirmación #comunión #extrema-unción #orden-sacerdotal #agustino #constantino #saulo #dimas #magdalena">
             <speaker>TODOS</speaker>
             <l part="F">...diciendo</l>
             <l>todos a las plantas vuestras:</l>
           </sp>
-          <sp who="#apostasía #penitencia #matrimonio #bautismo #confirmación #comunión #extrema-unción #orden-sacerdotal #agustino #constantino #saulo #dimas #magdalena #músicos">
+          <sp
+            who="#apostasía #penitencia #matrimonio #bautismo #confirmación #comunión #extrema-unción #orden-sacerdotal #agustino #constantino #saulo #dimas #magdalena #músicos">
             <speaker>TODOS y MÚSICOS</speaker>
             <l n="1690">Vengan todos,</l>
             <l>todos vengan,</l>

@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-06">
           <time when="13:05:00"/>
@@ -38,13 +42,16 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">duelos-de-amor-y-lealtad</idno></publicationStmt>
+        <idno type="caldracor">duelos-de-amor-y-lealtad</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="sourceText">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
           <idno type="URL">http://www.cervantesvirtual.com/obra/duelos-de-amor-y-lealtad/</idno>
           <bibl type="originalSource">
-            <title>Incluido en un tomo pseudo-Vera Tassis de la Novena parte de Comedias de don Pedro Calderón de la Barca, Madrid, Francisco Sanz, 1691. Localización: Biblioteca de Menéndez Pelayo. Sig.: (2.102)-9 </title>
+            <title>Incluido en un tomo pseudo-Vera Tassis de la Novena parte de Comedias de don
+              Pedro Calderón de la Barca, Madrid, Francisco Sanz, 1691. Localización: Biblioteca de
+              Menéndez Pelayo. Sig.: (2.102)-9 </title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -155,17 +162,33 @@
           <term source="dracor" type="genreTitle">comedia histórica</term>
           <term source="#kroll" type="main">comedia histórica</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1691"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1691"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -207,7 +230,8 @@
       <div type="act" n="1">
         <head rend="caps">Jornada Primera</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Tocan cajas y trompetas y, fingiéndose dentro la batalla, sale después de las primeras voces Irífile con espada desnuda, cimera de plumas y bengala.</stage>
+          <stage>Tocan cajas y trompetas y, fingiéndose dentro la batalla, sale después de las
+            primeras voces Irífile con espada desnuda, cimera de plumas y bengala.</stage>
           <sp who="#unos">
             <speaker rend="caps">Unos</speaker>
             <stage type="withText">dentro.</stage>
@@ -465,7 +489,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="4">
-          <stage>Éntrase Irífile; síguenla todos, vuelve por la otra puerta y sale Cenón al paso.</stage>
+          <stage>Éntrase Irífile; síguenla todos, vuelve por la otra puerta y sale Cenón al
+            paso.</stage>
           <sp who="#cenón">
             <speaker rend="caps">Cenón</speaker>
 
@@ -1087,7 +1112,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="10">
-          <stage>Sale Cósdroas vestido de cautivo y como arrojado cae a los pies de Leonido, y después cuatro soldados que llevan a Toante como desmayado.</stage>
+          <stage>Sale Cósdroas vestido de cautivo y como arrojado cae a los pies de Leonido, y
+            después cuatro soldados que llevan a Toante como desmayado.</stage>
           <sp who="#leonido">
             <speaker rend="caps">Leonido</speaker>
 
@@ -1260,7 +1286,8 @@
             <l>amarrado a cuatro potros,</l>
             <l>decir la verdad es fuerza.</l>
           </sp>
-          <sp who="#soldados-persianos-1 #soldados-persianos-2 #soldados-persianos-3 #soldados-persianos-4">
+          <sp
+            who="#soldados-persianos-1 #soldados-persianos-2 #soldados-persianos-3 #soldados-persianos-4">
             <speaker rend="caps">Los Cuatro</speaker>
 
 
@@ -1312,7 +1339,8 @@
             <l>lo soy desde que han en mí</l>
             <l>cogido una linda pesca.</l>
           </sp>
-          <sp who="#soldados-persianos-1 #soldados-persianos-2 #soldados-persianos-3 #soldados-persianos-4">
+          <sp
+            who="#soldados-persianos-1 #soldados-persianos-2 #soldados-persianos-3 #soldados-persianos-4">
             <speaker rend="caps">Los Cuatro</speaker>
 
 
@@ -1360,7 +1388,8 @@
 
             <l>Buen remedio tengan.</l>
           </sp>
-          <sp who="#soldados-persianos-1 #soldados-persianos-2 #soldados-persianos-3 #soldados-persianos-4">
+          <sp
+            who="#soldados-persianos-1 #soldados-persianos-2 #soldados-persianos-3 #soldados-persianos-4">
             <speaker rend="caps">Los Cuatro</speaker>
 
 
@@ -1420,7 +1449,8 @@
             <l>Después</l>
             <l>irá; ahora no se detenga.</l>
           </sp>
-          <sp who="#soldados-persianos-1 #soldados-persianos-2 #soldados-persianos-3 #soldados-persianos-4">
+          <sp
+            who="#soldados-persianos-1 #soldados-persianos-2 #soldados-persianos-3 #soldados-persianos-4">
             <speaker rend="caps">Los Cuatro</speaker>
 
 
@@ -1494,7 +1524,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="13">
-          <stage>Llévanle, y salen las damas que pudieren, cantando y bailando, con guirnaldas de flores y, detrás, Deidamia, Irífile y Flora.</stage>
+          <stage>Llévanle, y salen las damas que pudieren, cantando y bailando, con guirnaldas de
+            flores y, detrás, Deidamia, Irífile y Flora.</stage>
           <sp who="#flora">
             <speaker rend="caps">Flora</speaker>
             <stage type="withText">Canta.</stage>
@@ -2259,7 +2290,8 @@
             <l>lo primero que escuchamos,</l>
             <l>trompas y cajas diciendo…</l>
           </sp>
-          <stage>dentro golpes como de fábrica y cantan sin instrumentos a compás del golpe de las azadas.</stage>
+          <stage>dentro golpes como de fábrica y cantan sin instrumentos a compás del golpe de las
+            azadas.</stage>
           <sp who="#música">
             <speaker rend="caps">Música</speaker>
             <stage type="withText">dentro.</stage>
@@ -3756,7 +3788,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Retírase Toante en medio del tablado, sale Cenón a una puerta, Leonido a otra, quedándose al paño, y paséase Irífile.</stage>
+          <stage>Retírase Toante en medio del tablado, sale Cenón a una puerta, Leonido a otra,
+            quedándose al paño, y paséase Irífile.</stage>
           <sp who="#cenón">
             <speaker rend="caps">Cenón</speaker>
 
@@ -3866,7 +3899,8 @@
 
             <l>¿Quién a huir te obliga?</l>
           </sp>
-          <stage>Al pasar junto a Toante diga el medio verso, y así los demás, que él repite.</stage>
+          <stage>Al pasar junto a Toante diga el medio verso, y así los demás, que él
+            repite.</stage>
           <sp who="#irífile">
             <speaker rend="caps">Irífile</speaker>
 
@@ -6006,7 +6040,8 @@
       <div type="act" n="3">
         <head rend="caps">Jornada Tercera</head>
         <div type="scene" resp="#rojas" n="1">
-          <stage>Tocan cajas y trompetas y sale marchando por una parte Alejandro y soldados y por otra Cenón.</stage>
+          <stage>Tocan cajas y trompetas y sale marchando por una parte Alejandro y soldados y por
+            otra Cenón.</stage>
           <sp who="#cenón">
             <speaker rend="caps">Cenón</speaker>
 
@@ -6878,7 +6913,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Sale Toante riñendo con algunos soldados, Morlaco, y Cósdroas deteniéndolos.</stage>
+          <stage>Sale Toante riñendo con algunos soldados, Morlaco, y Cósdroas
+            deteniéndolos.</stage>
           <sp who="#cósdroas">
             <speaker rend="caps">Cósdroas</speaker>
 
@@ -8476,7 +8512,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="21">
-          <stage>Sale Alejandro, Cenón y soldados, y halla arrodilladas a Deidamia y las demás mujeres.</stage>
+          <stage>Sale Alejandro, Cenón y soldados, y halla arrodilladas a Deidamia y las demás
+            mujeres.</stage>
           <sp who="#deidamia">
             <speaker rend="caps">Deidamia</speaker>
 
@@ -8660,7 +8697,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="24">
-          <stage>Salen Cósdroas y los demás soldados trayendo preso a Toante y Irífile como deteniéndolos.</stage>
+          <stage>Salen Cósdroas y los demás soldados trayendo preso a Toante y Irífile como
+            deteniéndolos.</stage>
           <sp who="#irífile">
             <speaker rend="caps">Irífile</speaker>
 

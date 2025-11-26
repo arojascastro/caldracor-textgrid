@@ -19,11 +19,15 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <date when="2019-05-09">
           <time when="14:59:25"/>
         </date>
@@ -34,13 +38,18 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">el-veneno-y-la-triaca</idno></publicationStmt>
+        <idno type="caldracor">el-veneno-y-la-triaca</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-veneno-y-la-triaca--0/html/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/el-veneno-y-la-triaca--0/html/</idno>
           <bibl type="originalSource">
-            <title>Texto crítico preparado por Juan Manuel Escudero procedente de la edición Calderón de la Barca, Pedro, El veneno y la triaca, ed. Juan Manuel Escudero, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2000. ISBN: 3-931887-94-4.</title>
+            <title>Texto crítico preparado por Juan Manuel Escudero procedente de la edición
+              Calderón de la Barca, Pedro, El veneno y la triaca, ed. Juan Manuel Escudero,
+              Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2000. ISBN:
+              3-931887-94-4.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -89,17 +98,33 @@
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
         <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1717"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1717"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -135,7 +160,8 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Salen EL ENTENDIMIENTO, viejo venerable; LA INFANTA, dama; LA INOCIENCIA, de villana; los cuatro Tiempos y la MÚSICA.</stage>
+          <stage>Salen EL ENTENDIMIENTO, viejo venerable; LA INFANTA, dama; LA INOCIENCIA, de
+            villana; los cuatro Tiempos y la MÚSICA.</stage>
           <sp who="#entendimiento">
             <speaker>ENTENDIMIENTO</speaker>
             <l>En la falda lisonjera</l>
@@ -2013,7 +2039,8 @@
             <l>estén captivas las aguas,</l>
             <l n="1180">y todo en mi edad padezca</l>
             <l>mil confusas destemplanzas...</l>
-            <stage>Suena un clarín y descúbrese un bajel en el mar, y EL PEREGRINO en la popa, y dicen dentro: «¡A tierra!».</stage>
+            <stage>Suena un clarín y descúbrese un bajel en el mar, y EL PEREGRINO en la popa, y
+              dicen dentro: «¡A tierra!».</stage>
             <l>Pero, ¿qué es esto? Un clarín</l>
             <l>sonó en el mar; no sin causa,</l>
             <l>pues una nave rompiendo</l>

@@ -23,11 +23,15 @@
         </respStmt>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-09">
           <time when="11:41:04"/>
@@ -38,13 +42,17 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">las-cadenas-del-demonio</idno></publicationStmt>
+        <idno type="caldracor">las-cadenas-del-demonio</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="sourceText">
           <name>Association for Hispanic Classical Theater</name>
           <idno type="URL">http://www.comedias.org/calderon/Cadena.html</idno>
           <bibl type="originalSource">
-            <title>Texto basado en las COMEDIAS DE DON PEDRO CALDERÓN DE LA BARCA, ed. Juan Jorge Keil (Leipzig, 1830), tomo IV. Fue editado en forma electrónica por David Hildner y luego pasado al HTML para ser presentado en esta colección por Vern Williamsen en 2000.</title>
+            <title>Texto basado en las COMEDIAS DE DON PEDRO CALDERÓN DE LA BARCA, ed. Juan Jorge
+              Keil (Leipzig, 1830), tomo IV. Fue editado en forma electrónica por David Hildner y
+              luego pasado al HTML para ser presentado en esta colección por Vern Williamsen en
+              2000.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -122,17 +130,33 @@
           <term source="dracor" type="genreTitle">comedia religiosa</term>
           <term source="#kroll" type="main">comedia religiosa</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1644"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1644"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -2063,7 +2087,8 @@
             <l>Habla ahora.– Preguntadle;</l>
             <l>decid que os dé la respuesta.</l>
           </sp>
-          <stage>Al báculo que trae BARTOLOMÉ, que será a modo de cruz, se pondrá una bombilla y se encenderá por debajo</stage>
+          <stage>Al báculo que trae BARTOLOMÉ, que será a modo de cruz, se pondrá una bombilla y se
+            encenderá por debajo</stage>
           <sp who="#ceusis">
             <speaker rend="caps">Ceusis</speaker>
 
@@ -3243,7 +3268,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="7">
-          <stage>Pone el SACERDOTE unos papeles que trae sobre un bufete y vase; y el REY, sentado junto al bufete, lee un papel</stage>
+          <stage>Pone el SACERDOTE unos papeles que trae sobre un bufete y vase; y el REY, sentado
+            junto al bufete, lee un papel</stage>
           <sp who="#rey">
             <speaker rend="caps">Rey</speaker>
 
@@ -3735,7 +3761,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="13">
-          <stage>Descúbrese el ídolo vestido como estaba el DEMONIO, y salen el REY, LICANORO, e IRENE y ACOMPAÑAMIENTO</stage>
+          <stage>Descúbrese el ídolo vestido como estaba el DEMONIO, y salen el REY, LICANORO, e
+            IRENE y ACOMPAÑAMIENTO</stage>
           <sp who="#lirón">
             <speaker rend="caps">Lirón</speaker>
             <stage type="withText">Aparte</stage>

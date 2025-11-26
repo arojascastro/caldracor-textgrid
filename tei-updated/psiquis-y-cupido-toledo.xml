@@ -17,11 +17,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-25">
           <time when="10:42:06"/>
@@ -33,13 +36,15 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">psiquis-y-cupido-toledo</idno></publicationStmt>
+        <idno type="caldracor">psiquis-y-cupido-toledo</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/37390</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Enrique Rull, Pamplona– Kassel, Universidad de Navarra–Reichenberger, 2012. ISBN: 978-3-937734-98-9.</title>
+            <title>Edición digital a partir de la edición de Enrique Rull, Pamplona– Kassel,
+              Universidad de Navarra–Reichenberger, 2012. ISBN: 978-3-937734-98-9.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -96,17 +101,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1640"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1640"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -178,7 +199,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="2">
-          <stage>Sale un Coro de Música, y detrás la Idolatría y la Gentilidad, vestidos a lo indio</stage>
+          <stage>Sale un Coro de Música, y detrás la Idolatría y la Gentilidad, vestidos a lo
+            indio</stage>
           <sp who="#coro-1">
             <speaker>CORO 1.º</speaker>
             <l>«Cantad, mortales, cantad,</l>
@@ -252,7 +274,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="4">
-          <stage>Sale el segundo Coro de música y detrás el Judaísmo y la Sinagoga, vestidos a lo judío</stage>
+          <stage>Sale el segundo Coro de música y detrás el Judaísmo y la Sinagoga, vestidos a lo
+            judío</stage>
           <sp who="#coro-1">
             <speaker>CORO 1.º</speaker>
             <l>«Llorad, mortales, llorad,</l>
@@ -329,7 +352,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="6">
-          <stage>Sale la Fe, vestida de dama, y el Coro 3.º de Música de indios, con mascarilla y de gala, y el Albedrío, vestido de loco</stage>
+          <stage>Sale la Fe, vestida de dama, y el Coro 3.º de Música de indios, con mascarilla y de
+            gala, y el Albedrío, vestido de loco</stage>
           <sp who="#coro-3">
             <speaker>CORO 3.º</speaker>
             <l>«Venid, mortales, venid,</l>
@@ -642,7 +666,8 @@
             <speaker>MUNDO</speaker>
             <l part="I">¿Quién da estas voces?</l>
           </sp>
-          <sp who="#gentilidad #coro-1 #sinagoga #judaismo #coro-2 #coro-3 #fe #albedrio #cupido #apostasia #mundo">
+          <sp
+            who="#gentilidad #coro-1 #sinagoga #judaismo #coro-2 #coro-3 #fe #albedrio #cupido #apostasia #mundo">
             <speaker>TODOS</speaker>
             <l part="F">¿Qué es esto?</l>
           </sp>
@@ -716,7 +741,8 @@
             <l n="345">no me conocerá el Mundo.</l>
           </sp>
           <stage>Hácense todos a una banda</stage>
-          <sp who="#gentilidad #coro-1 #sinagoga #judaismo #coro-2 #coro-3 #fe #albedrio #apostasia #mundo">
+          <sp
+            who="#gentilidad #coro-1 #sinagoga #judaismo #coro-2 #coro-3 #fe #albedrio #apostasia #mundo">
             <speaker>TODOS</speaker>
             <l part="I">¿Hecho tú al Mundo?</l>
           </sp>
@@ -869,7 +895,8 @@
             <l>correrle. ¡El brazo y la acción</l>
             <l>se me han suspendido a un tiempo!</l>
           </sp>
-          <stage>Párase delante de todos, de suerte que queden el Mundosolo el primero; luego, Gentilidad e Idolatría, Judaísmo y Sinagoga; después la Apostasía</stage>
+          <stage>Párase delante de todos, de suerte que queden el Mundosolo el primero; luego,
+            Gentilidad e Idolatría, Judaísmo y Sinagoga; después la Apostasía</stage>
           <sp who="#cupido">
             <speaker>CUPIDO</speaker>
             <l>Aunque te hayas acercado</l>
@@ -913,7 +940,8 @@
             <l>quién es), en ella venguemos</l>
             <l>el deshonor que es de todos.</l>
           </sp>
-          <sp who="#coro-2 #coro-3 #fe #albedrio #idolatria #sinagoga #gentilidad #judaismo #apostasia #mundo">
+          <sp
+            who="#coro-2 #coro-3 #fe #albedrio #idolatria #sinagoga #gentilidad #judaismo #apostasia #mundo">
             <speaker>TODOS</speaker>
             <l>¡Fuera del Mundo la echemos!</l>
           </sp>
@@ -954,7 +982,8 @@
             <speaker>IDOLATRÍA</speaker>
             <l>No esté la Fe entre nosotros.</l>
           </sp>
-          <sp who="#coro-2 #coro-3 #fe #albedrio #sinagoga #gentilidad #judaismo #mundo #apostasia #idolatria">
+          <sp
+            who="#coro-2 #coro-3 #fe #albedrio #sinagoga #gentilidad #judaismo #mundo #apostasia #idolatria">
             <speaker>TODOS</speaker>
             <l n="460">¡Fuera del Mundo la echemos!</l>
           </sp>
@@ -1041,7 +1070,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="12">
-          <stage>Vase. Suena el clarín, descúbrese una galera consus remos, en lo alto del árbol la Envidia, vestidade grumete, y todos en la popa; córrense las corti-nas y aparece el segundo teatro de un monte</stage>
+          <stage>Vase. Suena el clarín, descúbrese una galera consus remos, en lo alto del árbol la
+            Envidia, vestidade grumete, y todos en la popa; córrense las corti-nas y aparece el
+            segundo teatro de un monte</stage>
           <sp who="#mundo">
             <speaker>MUNDO</speaker>
             <l>¡Amaina, amaina, que ya</l>
@@ -1075,7 +1106,8 @@
             <l>alternan las ondas frías.</l>
             <l>¿Dónde todos me lleváis?</l>
           </sp>
-          <sp who="#coro-2 #coro-3 #albedrio #sinagoga #idolatria #cupido #mundo #apostasia #gentilidad #judaismo #fe">
+          <sp
+            who="#coro-2 #coro-3 #albedrio #sinagoga #idolatria #cupido #mundo #apostasia #gentilidad #judaismo #fe">
             <speaker>TODOS</speaker>
             <l n="550">A apartarte de nosotros.</l>
           </sp>
@@ -1152,7 +1184,8 @@
             <speaker>MUNDO</speaker>
             <l part="I">Vaya a tierra.</l>
           </sp>
-          <sp who="#coro-2 #coro-3 #apostasia #envidia #sinagoga #judaismo #gentilidad #idolatria #fe #albedrio #mundo">
+          <sp
+            who="#coro-2 #coro-3 #apostasia #envidia #sinagoga #judaismo #gentilidad #idolatria #fe #albedrio #mundo">
             <speaker>TODOS</speaker>
             <l part="F">¡Vaya y muera!</l>
           </sp>
@@ -1178,7 +1211,8 @@
             <l n="585">¿Es posible que este ultraje</l>
             <l part="I">todos conmigo hacéis?</l>
           </sp>
-          <sp who="#coro-2 #coro-3 #envidia #sinagoga #judaismo #gentilidad #idolatria #albedrio #apostasia #mundo #fe">
+          <sp
+            who="#coro-2 #coro-3 #envidia #sinagoga #judaismo #gentilidad #idolatria #albedrio #apostasia #mundo #fe">
             <speaker>TODOS</speaker>
             <l part="F">Sí.</l>
           </sp>
@@ -1186,7 +1220,8 @@
             <speaker>ALBEDRÍO</speaker>
             <l part="I">¿Y conmigo?</l>
           </sp>
-          <sp who="#coro-2 #coro-3 #envidia #sinagoga #judaismo #gentilidad #idolatria #apostasia #mundo #fe #albedrio">
+          <sp
+            who="#coro-2 #coro-3 #envidia #sinagoga #judaismo #gentilidad #idolatria #apostasia #mundo #fe #albedrio">
             <speaker>TODOS</speaker>
             <l part="F">Como aquí</l>
             <l>no te oímos, buen viaje.</l>
@@ -1457,7 +1492,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="15">
-          <stage>Entran por una puerta y salen por otra con unaluz, como admirados, oyendo la Música</stage>
+          <stage>Entran por una puerta y salen por otra con unaluz, como admirados, oyendo la
+            Música</stage>
           <sp who="#acompanamiento">
             <speaker>VOZ 3.ª</speaker>
             <l>«¡Rosa de estos abriles,</l>
@@ -1468,7 +1504,8 @@
             <l n="745">«¡Flor de la Primavera,</l>
             <l>norabuena venga!».</l>
           </sp>
-          <sp who="#cupido #envidia #sinagoga #judaismo #gentilidad #idolatria #apostasia #mundo #coro-1 #coro-2 #albedrio #fe #acompanamiento">
+          <sp
+            who="#cupido #envidia #sinagoga #judaismo #gentilidad #idolatria #apostasia #mundo #coro-1 #coro-2 #albedrio #fe #acompanamiento">
             <speaker>TODOS</speaker>
             <l>«¡Venga norabuena,</l>
             <l>norabuena venga!».</l>
@@ -1610,7 +1647,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <stage>Sale Cupido, matando la luz que tiene el Albedrío; él se turba, y ella queda como ciega</stage>
+          <stage>Sale Cupido, matando la luz que tiene el Albedrío; él se turba, y ella queda como
+            ciega</stage>
           <sp who="#albedrio">
             <speaker>ALBEDRÍO</speaker>
             <l n="805">¡Ay de mí! La luz han muerto;</l>
@@ -2008,7 +2046,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="20">
-          <stage>Vase. Suenan dentro voces. Si pareciere, en la partedonde fue la galera, y venir representando por el palenque que ella fue, será mejor, y si no en el vestuario</stage>
+          <stage>Vase. Suenan dentro voces. Si pareciere, en la partedonde fue la galera, y venir
+            representando por el palenque que ella fue, será mejor, y si no en el vestuario</stage>
           <sp who="#mundo">
             <speaker>MUNDO</speaker>
             <l>Mira, Envidia, pues eres el piloto,</l>
@@ -2024,7 +2063,8 @@
             <l>Desjarciada la vela, el árbol roto,</l>
             <l>nos vemos en el mar, cascado el pino.</l>
           </sp>
-          <sp who="#sinagoga #judaismo #idolatria #apostasia #acompanamiento #mundo #envidia #gentilidad">
+          <sp
+            who="#sinagoga #judaismo #idolatria #apostasia #acompanamiento #mundo #envidia #gentilidad">
             <speaker>TODOS</speaker>
             <l n="1135">¡Que nos vamos a pique, a tierra, a tierra!</l>
           </sp>
@@ -2138,7 +2178,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="22">
-          <stage>Salen todos los que pudieren, y detrás la Fe, convelo en el rostro, y luego se le quita</stage>
+          <stage>Salen todos los que pudieren, y detrás la Fe, convelo en el rostro, y luego se le
+            quita</stage>
           <sp who="#fe">
             <speaker>FE</speaker>
             <l>¿Quién sois y qué pretendéis?</l>
@@ -2176,7 +2217,8 @@
             <speaker>FE</speaker>
             <l n="1175">¿De qué os admiráis? Yo soy.</l>
           </sp>
-          <sp who="#acompanamiento #albedrio #envidia #mundo #judaismo #gentilidad #sinagoga #idolatria #apostasia #fe">
+          <sp
+            who="#acompanamiento #albedrio #envidia #mundo #judaismo #gentilidad #sinagoga #idolatria #apostasia #fe">
             <speaker>TODOS</speaker>
             <l part="I">¿La que aborrecemos?</l>
           </sp>
@@ -2248,7 +2290,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="23">
-          <stage>Éntranse haciendo reverencias con majestad, yquédase la Apostasía, y sale el Albedrío, vestido de gala, ridículo</stage>
+          <stage>Éntranse haciendo reverencias con majestad, yquédase la Apostasía, y sale el
+            Albedrío, vestido de gala, ridículo</stage>
           <sp who="#albedrio">
             <speaker>ALBEDRÍO</speaker>
             <l>Todos estamos medrados,</l>
@@ -2715,7 +2758,8 @@
             <speaker>VOZ 1.ª</speaker>
             <l n="1415">Aves, su luz saludad».</l>
           </sp>
-          <sp who="#coro-1 #coro-2 #acompanamiento #envidia #mundo #gentilidad #judaismo #sinagoga #idolatria #albedrio #apostasia #fe #cupido #musicos">
+          <sp
+            who="#coro-1 #coro-2 #acompanamiento #envidia #mundo #gentilidad #judaismo #sinagoga #idolatria #albedrio #apostasia #fe #cupido #musicos">
             <speaker>TODOS</speaker>
             <l>«Volad, volad».</l>
           </sp>
@@ -2723,7 +2767,8 @@
             <speaker>VOZ 2.ª</speaker>
             <l>«Cristales, su espejo sed».</l>
           </sp>
-          <sp who="#coro-1 #coro-2 #acompanamiento #envidia #mundo #gentilidad #judaismo #sinagoga #idolatria #albedrio #apostasia #fe #cupido #musicos">
+          <sp
+            who="#coro-1 #coro-2 #acompanamiento #envidia #mundo #gentilidad #judaismo #sinagoga #idolatria #albedrio #apostasia #fe #cupido #musicos">
             <speaker>TODOS</speaker>
             <l>«Corred, corred».</l>
           </sp>
@@ -2731,7 +2776,8 @@
             <speaker>VOZ 1.ª</speaker>
             <l>«Flores, de alfombra servid».</l>
           </sp>
-          <sp who="#coro-1 #coro-2 #envidia #mundo #gentilidad #judaismo #sinagoga #idolatria #albedrio #apostasia #fe #cupido #musicos #acompanamiento">
+          <sp
+            who="#coro-1 #coro-2 #envidia #mundo #gentilidad #judaismo #sinagoga #idolatria #albedrio #apostasia #fe #cupido #musicos #acompanamiento">
             <speaker>TODOS</speaker>
             <l n="1420">«Lucid, lucid,</l>
             <l>y en dulce y süave lid,</l>
@@ -2760,7 +2806,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="30">
-          <stage>Sale el Albedrío con una linterna, ábrela, y enciende una bujía y tómala ella</stage>
+          <stage>Sale el Albedrío con una linterna, ábrela, y enciende una bujía y tómala
+            ella</stage>
           <sp who="#albedrio">
             <speaker>ALBEDRÍO</speaker>
             <l part="F">¿Qué me quieres?</l>
@@ -2868,7 +2915,8 @@
             <speaker>APOSTASÍA</speaker>
             <l>¡Desierto es el que era alcázar!</l>
           </sp>
-          <sp who="#coro-1 #coro-2 #envidia #musicos #acompanamiento #cupido #fe #albedrio #gentilidad #idolatria #judaismo #sinagoga #mundo #apostasia">
+          <sp
+            who="#coro-1 #coro-2 #envidia #musicos #acompanamiento #cupido #fe #albedrio #gentilidad #idolatria #judaismo #sinagoga #mundo #apostasia">
             <speaker>TODOS</speaker>
             <l>Fe, ¿dónde están tus palacios?</l>
             <l n="1475">¿Dónde tus tesoros guardas?</l>
@@ -2920,7 +2968,8 @@
             <l n="1505">de Amor; cuanto erré engañada,</l>
             <l>confieso ya arrepentida.</l>
           </sp>
-          <stage type="object">Descúbrese en lo alto Cupido, con una mesa, y en ella Hostia y Cáliz</stage>
+          <stage type="object">Descúbrese en lo alto Cupido, con una mesa, y en ella Hostia y
+            Cáliz</stage>
           <sp who="#cupido">
             <speaker>CUPIDO</speaker>
             <l>Pues el confesarlo basta</l>
@@ -2985,7 +3034,8 @@
             <l>De Psiquis y de Cupido</l>
             <l>la alegoría aquí acaba.</l>
           </sp>
-          <sp who="#coro-1 #coro-2 #envidia #musicos #acompanamiento #albedrio #sinagoga #judaismo #gentilidad #idolatria #apostasia #mundo #cupido #fe">
+          <sp
+            who="#coro-1 #coro-2 #envidia #musicos #acompanamiento #albedrio #sinagoga #judaismo #gentilidad #idolatria #apostasia #mundo #cupido #fe">
             <speaker>TODOS</speaker>
             <l n="1540">Y, humildes, os suplicamos</l>
             <l>que nos perdonéis las faltas.</l>

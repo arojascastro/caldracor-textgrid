@@ -16,11 +16,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-01-25">
           <time when="10:42:13"/>
@@ -32,13 +35,15 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">la-universal-redencion</idno></publicationStmt>
+        <idno type="caldracor">la-universal-redencion</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>DADUN Depositorio académico digital Universidad de Navarra</name>
           <idno type="URL">https://dadun.unav.edu/handle/10171/18217</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de M. Roig, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2009. ISBN: 978-3-937734-55-2.</title>
+            <title>Edición digital a partir de la edición de M. Roig, Pamplona–Kassel, Universidad
+              de Navarra–Reichenberger, 2009. ISBN: 978-3-937734-55-2.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -101,17 +106,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date notBefore="1620" notAfter="1647"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date notBefore="1620" notAfter="1647"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -992,7 +1013,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="13">
-          <stage>Tocan, y entran por una parte la Verdad, con bandera colorada o tarjeta, y la Justicia, con bastón, y detrás el Verbo; por la otra parte la Paz, con tarjeta blanca, y la Misericordia, con bastón, y detrás el Amor Divino, y toman unos el un lado y el otro los otros.</stage>
+          <stage>Tocan, y entran por una parte la Verdad, con bandera colorada o tarjeta, y la
+            Justicia, con bastón, y detrás el Verbo; por la otra parte la Paz, con tarjeta blanca, y
+            la Misericordia, con bastón, y detrás el Amor Divino, y toman unos el un lado y el otro
+            los otros.</stage>
           <sp who="#verbo">
             <speaker>VERBO</speaker>
             <l>Amor, di: ¿cómo te atreves</l>
@@ -1757,7 +1781,11 @@
           <stage>Lee</stage>
           <sp who="#genero-humano">
             <speaker>GÉNERO HUMANO</speaker>
-            <p>«Nos, el Padre Eterno, y su divina Justicia, atento la culpa del Hombre, y que por ser tan grande no se halla en la naturaleza angélica ni humana quien pueda satisfacer, por ser criatura, la ofensa hecha al Criador, y que el Verbo, de su Amor obligado, salió a la fianza y paga: hallamos de condenar y condenamos a que muera afrentosamente. Notifícasele en vista y revista, sin embargo de apelación.» </p>
+            <p>«Nos, el Padre Eterno, y su divina Justicia, atento la culpa del Hombre, y que por
+              ser tan grande no se halla en la naturaleza angélica ni humana quien pueda satisfacer,
+              por ser criatura, la ofensa hecha al Criador, y que el Verbo, de su Amor obligado,
+              salió a la fianza y paga: hallamos de condenar y condenamos a que muera
+              afrentosamente. Notifícasele en vista y revista, sin embargo de apelación.» </p>
           </sp>
           <sp who="#justicia">
             <speaker>JUSTICIA</speaker>
@@ -2033,7 +2061,8 @@
             <l n="975" part="F">Ya mi oliva</l>
             <l>levanta su rama al Cielo.</l>
           </sp>
-          <stage>Tocan chirimías y aparece en lo alto un altar con la insignia del Santísimo Sacramento, y el Verbo de gloria.</stage>
+          <stage>Tocan chirimías y aparece en lo alto un altar con la insignia del Santísimo
+            Sacramento, y el Verbo de gloria.</stage>
           <sp who="#verbo">
             <speaker>VERBO</speaker>
             <l>Hombre, llégate a comer,</l>

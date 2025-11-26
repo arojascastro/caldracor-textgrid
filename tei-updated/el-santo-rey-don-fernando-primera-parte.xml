@@ -19,11 +19,15 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <date when="2019-04-30">
           <time when="21:57:46"/>
         </date>
@@ -34,13 +38,19 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">el-santo-rey-don-fernando-primera-parte</idno></publicationStmt>
+        <idno type="caldracor">el-santo-rey-don-fernando-primera-parte</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/el-santo-rey-don-fernando-primera-parte--0/html/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/el-santo-rey-don-fernando-primera-parte--0/html/</idno>
           <bibl type="originalSource">
-            <title>Texto crítico preparado por Ignacio Arellano, Juan Manuel Escudero y Mª Carmen Pinillos procedente de la edición Calderón de la Barca, Pedro, El santo rey don Fernando (primera parte), ed. Ignacio Arellano, Juan Manuel Escudero y Mª Carmen Pinillos, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1999. ISBN: 3-931887-69-3.</title>
+            <title>Texto crítico preparado por Ignacio Arellano, Juan Manuel Escudero y Mª Carmen
+              Pinillos procedente de la edición Calderón de la Barca, Pedro, El santo rey don
+              Fernando (primera parte), ed. Ignacio Arellano, Juan Manuel Escudero y Mª Carmen
+              Pinillos, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1999. ISBN:
+              3-931887-69-3.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -98,17 +108,33 @@
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
         <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1671"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1671"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -142,7 +168,9 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Sale el ALCORÁN, vestido de moro con un azadón; el HEBRAÍSMO, de judío, con otro; RÚSTICO, villano, con otro; y representan los primeros versos, como en acción de estar cavando.</stage>
+          <stage>Sale el ALCORÁN, vestido de moro con un azadón; el HEBRAÍSMO, de judío, con otro;
+            RÚSTICO, villano, con otro; y representan los primeros versos, como en acción de estar
+            cavando.</stage>
           <sp who="#alcorán">
             <speaker>ALCORÁN</speaker>
             <l>¿No habrá alivio para mí,</l>
@@ -1989,7 +2017,8 @@
         </div>
         <div type="scene" resp="#rojas" n="23">
           <stage>Sale la APOSTASÍA.</stage>
-          <sp who="#alcorán #hebraísmo #rústico #rey #leandro #viejo #fe #esperanza #caridad #isidro #religión-de-santo-domingo">
+          <sp
+            who="#alcorán #hebraísmo #rústico #rey #leandro #viejo #fe #esperanza #caridad #isidro #religión-de-santo-domingo">
             <speaker>TODOS</speaker>
             <stage>Dentro.</stage>
             <l>Cristo es el Dios verdadero,</l>
@@ -2078,7 +2107,8 @@
             <l>¡Oh infame hebreo! ¿Esta fue</l>
             <l>la unión que dejamos hecha?</l>
           </sp>
-          <sp who="#alcorán #hebraísmo #rey #leandro #viejo #fe #esperanza #caridad #isidro #religión-de-santo-domingo">
+          <sp
+            who="#alcorán #hebraísmo #rey #leandro #viejo #fe #esperanza #caridad #isidro #religión-de-santo-domingo">
             <speaker>TODOS</speaker>
             <stage>Dentro.</stage>
             <l>Cristo es el Dios verdadero,</l>
@@ -2091,7 +2121,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="25">
-          <stage>Tócanse chirimías, y sale la CARIDAD delante, con un ramo de oliva en la mano; detrás de ella el JUDAÍSMO, con toda la Música, y hombres y mujeres que puedan, todos vestidos a lo judío, con ramos en las manos; detrás el REY, y por otra parte sale DOMINGO.</stage>
+          <stage>Tócanse chirimías, y sale la CARIDAD delante, con un ramo de oliva en la mano;
+            detrás de ella el JUDAÍSMO, con toda la Música, y hombres y mujeres que puedan, todos
+            vestidos a lo judío, con ramos en las manos; detrás el REY, y por otra parte sale
+            DOMINGO.</stage>
           <sp who="#caridad">
             <speaker>CARIDAD</speaker>
             <l>¡Abrid las puertas, abrid!</l>
@@ -2188,7 +2221,10 @@
             <l>aún pueda decir la letra:</l>
             <l>¡abrid las puertas, abrid las puertas!</l>
           </sp>
-          <stage>Con esta repetición, cantando y representando, se ponen en dos alas, arrojando a sus pies los ramos, si no es la CARIDAD, que irá delante dél. El rey pasa entre todos y al mismo tiempo que representa y canta, tocarán atabalillos, trompetas y chirimías.</stage>
+          <stage>Con esta repetición, cantando y representando, se ponen en dos alas, arrojando a
+            sus pies los ramos, si no es la CARIDAD, que irá delante dél. El rey pasa entre todos y
+            al mismo tiempo que representa y canta, tocarán atabalillos, trompetas y
+            chirimías.</stage>
           <sp who="#apostasía">
             <speaker>APOSTASÍA</speaker>
             <l>¡Cielos! ¿Qué rasgo, qué viso,</l>
@@ -2287,7 +2323,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="28">
-          <stage>Saca el puñal, detiénele el brazo y salen algunos y después el REY, DOMINGO y la CARIDAD.</stage>
+          <stage>Saca el puñal, detiénele el brazo y salen algunos y después el REY, DOMINGO y la
+            CARIDAD.</stage>
           <sp who="#hebraísmo">
             <speaker>HEBRAÍSMO</speaker>
             <l>Pues defenderla</l>
@@ -2789,7 +2826,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="40">
-          <stage>Sale la FE, delante de todos, con una cruz verde, y después el REY, con un haz de leña, y todos los músicos y demás compañeros con sus haces al hombro.</stage>
+          <stage>Sale la FE, delante de todos, con una cruz verde, y después el REY, con un haz de
+            leña, y todos los músicos y demás compañeros con sus haces al hombro.</stage>
           <sp who="#fe">
             <speaker>FE</speaker>
             <l>Mortales, pues os enseña</l>
@@ -2802,7 +2840,8 @@
             <l>es la lumbre de su Fe,</l>
             <l>¿qué mucho que digáis que...</l>
           </sp>
-          <sp who="#alcorán #rústico #caridad #apostasía #esperanza #fe #hebraísmo #isidro #leandro #músicos #religión-de-santo-domingo #rey #rústico #viejo">
+          <sp
+            who="#alcorán #rústico #caridad #apostasía #esperanza #fe #hebraísmo #isidro #leandro #músicos #religión-de-santo-domingo #rey #rústico #viejo">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>¡Viva la Fe y el albigense muera!</l>
           </sp>
@@ -2839,7 +2878,8 @@
             <l>esta obra y publicad,</l>
             <l>porque más la Fe lo advierta:</l>
           </sp>
-          <sp who="#alcorán #rústico #caridad #apostasía #esperanza #fe #hebraísmo #músicos #religión-de-santo-domingo #rey #rústico">
+          <sp
+            who="#alcorán #rústico #caridad #apostasía #esperanza #fe #hebraísmo #músicos #religión-de-santo-domingo #rey #rústico">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>¡Alerta al alto triunfo suyo, alerta!</l>
           </sp>
@@ -2847,7 +2887,8 @@
             <speaker>REY</speaker>
             <l n="1500">¡Alerta pues, y en encendida hoguera...</l>
           </sp>
-          <sp who="#alcorán #rústico #caridad #apostasía #esperanza #fe #hebraísmo #religión-de-santo-domingo #rey #rústico">
+          <sp
+            who="#alcorán #rústico #caridad #apostasía #esperanza #fe #hebraísmo #religión-de-santo-domingo #rey #rústico">
             <speaker>TODOS</speaker>
             <l>¡Viva la Fe y el albigense muera!</l>
           </sp>
@@ -3090,7 +3131,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="47">
-          <stage>Vase. Ábrese el carro, y vése en él el REY, sentado en una silla, escribiendo sobre un bufete en que habrá luces.</stage>
+          <stage>Vase. Ábrese el carro, y vése en él el REY, sentado en una silla, escribiendo sobre
+            un bufete en que habrá luces.</stage>
           <sp who="#rey">
             <speaker>REY</speaker>
             <l>Ya que en público, Señor,</l>
@@ -3132,7 +3174,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="48">
-          <stage>Tocan chirimías, quédase dormido y salen en otro carro SAN ISIDORO y SAN LEANDRO, vestidos de pontifical, con báculos pastorales.</stage>
+          <stage>Tocan chirimías, quédase dormido y salen en otro carro SAN ISIDORO y SAN LEANDRO,
+            vestidos de pontifical, con báculos pastorales.</stage>
           <sp who="#leandro">
             <speaker>LEANDRO</speaker>
             <l>Si para hablar a un prelado</l>
@@ -3426,7 +3469,8 @@
             <speaker>REY</speaker>
             <l part="I">¡Al arma, pues!</l>
           </sp>
-          <sp who="#isidro #leandro #caridad #fe #esperanza #viejo #rústico #religión-de-santo-domingo">
+          <sp
+            who="#isidro #leandro #caridad #fe #esperanza #viejo #rústico #religión-de-santo-domingo">
             <speaker>TODOS</speaker>
             <l part="F">¡Al arma, pues,</l>
             <l>a lograr en los triunfos de la Esperanza,</l>
@@ -3461,7 +3505,8 @@
             <l n="1850">mientras se pone su autor,</l>
             <l>siempre humilde a vuestros pies:</l>
           </sp>
-          <sp who="#isidro #leandro #caridad #fe #esperanza #viejo #rústico #religión-de-santo-domingo #músicos">
+          <sp
+            who="#isidro #leandro #caridad #fe #esperanza #viejo #rústico #religión-de-santo-domingo #músicos">
             <speaker>MÚSICA Y TODOS</speaker>
             <l>¡Ven, Fernando, ven</l>
             <l>a lograr en los triunfos de la Esperanza,</l>

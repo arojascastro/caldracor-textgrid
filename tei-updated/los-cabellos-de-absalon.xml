@@ -19,23 +19,29 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>Automatisch generiertes XML/TEI</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2021-09-01">
           <time when="20:49:05"/>
         </date>
         <idno type="quadramaX">Los cabellos de Absalón</idno>
-      <idno type="caldracor">los-cabellos-de-absalon</idno></publicationStmt>
+        <idno type="caldracor">los-cabellos-de-absalon</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/los-cabellos-de-absalon--0/html/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/los-cabellos-de-absalon--0/html/</idno>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Evangelina Rodríguez Cuadros, Madrid, Espasa-Calpe, 1989.</title>
+            <title>Edición digital a partir de la edición de Evangelina Rodríguez Cuadros, Madrid,
+              Espasa-Calpe, 1989.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -140,17 +146,33 @@
           <term source="dracor" type="genreTitle">comedia religiosa</term>
           <term source="#kroll" type="main">comedia religiosa</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1640"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1640"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -168,7 +190,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000129" passive="http://www.wikidata.org/entity/Q16493952"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000129"
+        passive="http://www.wikidata.org/entity/Q16493952"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -194,7 +217,8 @@
       <div type="act" n="1">
         <div type="scene" resp="#rojas" n="1">
           <head>Jornada I</head>
-          <stage>Tocan cajas, sale DAVID por una puerta, y por la otra ABSALÓN, SALOMÓN, TAMAR y AQUITOFEL.</stage>
+          <stage>Tocan cajas, sale DAVID por una puerta, y por la otra ABSALÓN, SALOMÓN, TAMAR y
+            AQUITOFEL.</stage>
           <sp who="#salomón">
             <speaker>SALOMÓN</speaker>
             <l> Vuelva felicemente, </l>
@@ -228,7 +252,8 @@
             <l> Queridas prendas mías,</l>
             <l> báculos vivos de mis luengos días,</l>
             <l> dadme todos los brazos.</l>
-            <stage>Abraza DAVID primero a SALOMÓN, después a ABSALÓN, después a ADONÍAS y a TAMAR.</stage>
+            <stage>Abraza DAVID primero a SALOMÓN, después a ABSALÓN, después a ADONÍAS y a
+              TAMAR.</stage>
             <l n="20"> Renuévese mi edad entre los lazos</l>
             <l> de dichas tan amadas, </l>
             <l> ¡Ay dulces prendas, por mí bien halladas!</l>
@@ -389,7 +414,8 @@
             <l> al príncipe se mira,</l>
             <l part="I"> sentado en una silla.</l>
           </sp>
-          <stage>Corriendo una cortina, se descubre AMÓN sentado en una silla arrimada a un bufete, y de la otra parte estará JONADAB.</stage>
+          <stage>Corriendo una cortina, se descubre AMÓN sentado en una silla arrimada a un bufete,
+            y de la otra parte estará JONADAB.</stage>
           <sp who="#tamar">
             <speaker>TAMAR</speaker>
             <l part="F"> ¿A quién no admira</l>
@@ -3734,7 +3760,8 @@
           <sp who="#absalón">
             <speaker>ABSALÓN</speaker>
             <l n="845"> Por dar venganza a Tamar.</l>
-            <stage>Descúbrese un mesa con un aparador de plata, y los manteles revueltos, AMÓN echado sobre ella con una servilleta, ensangrentado.</stage>
+            <stage>Descúbrese un mesa con un aparador de plata, y los manteles revueltos, AMÓN
+              echado sobre ella con una servilleta, ensangrentado.</stage>
             <l> Para ti, hermana, se ha hecho </l>
             <l> el convite: aqueste plato </l>
             <l> aunque de manjar ingrato, </l>
@@ -6115,7 +6142,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="34">
-          <stage>Vanse DAVID, SALOMÓN y ADONÍAS por un lado, JOAB, ENSAY y soldados por otro, y dentro tocan cajas, y dándose la batalla, se descubre ABSALÓN en un caballo.</stage>
+          <stage>Vanse DAVID, SALOMÓN y ADONÍAS por un lado, JOAB, ENSAY y soldados por otro, y
+            dentro tocan cajas, y dándose la batalla, se descubre ABSALÓN en un caballo.</stage>
           <sp who="#absalón">
             <speaker>ABSALÓN</speaker>
             <l> Fugitivos israelitas,</l>
@@ -6149,7 +6177,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="35">
-          <stage>Tocan clarines, y cajas, y se da la batalla, entrando y saliendo algunos, peleando.</stage>
+          <stage>Tocan clarines, y cajas, y se da la batalla, entrando y saliendo algunos,
+            peleando.</stage>
           <stage>Dentro.</stage>
           <sp who="#todos">
             <speaker>TODOS</speaker>
@@ -6186,7 +6215,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="36">
-          <stage>Da vueltas el caballo, tocan al arma, salen ENSAY, JOAB y soldados con lanzas.</stage>
+          <stage>Da vueltas el caballo, tocan al arma, salen ENSAY, JOAB y soldados con
+            lanzas.</stage>
           <stage>Dentro.</stage>
           <sp who="#todos">
             <speaker>TODOS</speaker>
@@ -6274,7 +6304,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="37">
-          <stage>Descúbrese ABSALÓN, como pendiente de los cabellos, con tres lanzas atravesadas.</stage>
+          <stage>Descúbrese ABSALÓN, como pendiente de los cabellos, con tres lanzas
+            atravesadas.</stage>
           <sp who="#absalón">
             <speaker>ABSALÓN</speaker>
             <l part="F"> ¡Yo muero,</l>

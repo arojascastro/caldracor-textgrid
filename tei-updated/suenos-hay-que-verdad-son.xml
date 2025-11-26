@@ -19,11 +19,15 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority>University of Tübingen, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <authority>University of Tübingen, Institute of Romance Languages and
+          Literatures</authority>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <date when="2019-05-03">
           <time when="10:48:36"/>
         </date>
@@ -34,13 +38,17 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">suenos-hay-que-verdad-son</idno></publicationStmt>
+        <idno type="caldracor">suenos-hay-que-verdad-son</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Biblioteca Virtual Miguel de Cervantes</name>
-          <idno type="URL">http://www.cervantesvirtual.com/obra-visor/suenos-hay-que-verdad-son--0/html/</idno>
+          <idno type="URL"
+            >http://www.cervantesvirtual.com/obra-visor/suenos-hay-que-verdad-son--0/html/</idno>
           <bibl type="originalSource">
-            <title>Texto crítico preparado por Michael D. McGaha procedente de la edición Calderón de la Barca, Pedro, Sueños hay que verdad son, ed. Michael D. McGaha, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 1997. ISBN: 3-931887-00-6.</title>
+            <title>Texto crítico preparado por Michael D. McGaha procedente de la edición Calderón
+              de la Barca, Pedro, Sueños hay que verdad son, ed. Michael D. McGaha, Pamplona–Kassel,
+              Universidad de Navarra–Reichenberger, 1997. ISBN: 3-931887-00-6.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -146,17 +154,33 @@
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
         <classCode scheme="http://www.wikidata.org/entity/">Q4877154</classCode>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date when="1670"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date when="1670"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -171,7 +195,8 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/cal000053" passive="http://www.wikidata.org/entity/Q69031569"/>
+      <relation name="wikidata" active="https://dracor.org/entity/cal000053"
+        passive="http://www.wikidata.org/entity/Q69031569"/>
     </listRelation>
   </standOff>
   <text xml:lang="es">
@@ -332,7 +357,8 @@
             <l part="I">¡Ah del calabozo!</l>
             <stage>Dentro.</stage>
           </sp>
-          <sp who="#aser #neftalí #manasés #leví #isacar #asenet #rubén #judás #benjamín #gad #simeón #josef #jacob #bato #sombra-1 #sombra-2 #la-fe #panadero #alcaide #zabulón #rey #copero">
+          <sp
+            who="#aser #neftalí #manasés #leví #isacar #asenet #rubén #judás #benjamín #gad #simeón #josef #jacob #bato #sombra-1 #sombra-2 #la-fe #panadero #alcaide #zabulón #rey #copero">
             <speaker>TODOS</speaker>
             <l part="F"> ¿Quién </l>
             <l part="I">es quien llama?</l>
@@ -831,7 +857,10 @@
             <l>iguales son lo que les dura el sueño.</l>
             <stage>Canción</stage>
           </sp>
-          <stage>Recuéstanse los dos, divididos: el COPERO en el carro donde está el bofetón en que ha de salir la SOMBRA que ha de venir debajo de la vid; y el PANADERO debajo del que ha de traer la SOMBRA de las aves y canastillos de pan; y dando vuelta ambos bofetones encontrados, cantan:</stage>
+          <stage>Recuéstanse los dos, divididos: el COPERO en el carro donde está el bofetón en que
+            ha de salir la SOMBRA que ha de venir debajo de la vid; y el PANADERO debajo del que ha
+            de traer la SOMBRA de las aves y canastillos de pan; y dando vuelta ambos bofetones
+            encontrados, cantan:</stage>
           <sp who="#sombra-1">
             <speaker>SOMBRA 1</speaker>
             <l>El pan que del rocío</l>
@@ -886,7 +915,8 @@
             <speaker>SOMBRA 2</speaker>
             <l>...pues si en gracia le bebe, es de los cielos!</l>
           </sp>
-          <sp who="#aser #neftalí #manasés #leví #isacar #asenet #rubén #judás #benjamín #gad #simeón #josef #jacob #bato #sombra-1 #sombra-2 #la-fe #alcaide #zabulón #rey #música">
+          <sp
+            who="#aser #neftalí #manasés #leví #isacar #asenet #rubén #judás #benjamín #gad #simeón #josef #jacob #bato #sombra-1 #sombra-2 #la-fe #alcaide #zabulón #rey #música">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Dormid, dormid, mortales,</l>
             <l>que el grande y el pequeño</l>
@@ -1164,7 +1194,8 @@
             <l part="F"> Entre ambos hoy </l>
             <l part="I">tengo de morir.</l>
           </sp>
-          <stage>Al irse a embestir, se pone JOSEF en medio, deteniendo al uno con una mano y al otro con la otra; se detienen los dos, mirándole suspensos.</stage>
+          <stage>Al irse a embestir, se pone JOSEF en medio, deteniendo al uno con una mano y al
+            otro con la otra; se detienen los dos, mirándole suspensos.</stage>
           <sp who="#panadero #copero">
             <speaker>LOS DOS</speaker>
             <l part="F"> ¿Qué es esto? </l>
@@ -1417,7 +1448,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="16">
-          <stage>Ábrese el carro, y haciendo en el aire tablado y vestuario, sale JACOB, viejo venerable, con BENJAMÍN, de zagal.</stage>
+          <stage>Ábrese el carro, y haciendo en el aire tablado y vestuario, sale JACOB, viejo
+            venerable, con BENJAMÍN, de zagal.</stage>
           <sp who="#jacob">
             <speaker>JACOB</speaker>
             <l>¡Cuánto, hermoso Benjamín,</l>
@@ -1474,7 +1506,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="17">
-          <stage>Salen los dichos hablando aparte. Traen envuelto en un tafetán una tunicela roja, y ellos de pastores.</stage>
+          <stage>Salen los dichos hablando aparte. Traen envuelto en un tafetán una tunicela roja, y
+            ellos de pastores.</stage>
           <sp who="#rubén">
             <speaker>RUBÉN</speaker>
             <l n="780" part="F"> Pena dura </l>
@@ -1702,7 +1735,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="22">
-          <stage>Vanse, y sale por una parte ASENET, dama, y todos -músicos, hombres y mujeres con ella- y empezando a cantar, sale el REY por otra parte, paseándose suspenso.</stage>
+          <stage>Vanse, y sale por una parte ASENET, dama, y todos -músicos, hombres y mujeres con
+            ella- y empezando a cantar, sale el REY por otra parte, paseándose suspenso.</stage>
           <sp who="#asenet">
             <speaker>ASENET</speaker>
             <l>¿Quién es aquel que, cabiendo</l>
@@ -2034,7 +2068,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="24">
-          <stage>Éntranse todos, llevándose al REY en medio JOSEF y ASENET, y todos echan los mantos en el suelo al pasar; y sale por otra parte el SUEÑO.</stage>
+          <stage>Éntranse todos, llevándose al REY en medio JOSEF y ASENET, y todos echan los mantos
+            en el suelo al pasar; y sale por otra parte el SUEÑO.</stage>
           <sp who="#sueño">
             <speaker>SUEÑO</speaker>
             <l n="1075" part="F"> ¿Bendito sea el que viene</l>
@@ -2192,7 +2227,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="26">
-          <stage>Vanse los dos, y salen RUBÉN, JUDAS, ISACAR, ZABULÓN, GAD, ASER, NEFTALÍ, MANASÉS, SIMEÓN, y LEVÍ, de pastores.</stage>
+          <stage>Vanse los dos, y salen RUBÉN, JUDAS, ISACAR, ZABULÓN, GAD, ASER, NEFTALÍ, MANASÉS,
+            SIMEÓN, y LEVÍ, de pastores.</stage>
           <sp who="#rubén">
             <speaker>RUBÉN</speaker>
             <l part="F"> Pues ya miramos </l>
@@ -2329,7 +2365,8 @@
             <l>procurando mi favor.</l>
             <stage>Romance a-oQuintilla</stage>
           </sp>
-          <sp who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #copero #josef #música">
+          <sp
+            who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #copero #josef #música">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>El pan nuestro de cada día,</l>
             <l>dánosle hoy, señor.</l>
@@ -3127,8 +3164,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="35">
-          <stage>Vase el COPERO. Salen los hermanos, BENJAMÍN con ellos, y BATO, villano rústico.</stage>
-          <sp who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #bato #benjamín">
+          <stage>Vase el COPERO. Salen los hermanos, BENJAMÍN con ellos, y BATO, villano
+            rústico.</stage>
+          <sp
+            who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #bato #benjamín">
             <speaker>TODOS</speaker>
             <l>Danos, gran señor, tus plantas.</l>
           </sp>
@@ -3328,7 +3367,8 @@
             <l>que a mi mesa os sentéis todos.</l>
             <l part="I">¿Qué os detiene?</l>
           </sp>
-          <sp who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #benjamín #bato">
+          <sp
+            who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #benjamín #bato">
             <speaker>TODOS</speaker>
             <l part="F"> Tu respecto. </l>
           </sp>
@@ -3499,7 +3539,8 @@
             <l>Todos habéis de pagar</l>
             <l part="I">su culpa.</l>
           </sp>
-          <sp who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #jacob #benjamín">
+          <sp
+            who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #jacob #benjamín">
             <speaker>TODOS</speaker>
             <l part="F"> Mirad primero... </l>
           </sp>
@@ -3507,7 +3548,8 @@
             <speaker>BENJAMÍN</speaker>
             <l>¡Ay, infelice de mí!</l>
           </sp>
-          <sp who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #jacob #benjamín">
+          <sp
+            who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #jacob #benjamín">
             <speaker>TODOS</speaker>
             <l part="I">...que, aunque pastores...</l>
           </sp>
@@ -3542,7 +3584,8 @@
             <l>atención. Pues ¿mi festejo</l>
             <l part="I">y mi agasajo?</l>
           </sp>
-          <sp who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #bato #jacob #benjamín #asenet">
+          <sp
+            who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #bato #jacob #benjamín #asenet">
             <speaker>TODOS</speaker>
             <l part="F"> ¡Señor! </l>
           </sp>
@@ -3618,7 +3661,8 @@
             <l n="1935">vosotros sin él, pues él</l>
             <l part="I">mi esclavo queda.</l>
           </sp>
-          <sp who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #bato #jacob #asenet">
+          <sp
+            who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #bato #jacob #asenet">
             <speaker>TODOS</speaker>
             <l part="F"> Primero </l>
             <l>que sin Benjamín volvamos</l>
@@ -3673,7 +3717,8 @@
             <l n="1955">...nuestra muerte en este cáliz</l>
             <l>que está de amargura lleno...</l>
           </sp>
-          <sp who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #bato #jacob #asenet">
+          <sp
+            who="#leví #simeón #manasés #neftalí #aser #gad #zabulón #isacar #judás #rubén #bato #jacob #asenet">
             <speaker>TODOS</speaker>
             <l>...antes que sin Benjamín</l>
             <l part="I">volver.</l>
@@ -3734,7 +3779,8 @@
             <speaker>OTROS</speaker>
             <l part="F"> ...y de suspensos, </l>
           </sp>
-          <sp who="#leví #simeón #manasés #neftalí #aser #benjamín #gad #zabulón #isacar #judás #rubén #jacob">
+          <sp
+            who="#leví #simeón #manasés #neftalí #aser #benjamín #gad #zabulón #isacar #judás #rubén #jacob">
             <speaker>TODOS</speaker>
             <l>...no sabemos qué decirte.</l>
           </sp>
@@ -3879,7 +3925,8 @@
             <l>en quien muerte y vida da,</l>
             <l n="2060">se explicarán, repitiendo:</l>
           </sp>
-          <stage>Aparecen las dos primeras SOMBRAS, de gala, en el carro del abanico, elevadas en el aire.</stage>
+          <stage>Aparecen las dos primeras SOMBRAS, de gala, en el carro del abanico, elevadas en el
+            aire.</stage>
           <sp who="#sombra-1">
             <speaker>SOMBRA 1</speaker>
             <l>El pan, a quien devoraron</l>
@@ -3915,7 +3962,10 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="44">
-          <stage>Descúbrese en un carro un altar, con sacrificio de panes; y al decir los versos de arriba, da vuelta el escotillón, y vese una Forma grande; y en otro carro, un sacrificio de vino; y dando vuelta, se descubre un cáliz, y la FE, elevada entre las dos SOMBRAS.</stage>
+          <stage>Descúbrese en un carro un altar, con sacrificio de panes; y al decir los versos de
+            arriba, da vuelta el escotillón, y vese una Forma grande; y en otro carro, un sacrificio
+            de vino; y dando vuelta, se descubre un cáliz, y la FE, elevada entre las dos
+            SOMBRAS.</stage>
           <sp who="#la-fe">
             <speaker>FE</speaker>
             <l n="2075">Yo lo aseguro, que soy</l>

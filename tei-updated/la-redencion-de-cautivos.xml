@@ -17,11 +17,14 @@
         </author>
         <respStmt>
           <resp>Data curation (cleaning, normalization and scene division)</resp>
-          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"><forename>Antonio</forename><surname>Rojas Castro</surname></persName></respStmt>
+          <persName xml:id="rojas" corresp="https://orcid.org/0000-0002-8916-4997"
+              ><forename>Antonio</forename><surname>Rojas Castro</surname></persName>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
         <authority>University of Vienna, Institute of Romance Languages and Literatures</authority>
-        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic OEuvre with a Computational Approach (508056339)</publisher>
+        <publisher xml:id="dracor">Tracing Regularities in Pedro Calderón de la Barca's Dramatic
+          OEuvre with a Computational Approach (508056339)</publisher>
         <idno type="URL">https://dracor.org</idno>
         <date when="2022-02-04">
           <time when="12:18:56"/>
@@ -33,13 +36,15 @@
             <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
           </licence>
         </availability>
-      <idno type="caldracor">la-redencion-de-cautivos</idno></publicationStmt>
+        <idno type="caldracor">la-redencion-de-cautivos</idno>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <name/>
           <idno type="URL"/>
           <bibl type="originalSource">
-            <title>Edición digital a partir de la edición de Marcella Trambaioli, Pamplona–Kassel, Universidad de Navarra–Reichenberger, 2013. ISBN: 978-3-944244-11-2.</title>
+            <title>Edición digital a partir de la edición de Marcella Trambaioli, Pamplona–Kassel,
+              Universidad de Navarra–Reichenberger, 2013. ISBN: 978-3-944244-11-2.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -96,17 +101,33 @@
           <term source="dracor" type="genreTitle">auto sacramental</term>
           <term source="#kroll" type="main">auto sacramental</term>
         </keywords>
-      <keywords scheme="http://uri.gbv.de/terminology/bk/"><term type="basicClassification" key="17.97">Texts by a single author</term><term type="basicClassification" key="18.30">Spanish language and literature</term></keywords><keywords scheme="https://d-nb.info/gnd/"><term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term></keywords><keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre"><term type="genre-tg">drama</term></keywords></textClass>
-    <langUsage><language ident="spa">Spanish</language></langUsage><creation><date notBefore="1670" notAfter="1677"/></creation></profileDesc>
+        <keywords scheme="http://uri.gbv.de/terminology/bk/">
+          <term type="basicClassification" key="17.97">Texts by a single author</term>
+          <term type="basicClassification" key="18.30">Spanish language and literature</term>
+        </keywords>
+        <keywords scheme="https://d-nb.info/gnd/">
+          <term type="testament" ref="http://d-nb.info/gnd/4304080-9">Theaterstück</term>
+        </keywords>
+        <keywords scheme="http://textgrid.info/namespaces/metadata/core/2010#genre">
+          <term type="genre-tg">drama</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="spa">Spanish</language>
+      </langUsage>
+      <creation><date notBefore="1670" notAfter="1677"/></creation>
+    </profileDesc>
     <encodingDesc>
       <classDecl>
         <taxonomy xml:id="kroll">
-          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
+          <bibl>Kroll, Simon. Sonido y afecto en Calderón: un estudio de las asonancias. Teatro del
+            siglo de oro. Estudios de literatura 145. Kassel: Edition Reichenberger, 2022.</bibl>
         </taxonomy>
       </classDecl>
       <classDecl>
         <taxonomy xml:id="calderondigital">
-          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700. Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
+          <bibl>«Calderón Digital». Dir. Fausta Antonucci. Roma: Proyecto TeSpa 1570-1700.
+            Università di Roma, 2017. https://calderondigital.tespasiglodeoro.it/.</bibl>
         </taxonomy>
       </classDecl>
     </encodingDesc>
@@ -149,7 +170,9 @@
     <body>
       <div type="act">
         <div type="scene" resp="#rojas" n="1">
-          <stage>Suena un clarín en el primer carro, que será una galera, y dando vuelta al tablado se verá en supopa el Furor, y a uno y otro costado, puestos alremo, algunos cautivos, y entre ellos el Género Humano, Viejo.</stage>
+          <stage>Suena un clarín en el primer carro, que será una galera, y dando vuelta al tablado
+            se verá en supopa el Furor, y a uno y otro costado, puestos alremo, algunos cautivos, y
+            entre ellos el Género Humano, Viejo.</stage>
           <sp who="#furor">
             <speaker>FUROR</speaker>
             <l>Si el real profeta, en mística armonía,</l>
@@ -792,7 +815,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="5">
-          <stage>Representa el Género Humano, y repiten todoscantando, y sale la Gracia, como oyendo a lo lejos.</stage>
+          <stage>Representa el Género Humano, y repiten todoscantando, y sale la Gracia, como oyendo
+            a lo lejos.</stage>
           <sp who="#genero-humano">
             <speaker>GÉNERO HUMANO</speaker>
             <l>Cautivo el Género Humano.</l>
@@ -1201,7 +1225,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="8">
-          <stage>Vase Gracia, y salen Daniel, el Género Humano, y los demás, cada uno por su puerta.</stage>
+          <stage>Vase Gracia, y salen Daniel, el Género Humano, y los demás, cada uno por su
+            puerta.</stage>
           <sp who="#genero-humano">
             <speaker>GÉNERO HUMANO</speaker>
             <l n="765">¿Qué ignorados acentos…</l>
@@ -1335,7 +1360,8 @@
             <l n="825">Y digan nuestras oraciones</l>
             <l>para aliviar el quebranto:</l>
           </sp>
-          <sp who="#tierra #gabriel #gracia #joseph #noe #daniel #isaac #abel #genero-humano #musicos">
+          <sp
+            who="#tierra #gabriel #gracia #joseph #noe #daniel #isaac #abel #genero-humano #musicos">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Santo, Santo, Santo.</l>
           </sp>
@@ -1352,7 +1378,8 @@
             <l>La sombra de la luz huya,</l>
             <l>diciendo al correr el manto:</l>
           </sp>
-          <sp who="#tierra #gabriel #gracia #joseph #noe #daniel #abel #musicos #isaac #genero-humano">
+          <sp
+            who="#tierra #gabriel #gracia #joseph #noe #daniel #abel #musicos #isaac #genero-humano">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>Santo, Santo, Santo.</l>
           </sp>
@@ -1360,7 +1387,8 @@
             <speaker>ABEL</speaker>
             <l n="835">¡Hosanna!, diga el clamor.</l>
           </sp>
-          <sp who="#tierra #gabriel #gracia #joseph #noe #daniel #musicos #isaac #genero-humano #abel">
+          <sp
+            who="#tierra #gabriel #gracia #joseph #noe #daniel #musicos #isaac #genero-humano #abel">
             <speaker>TODOS</speaker>
             <l part="I">¡Hosanna!</l>
           </sp>
@@ -1368,7 +1396,8 @@
             <speaker>ISAAC</speaker>
             <l part="F">Y pues su favor…</l>
           </sp>
-          <sp who="#tierra #gabriel #gracia #joseph #noe #daniel #musicos #genero-humano #abel #isaac">
+          <sp
+            who="#tierra #gabriel #gracia #joseph #noe #daniel #musicos #genero-humano #abel #isaac">
             <speaker>TODOS</speaker>
             <l part="I">¡Hosanna!</l>
           </sp>
@@ -1376,7 +1405,8 @@
             <speaker>ABEL</speaker>
             <l part="F">…celestial nuncio previene.</l>
           </sp>
-          <sp who="#tierra #gabriel #gracia #joseph #noe #daniel #musicos #genero-humano #isaac #abel">
+          <sp
+            who="#tierra #gabriel #gracia #joseph #noe #daniel #musicos #genero-humano #isaac #abel">
             <speaker>TODOS</speaker>
             <l part="I">¡Hosanna!</l>
           </sp>
@@ -1385,7 +1415,8 @@
             <l part="F">¡Bendito sea el que viene</l>
             <l>en el nombre del Señor!</l>
           </sp>
-          <sp who="#tierra #gabriel #gracia #joseph #noe #daniel #musicos #genero-humano #abel #isaac">
+          <sp
+            who="#tierra #gabriel #gracia #joseph #noe #daniel #musicos #genero-humano #abel #isaac">
             <speaker>TODOS</speaker>
             <l n="840">¡Bendito sea el que viene</l>
             <l>en el Nombre del Señor!</l>
@@ -1393,7 +1424,8 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="9">
-          <stage>Sale el Furor, y asústanse todos, y maltratándolos los encierra en una cueva, que tendrá una reja.</stage>
+          <stage>Sale el Furor, y asústanse todos, y maltratándolos los encierra en una cueva, que
+            tendrá una reja.</stage>
           <sp who="#furor">
             <speaker>FUROR</speaker>
             <l part="F">¿De mi furor</l>
@@ -1414,7 +1446,8 @@
             <l>Sí haremos, pues padecemos</l>
             <l n="855">el furor de nuestro hado.</l>
           </sp>
-          <sp who="#gabriel #gracia #joseph #noe #daniel #musicos #abel #isaac #furor #genero-humano">
+          <sp
+            who="#gabriel #gracia #joseph #noe #daniel #musicos #abel #isaac #furor #genero-humano">
             <speaker>TODOS</speaker>
             <l>Mas no porque en este estado</l>
             <l>cautivos tuyos nos vemos</l>
@@ -1424,7 +1457,8 @@
             <speaker>FUROR</speaker>
             <l>¿A quién en tormento tanto?</l>
           </sp>
-          <sp who="#gabriel #gracia #joseph #noe #daniel #musicos #abel #isaac #genero-humano #furor">
+          <sp
+            who="#gabriel #gracia #joseph #noe #daniel #musicos #abel #isaac #genero-humano #furor">
             <speaker>TODOS</speaker>
             <l n="860">Al que es Santo, Santo, Santo.</l>
           </sp>
@@ -1441,7 +1475,8 @@
             <speaker>FUROR</speaker>
             <l>¿Qué hay que decir sobre Santo?</l>
           </sp>
-          <sp who="#gabriel #gracia #joseph #noe #daniel #musicos #abel #isaac #genero-humano #furor">
+          <sp
+            who="#gabriel #gracia #joseph #noe #daniel #musicos #abel #isaac #genero-humano #furor">
             <speaker>TODOS</speaker>
             <l n="865">¡Hosanna in excelsis deo!</l>
           </sp>
@@ -1586,7 +1621,9 @@
           </sp>
         </div>
         <div type="scene" resp="#rojas" n="12">
-          <stage>Sale la Gracia cantando en estilo recitativo o tonada corrida, punto por letra, y como va cantandova el Furor haciendo estremos de sentimiento, y la Tierra de alegría.</stage>
+          <stage>Sale la Gracia cantando en estilo recitativo o tonada corrida, punto por letra, y
+            como va cantandova el Furor haciendo estremos de sentimiento, y la Tierra de
+            alegría.</stage>
           <sp who="#gracia">
             <speaker>GRACIA</speaker>
             <l>Venga a noticia de cuantos</l>
@@ -1742,7 +1779,8 @@
             <l part="I">con que mi rencor…</l>
           </sp>
           <stage>En la nave Emanuel, Gabriel, la Inocencia, y otros.</stage>
-          <sp who="#emanuel #joseph #noe #daniel #abel #isaac #genero-humano #musicos #gracia #tierra #furor">
+          <sp
+            who="#emanuel #joseph #noe #daniel #abel #isaac #genero-humano #musicos #gracia #tierra #furor">
             <speaker>EMANUEL Y TODOS</speaker>
             <l part="F">¡Amaina,</l>
             <l>Furor, de contrarios vientos</l>
@@ -1772,7 +1810,8 @@
             <speaker>FUROR</speaker>
             <l part="I">¡Vuelve a oír!</l>
           </sp>
-          <sp who="#emanuel #joseph #noe #daniel #abel #isaac #genero-humano #musicos #gracia #tierra #furor">
+          <sp
+            who="#emanuel #joseph #noe #daniel #abel #isaac #genero-humano #musicos #gracia #tierra #furor">
             <speaker>TODOS</speaker>
             <l part="F">¡Amaina, amaina!</l>
           </sp>
@@ -1807,7 +1846,8 @@
             <l>de que su abrigo me impidan,</l>
             <l>ni el aire, ni el mar, ni el fuego.</l>
           </sp>
-          <sp who="#noe #daniel #abel #isaac #genero-humano #musicos #gracia #tierra #furor #inocencia #gabriel #emanuel">
+          <sp
+            who="#noe #daniel #abel #isaac #genero-humano #musicos #gracia #tierra #furor #inocencia #gabriel #emanuel">
             <speaker>TODOS</speaker>
             <l part="I">¡A tierra, a tierra!</l>
           </sp>
@@ -2037,7 +2077,8 @@
             <l>que nos trae algún consuelo,</l>
             <l>pues dicen sus luces puras:</l>
           </sp>
-          <sp who="#daniel #abel #isaac #inocencia #gabriel #emanuel #musicos #tierra #gracia #genero-humano #noe">
+          <sp
+            who="#daniel #abel #isaac #inocencia #gabriel #emanuel #musicos #tierra #gracia #genero-humano #noe">
             <speaker>TODOS Y MÚSICA</speaker>
             <l n="1210">¡Gloria a Dios en las alturas</l>
             <l>y paz al hombre en el suelo!</l>
@@ -2065,7 +2106,8 @@
             <l>vuestras ansias den al cielo</l>
             <l n="1225">gracias de vuestras venturas.</l>
           </sp>
-          <sp who="#daniel #abel #isaac #inocencia #gabriel #emanuel #musicos #tierra #noe #genero-humano #gracia">
+          <sp
+            who="#daniel #abel #isaac #inocencia #gabriel #emanuel #musicos #tierra #noe #genero-humano #gracia">
             <speaker>TODOS</speaker>
             <l>Siempre dirá nuestro celo:</l>
           </sp>
@@ -2661,7 +2703,8 @@
             <l>a nunca más ver la luz</l>
             <l>habéis de morir viviendo.</l>
           </sp>
-          <sp who="#musicos #emanuel #genero-humano #gabriel #inocencia #tierra #abel #daniel #joseph #noe #gracia">
+          <sp
+            who="#musicos #emanuel #genero-humano #gabriel #inocencia #tierra #abel #daniel #joseph #noe #gracia">
             <speaker>TODOS</speaker>
             <l>Vivir muriendo dirás,</l>
             <l>pues, ya en Emanuel sabemos</l>
@@ -2815,7 +2858,8 @@
             <l>pasando tú al diestro lado</l>
             <l>y pasando tú al siniestro.</l>
           </sp>
-          <stage>Truecan los lugares el Furor y Adán, y queda Emanuel estendiendo los brazos arrimado a la cruz.</stage>
+          <stage>Truecan los lugares el Furor y Adán, y queda Emanuel estendiendo los brazos
+            arrimado a la cruz.</stage>
           <sp who="#genero-humano">
             <speaker>GÉNERO HUMANO</speaker>
             <l>¡Qué no merecida dicha!</l>
@@ -2937,7 +2981,8 @@
             <l part="I">su venida.</l>
           </sp>
           <stage>Dentro.</stage>
-          <sp who="#abel #joseph #isaac #gabriel #inocencia #genero-humano #emanuel #gracia #tierra #noe #daniel">
+          <sp
+            who="#abel #joseph #isaac #gabriel #inocencia #genero-humano #emanuel #gracia #tierra #noe #daniel">
             <speaker>TODOS</speaker>
             <l part="F">Sea aplaudiendo.</l>
             <stage>Dentro Música.</stage>
@@ -3097,7 +3142,8 @@
             <l>pues ahora basta que diga</l>
             <l>su triunfo en confusos ecos.</l>
           </sp>
-          <sp who="#joseph #isaac #gabriel #inocencia #noe #daniel #emanuel #genero-humano #gracia #musicos #furor #tierra">
+          <sp
+            who="#joseph #isaac #gabriel #inocencia #noe #daniel #emanuel #genero-humano #gracia #musicos #furor #tierra">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>¡Por siglos de siglos viva</l>
             <l>redentor, que con tan nueva</l>
@@ -3105,7 +3151,8 @@
             <l>la cautividad cautiva!</l>
             <l>¡Viva, viva!</l>
           </sp>
-          <stage>Van saliendo Emanuel, vestido de resurrección, ytodos los cautivos con las insignias de Trinidad yMerced, con sus mantos de cautivos.</stage>
+          <stage>Van saliendo Emanuel, vestido de resurrección, ytodos los cautivos con las
+            insignias de Trinidad yMerced, con sus mantos de cautivos.</stage>
           <sp who="#gracia">
             <speaker>GRACIA</speaker>
             <l>Cautivo el Género Humano</l>
@@ -3132,7 +3179,8 @@
             <l>A merced de compasiva</l>
             <l n="1785">Gracia, que de amor es prueba…</l>
           </sp>
-          <sp who="#noe #daniel #emanuel #genero-humano #musicos #furor #tierra #gabriel #isaac #abel #joseph #gracia">
+          <sp
+            who="#noe #daniel #emanuel #genero-humano #musicos #furor #tierra #gabriel #isaac #abel #joseph #gracia">
             <speaker>TODOS</speaker>
             <l>…consigo a su reino lleva</l>
             <l>la cautividad cautiva.</l>
@@ -3232,7 +3280,8 @@
             <speaker>MÚSICA</speaker>
             <l>¿Quién nuestro príncipe es?</l>
           </sp>
-          <sp who="#noe #daniel #genero-humano #tierra #gabriel #isaac #abel #joseph #gracia #nino #furor #emanuel #musicos">
+          <sp
+            who="#noe #daniel #genero-humano #tierra #gabriel #isaac #abel #joseph #gracia #nino #furor #emanuel #musicos">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>El que es de las lides dueño</l>
             <l>y señor de las virtudes,</l>
@@ -3245,7 +3294,8 @@
             <l>Nuestros yerros perdonando</l>
             <l>y todos con él diciendo:</l>
           </sp>
-          <sp who="#noe #daniel #tierra #gabriel #isaac #abel #joseph #gracia #nino #furor #emanuel #musicos #genero-humano">
+          <sp
+            who="#noe #daniel #tierra #gabriel #isaac #abel #joseph #gracia #nino #furor #emanuel #musicos #genero-humano">
             <speaker>TODOS Y MÚSICA</speaker>
             <l>¡Por siglos de siglos viva</l>
             <l n="1845">redentor, que con tan nueva</l>
